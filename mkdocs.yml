@@ -1,0 +1,82 @@
+site_name: Santiago Tobón
+site_url: https://santiagotobon.co
+site_description: "Political economist at EAFIT University. Research on public policy, institutional design, and the economics of illicit markets."
+site_author: Santiago Tobón
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Source Sans 3
+    code: Source Code Pro
+  icon:
+    logo: material/school
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Research:
+    - Publications: research/publications.md
+    - Working papers: research/working-papers.md
+    - Book chapters & earlier work: research/book-chapters.md
+    - Data & replication: research/data.md
+  - Centro de Valor Público: centro.md
+  - Book: book.md
+  - Writing & Media:
+    - Policy writing: writing/policy.md
+    - Blog posts: writing/blog-posts.md
+    - Podcasts: writing/podcasts.md
+  - About: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en
+      name: Google Scholar
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/santiagotobon
+      name: X / Twitter
+    - icon: fontawesome/solid/envelope
+      link: mailto:stobonz@eafit.edu.co
+      name: Email
+
+copyright: Santiago Tobón · Universidad EAFIT · Medellín, Colombia

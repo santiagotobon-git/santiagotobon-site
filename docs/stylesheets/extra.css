@@ -1,0 +1,187 @@
+/* Navy + Amber palette for Santiago Tobón */
+
+/* Primary: Deep Navy */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1B2A4A;
+  --md-primary-fg-color--light: #2A3F6B;
+  --md-primary-fg-color--dark: #111C33;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #ffffffb3;
+
+  /* Accent: Amber */
+  --md-accent-fg-color: #C17A15;
+  --md-accent-fg-color--transparent: #C17A1520;
+  --md-accent-bg-color: #ffffff;
+  --md-accent-bg-color--light: #ffffffb3;
+
+  /* Typeset tweaks */
+  --md-typeset-color: #2C2C2A;
+  --md-typeset-a-color: #1B2A4A;
+}
+
+/* Dark mode adjustments */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1B2A4A;
+  --md-primary-fg-color--light: #2A3F6B;
+  --md-primary-fg-color--dark: #111C33;
+
+  --md-accent-fg-color: #EF9F27;
+  --md-accent-fg-color--transparent: #EF9F2720;
+}
+
+/* Active tab indicator uses amber */
+.md-tabs__link--active,
+.md-tabs__link:is(:focus, :hover) {
+  color: #EF9F27 !important;
+}
+
+/* Navigation sidebar active item */
+.md-nav__link--active {
+  color: #1B2A4A !important;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: #EF9F27 !important;
+}
+
+/* Home page hero section */
+.hero {
+  padding: 2rem 0 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.hero .subtitle {
+  font-size: 1.1rem;
+  color: #5f5e5a;
+  line-height: 1.7;
+}
+
+/* Card grid for homepage sections */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.card-grid .card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: border-color 0.2s;
+}
+
+.card-grid .card:hover {
+  border-color: #1B2A4A;
+}
+
+.card-grid .card h3 {
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.card-grid .card p {
+  font-size: 0.85rem;
+  color: #5f5e5a;
+  margin: 0 0 0.75rem;
+  line-height: 1.6;
+}
+
+.card-grid .card .card-link {
+  font-size: 0.8rem;
+  color: #C17A15;
+  font-weight: 500;
+}
+
+/* Publication entries */
+.pub-entry {
+  padding: 1rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-entry .pub-title {
+  font-weight: 600;
+  color: #1B2A4A;
+}
+
+.pub-entry .pub-venue {
+  font-style: italic;
+  color: #5f5e5a;
+}
+
+.pub-entry .pub-links {
+  margin-top: 0.25rem;
+  font-size: 0.85rem;
+}
+
+.pub-entry .pub-links a {
+  color: #C17A15;
+  margin-right: 0.75rem;
+}
+
+/* Affiliations badges */
+.affiliations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.affiliations .badge {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  background: #f5f5f0;
+  color: #5f5e5a;
+  border: 1px solid #e8e8e3;
+}
+
+/* Latest section on homepage */
+.latest-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.9rem;
+}
+
+.latest-item:last-child {
+  border-bottom: none;
+}
+
+.latest-item .latest-type {
+  font-size: 0.8rem;
+  color: #888780;
+  white-space: nowrap;
+  margin-left: 1rem;
+}
+
+/* Responsive: stack cards on small screens */
+@media (max-width: 600px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Project photos on Centro page */
+.project-photo {
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 0.5rem 0 0;
+}

@@ -1,0 +1,18 @@
+# Blog posts
+
+- [How conflict and illicit economies undermine fiscal stability in Colombia](https://www.wider.unu.edu/publication/how-conflict-and-illicit-economies-undermine-fiscal-stability-colombia), UNU-WIDER. (2024)
+- [Investing in prison quality: A cost-effective way to reduce recidivism](https://voxdev.org/topic/public-economics/investing-prison-quality-cost-effective-way-reduce-recidivism), VoxDev. (2023)
+- [State-building on the margin: An urban experiment in Medellín](https://voxdev.org/topic/institutions-political-economy/state-building-margin-urban-experiment-medellin), VoxDev (with Chris Blattman, Gustavo Duncan, and Ben Lessing). (2022)
+- [La paz posible con el crimen organizado](https://www.elespectador.com/judicial/analisis-la-paz-posible-con-el-crimen-organizado/), El Espectador. (2022)
+- [El terrible dilema para reducir la violencia organizada: El caso de Medellín](https://nadaesgratis.es/admin/el-terrible-dilema-para-reducir-la-violencia-organizada-el-caso-de-medellin), Nada es gratis. (2022)
+- [La especialización y el aprendizaje criminal en las cárceles](https://dev.focoeconomico.org/2022/04/21/la-especializacion-y-el-aprendizaje-criminal-en-las-carceles/), Foco Económico. (2022)
+- [Reflexiones sobre crimen y violencia](https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), speech after receiving the Juan Luis Londoño Medal 2020. (2021)
+- [Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública. (2020)
+- [COVID-19 y crimen: Los grandes retos en la pandemia](https://blogs.iadb.org/seguridad-ciudadana/es/covid-19-y-crimen-los-grandes-retos-en-la-pandemia/), Sin Miedos – Banco Interamericano de Desarrollo. (2020)
+- [Gobierno criminal: ¿Qué es y cómo enfrentarlo?](https://focoeconomico.org/2020/11/03/gobierno-criminal-que-es-y-como-contrarrestarlo/), Foco Económico. (2020)
+- [Colombia necesita más que una reforma policial](https://lasillavacia.com/silla-llena/red-social/colombia-necesita-mas-reforma-policial-77190), La Silla Vacía (with Isabel Gutiérrez). (2020)
+- [El COVID vuelve a abrir el debate sobre el salario mínimo](https://lasillavacia.com/silla-llena/red-social/covid-vuelve-abrir-debate-sobre-salario-minimo-76426), La Silla Vacía. (2020)
+- [Presos colombianos: Hacinados y sin salud](https://razonpublica.com/presos-colombianos-hacinados-y-sin-salud/), Razón Pública. (2016)
+- [De policía militarizada a policía comunitaria](https://razonpublica.com/de-policia-militarizada-a-policia-comunitaria/), Razón Pública (with Isabel Gutiérrez). (2016)
+- [Cárceles en Colombia: Un sistema que colapsó](https://razonpublica.com/carceles-en-colombia-un-sistema-que-colapso/), Razón Pública (with Isabel Gutiérrez). (2015)
+- [Política de drogas en Colombia: Congestión y corrupción, otras caras del fracaso](https://razonpublica.com/politica-de-drogas-en-colombia-congestion-y-corrupcion-otras-caras-del-fracaso/), Razón Pública (with Isabel Gutiérrez). (2015)
