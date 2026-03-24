@@ -3,10 +3,7 @@ hide:
   - toc
 ---
 
-<div class="hero-row">
-<div class="hero-photo">
-<img src="img/profile.jpg" alt="Santiago Tobón" class="profile-photo">
-</div>
+<div class="hero-header" markdown>
 <div class="hero-text" markdown>
 
 # Santiago Tobón
@@ -15,7 +12,15 @@ I study how organized crime operates — how criminal organizations govern commu
 
 I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
 
-In 2020, the Juan Luis Londoño committee [awarded me the Londoño Medal](https://www.fedesarrollo.org.co/es/content/premio-juan-luis-londono-2020), which recognizes Colombians under 40 whose research has shaped public policy.
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://www.fedesarrollo.org.co/es/content/premio-juan-luis-londono-2020), which recognizes Colombians under 40 whose research has shaped public policy.
+
+</div>
+<div class="hero-photo" markdown>
+
+![Santiago Tobón](img/profile.jpg)
+
+</div>
+</div>
 
 <div class="affiliations" markdown>
 <span class="badge">EAFIT</span>
@@ -25,12 +30,9 @@ In 2020, the Juan Luis Londoño committee [awarded me the Londoño Medal](https:
 <span class="badge">EGAP</span>
 </div>
 
-[:material-file-document: CV](https://www.dropbox.com/s/jc8cmsk5fk68qj0/SantiagoTobon_CV.pdf?dl=0){ .md-button }
-[:material-school: Google Scholar](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
-[:material-email: stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co){ .md-button }
-
-</div>
-</div>
+[CV :material-file-document:](https://www.dropbox.com/s/jc8cmsk5fk68qj0/SantiagoTobon_CV.pdf?dl=0){ .md-button }
+[Google Scholar :material-school:](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
+[stobonz@eafit.edu.co :material-email:](mailto:stobonz@eafit.edu.co){ .md-button }
 
 ---
 

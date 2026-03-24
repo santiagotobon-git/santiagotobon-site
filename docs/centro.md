@@ -83,7 +83,7 @@ The project changes the conditions that produce territorial underdevelopment rat
 
 ## Hogares Saludables
 
-**Partners:** Multiple (Colombia, Dominican Republic, Puerto Rico, Honduras, Panama)
+**Partner:** Cementos Argos
 
 Most housing interventions deliver materials. Hogares Saludables starts with the same physical objects — a concrete floor, a bathroom, a kitchen — but structures the process so that families learn to build, participate in every stage, and finish with ownership over their own transformation. The distinction matters because it determines whether the intervention produces a one-time transfer or a sustained change in household behavior.
 
