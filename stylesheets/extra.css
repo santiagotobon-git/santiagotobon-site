@@ -66,14 +66,47 @@
   line-height: 1.7;
 }
 
-/* Profile photo on homepage */
+/* Homepage hero: photo left, bio right */
+.hero-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.hero-photo {
+  flex-shrink: 0;
+}
+
 .profile-photo {
-  width: 180px;
-  height: 180px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin: 0 auto 1rem;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+}
+
+@media (max-width: 600px) {
+  .hero-row {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .hero-text h1 {
+    margin-top: 0.5rem;
+  }
+  .affiliations {
+    justify-content: center;
+  }
 }
 
 /* Card grid for homepage sections */
@@ -189,12 +222,62 @@
   }
 }
 
-/* Project photos on Centro page */
-.project-photo {
-  width: 100%;
-  max-width: 480px;
-  max-height: 320px;
+/* Centro project rows: photo left, text right */
+.project-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.project-img {
+  flex-shrink: 0;
+  width: 260px;
+}
+
+.project-img img {
+  width: 260px;
+  height: 260px;
   object-fit: cover;
   border-radius: 8px;
-  margin: 0.5rem 0 0;
+}
+
+.project-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.project-text h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .project-row {
+    flex-direction: column;
+  }
+  .project-img {
+    width: 100%;
+    max-width: 320px;
+  }
+  .project-img img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+  }
+}
+
+/* Dark mode: card hover border */
+[data-md-color-scheme="slate"] .card-grid .card:hover {
+  border-color: #EF9F27;
+}
+
+/* Dark mode: badge styling */
+[data-md-color-scheme="slate"] .affiliations .badge {
+  background: #2a2a2a;
+  color: #b0b0b0;
+  border-color: #404040;
+}
+
+/* Dark mode: pub title color */
+[data-md-color-scheme="slate"] .pub-entry .pub-title {
+  color: #e0e0e0;
 }
