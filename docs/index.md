@@ -3,9 +3,11 @@ hide:
   - toc
 ---
 
-<div class="hero-profile" markdown>
+<div class="hero-row">
+<div class="hero-photo">
 <img src="img/profile.jpg" alt="Santiago Tobón" class="profile-photo">
 </div>
+<div class="hero-text" markdown>
 
 # Santiago Tobón
 
@@ -26,6 +28,9 @@ In 2020, the Juan Luis Londoño committee [awarded me the Londoño Medal](https:
 [:material-file-document: CV](https://www.dropbox.com/s/jc8cmsk5fk68qj0/SantiagoTobon_CV.pdf?dl=0){ .md-button }
 [:material-school: Google Scholar](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
 [:material-email: stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co){ .md-button }
+
+</div>
+</div>
 
 ---
 

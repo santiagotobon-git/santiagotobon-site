@@ -8,6 +8,12 @@ The projects below illustrate what the Centro does and how it works.
 
 ---
 
+<div class="project-row" markdown>
+<div class="project-img">
+<img src="img/parceros.jpg" alt="Parceros Creadores">
+</div>
+<div class="project-text" markdown>
+
 ## Parceros Creadores
 
 **Partner:** Secretaría de Juventud de Medellín
@@ -20,9 +26,16 @@ In 2024, the Centro ran a randomized evaluation with roughly 1,500 youth compari
 
 The result is a government program that improves with each iteration because evaluation is built into the design — not appended after the fact.
 
-![Parceros Creadores](img/parceros.jpg){ .project-photo }
+</div>
+</div>
 
 ---
+
+<div class="project-row" markdown>
+<div class="project-img">
+<img src="img/cuidado.jpg" alt="Sistema del Cuidado">
+</div>
+<div class="project-text" markdown>
 
 ## Sistema del Cuidado de Antioquia
 
@@ -34,9 +47,16 @@ The Sistema del Cuidado intervenes at the structural level. Rather than compensa
 
 The design targets the institutional and cultural conditions that sustain gender inequality — not the symptoms. The expected effects accumulate over time: freed hours translate into labor market entry, which generates income, which shifts household bargaining power, which alters the distribution of care in the next generation.
 
-![Sistema del Cuidado](img/cuidado.jpg){ .project-photo }
+</div>
+</div>
 
 ---
+
+<div class="project-row" markdown>
+<div class="project-img">
+<img src="img/ocensa.jpg" alt="OCENSA">
+</div>
+<div class="project-text" markdown>
 
 ## Municipal strengthening along the OCENSA pipeline
 
@@ -50,9 +70,16 @@ The effects operate at two levels. At the institutional level, stronger municipa
 
 The project changes the conditions that produce territorial underdevelopment rather than compensating for its consequences.
 
-![OCENSA](img/ocensa.jpg){ .project-photo }
+</div>
+</div>
 
 ---
+
+<div class="project-row" markdown>
+<div class="project-img">
+<img src="img/hogares.jpg" alt="Hogares Saludables">
+</div>
+<div class="project-text" markdown>
 
 ## Hogares Saludables
 
@@ -64,7 +91,8 @@ The results confirm the mechanism. After the intervention, children fall sick le
 
 Hogares Saludables demonstrates that modifying a physical structure can shift health, social cohesion, and self-perception within a household — provided the process is designed to activate agency rather than deliver charity.
 
-![Hogares Saludables](img/hogares.jpg){ .project-photo }
+</div>
+</div>
 
 ---
 
