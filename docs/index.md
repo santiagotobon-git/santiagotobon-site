@@ -3,6 +3,10 @@ hide:
   - toc
 ---
 
+<div class="hero-profile" markdown>
+<img src="img/profile.jpg" alt="Santiago Tobón" class="profile-photo">
+</div>
+
 # Santiago Tobón
 
 I study how organized crime operates — how criminal organizations govern communities, extract resources, and sustain themselves — and what governments can do about it. My research covers policing, prisons, civilian alternatives to enforcement, and the regulation of illicit markets. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data on criminal governance, public trust in state institutions, and the effects of policy interventions at scale.

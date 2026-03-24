@@ -27,6 +27,8 @@
 
   --md-accent-fg-color: #EF9F27;
   --md-accent-fg-color--transparent: #EF9F2720;
+
+  --md-typeset-a-color: #EF9F27;
 }
 
 /* Active tab indicator uses amber */
@@ -62,6 +64,16 @@
   font-size: 1.1rem;
   color: #5f5e5a;
   line-height: 1.7;
+}
+
+/* Profile photo on homepage */
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 1rem;
 }
 
 /* Card grid for homepage sections */
@@ -180,6 +192,7 @@
 /* Project photos on Centro page */
 .project-photo {
   width: 100%;
+  max-width: 480px;
   max-height: 320px;
   object-fit: cover;
   border-radius: 8px;
