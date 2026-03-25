@@ -193,13 +193,41 @@
   margin-left: 1rem;
 }
 
-/* Project photos on Centro page — circular, like profile */
-.project-photo {
-  max-width: 100%;
-  max-height: 300px;
+/* Project rows on Centro page — image + text side by side */
+.project-row {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.project-img {
+  flex-shrink: 0;
+  width: 240px;
+}
+
+.project-img img {
+  width: 240px;
+  height: 180px;
   object-fit: cover;
   border-radius: 12px;
-  margin: 0.5rem 0 0;
+}
+
+.project-text {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .project-row {
+    flex-direction: column;
+  }
+  .project-img {
+    width: 100%;
+  }
+  .project-img img {
+    width: 100%;
+    height: auto;
+    max-height: 220px;
+  }
 }
 
 /* Responsive: stack cards on small screens */
