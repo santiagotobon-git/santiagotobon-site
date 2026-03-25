@@ -202,12 +202,12 @@
 
 .project-img {
   flex-shrink: 0;
-  width: 240px;
+  width: 160px;
 }
 
 .project-img img {
-  width: 240px;
-  height: 180px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   border-radius: 12px;
 }
