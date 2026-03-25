@@ -12,7 +12,7 @@ I study how organized crime operates — how criminal organizations govern commu
 
 I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
 
-In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://www.fedesarrollo.org.co/es/content/premio-juan-luis-londono-2020), which recognizes Colombians under 40 whose research has shaped public policy.
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians under 40 whose research has shaped public policy.
 
 </div>
 <div class="hero-photo" markdown>
@@ -30,7 +30,7 @@ In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Med
 <span class="badge">EGAP</span>
 </div>
 
-[CV :material-file-document:](https://www.dropbox.com/s/jc8cmsk5fk68qj0/SantiagoTobon_CV.pdf?dl=0){ .md-button }
+[CV :material-file-document:](cv/cv_santiago_tobon.pdf){ .md-button }
 [Google Scholar :material-school:](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
 [stobonz@eafit.edu.co :material-email:](mailto:stobonz@eafit.edu.co){ .md-button }
 
@@ -44,7 +44,7 @@ In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Med
 
 Publications in criminal governance, policing, prisons, and illicit markets. Working papers on trust in state actors, gang recruitment, and the organization of organized crime.
 
-[Browse publications →](research/publications.md){ .card-link }
+[Browse publications →](research/publications/){ .card-link }
 
 </div>
 
@@ -54,7 +54,7 @@ Publications in criminal governance, policing, prisons, and illicit markets. Wor
 
 Applied research, program evaluation, and policy design for governments and organizations. Projects range from experimental evaluations of youth interventions to institutional strengthening across 49 municipalities.
 
-[See featured projects →](centro.md){ .card-link }
+[See featured projects →](centro/){ .card-link }
 
 </div>
 
@@ -64,7 +64,7 @@ Applied research, program evaluation, and policy design for governments and orga
 
 An evidence-based account of the cocaine industry — from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage.
 
-[About the book →](book.md){ .card-link }
+[About the book →](book/){ .card-link }
 
 </div>
 
@@ -74,7 +74,7 @@ An evidence-based account of the cocaine industry — from coca cultivation thro
 
 Replication packages for published papers, hosted on Harvard Dataverse and Zenodo.
 
-[Browse datasets →](research/data.md){ .card-link }
+[Browse datasets →](research/data/){ .card-link }
 
 </div>
 
@@ -90,7 +90,7 @@ Replication packages for published papers, hosted on Harvard Dataverse and Zenod
 </div>
 
 <div class="latest-item" markdown>
-<span>"Statebuilding in the City" — conditionally accepted at *APSR*</span>
+<span>"Statebuilding in the City" — forthcoming at *APSR*</span>
 <span class="latest-type">Journal article</span>
 </div>
 

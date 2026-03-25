@@ -10,7 +10,7 @@ The projects below illustrate what the Centro does and how it works.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/parceros.jpg" alt="Parceros Creadores">
+<img src="../img/profile.jpg" alt="Parceros Creadores">
 </div>
 <div class="project-text" markdown>
 
@@ -33,7 +33,7 @@ The result is a government program that improves with each iteration because eva
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/cuidado.jpg" alt="Sistema del Cuidado">
+<img src="../img/profile.jpg" alt="Sistema del Cuidado">
 </div>
 <div class="project-text" markdown>
 
@@ -54,7 +54,7 @@ The design targets the institutional and cultural conditions that sustain gender
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/ocensa.jpg" alt="OCENSA">
+<img src="../img/profile.jpg" alt="OCENSA">
 </div>
 <div class="project-text" markdown>
 
@@ -77,7 +77,7 @@ The project changes the conditions that produce territorial underdevelopment rat
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/hogares.jpg" alt="Hogares Saludables">
+<img src="../img/profile.jpg" alt="Hogares Saludables">
 </div>
 <div class="project-text" markdown>
 
@@ -98,6 +98,6 @@ Hogares Saludables demonstrates that modifying a physical structure can shift he
 
 ## Work with us
 
-The Centro takes on research, consultancy, and evaluation projects with governments, multilateral organizations, NGOs, and private firms. For inquiries, write to [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).
+The Centro takes on applied research, policy design, and program evaluation projects with governments, multilateral organizations, NGOs, and private firms. For inquiries, write to [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).
 
 [Visit the Centro at EAFIT →](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico)

@@ -12,21 +12,21 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Prisons"</span>
-(with Paolo Buonanno and Juan Vargas). In Marciano, A. and Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2022)
-
-<span class="pub-links">
-[Chapter](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_595-2)
-</span>
-</div>
-
-<div class="pub-entry" markdown>
 <span class="pub-title">"Broken windows policing and crime: Evidence from 80 Colombian cities"</span>
 (with Daniel Mejía, Ervyn Norza and Martín Vanegas-Arias). In Buonanno, P., Vanin, P. and Vargas, J. (Eds.) *A Modern Guide to the Economics of Crime*, 55–87. (2022)
 
 <span class="pub-links">
 [Book](https://www.e-elgar.com/shop/usd/a-modern-guide-to-the-economics-of-crime-9781789909326.html) ·
 [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917187)
+</span>
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Prisons"</span>
+(with Paolo Buonanno and Juan Vargas). In Marciano, A. and Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2022)
+
+<span class="pub-links">
+[Chapter](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_595-2)
 </span>
 </div>
 
@@ -56,13 +56,6 @@ In Giraldo, J. (Ed.) *Economía criminal y poder político*, Universidad EAFIT. 
 ---
 
 ## Earlier work
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Crises conducting stakeholder salience: Shifts in the evolution of private universities' governance in Latin America"</span>
-(with Maria Alejandra Gonzalez-Perez et al.). <span class="pub-venue">Corporate Governance</span>, 21(6), 1194–1214. (2021)
-
-<span class="pub-links">[Paper](https://www.emerald.com/insight/content/doi/10.1108/CG-09-2020-0397/full/html)</span>
-</div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"El gasto fiscal de la guerra contra los portadores de drogas ilícitas: Una aproximación para Colombia"</span>
@@ -97,6 +90,17 @@ In Giraldo, J. (Ed.) *Economía criminal y poder político*, Universidad EAFIT. 
 (with Juan Carlos Muñoz). <span class="pub-venue">Ecos de Economía</span>, 17(36), 173–198. (2013)
 
 <span class="pub-links">[Paper](http://publicaciones.eafit.edu.co/index.php/ecos-economia/article/view/2163/2158)</span>
+</div>
+
+---
+
+## Other topics
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Crises conducting stakeholder salience: Shifts in the evolution of private universities' governance in Latin America"</span>
+(with Maria Alejandra Gonzalez-Perez et al.). <span class="pub-venue">Corporate Governance</span>, 21(6), 1194–1214. (2021)
+
+<span class="pub-links">[Paper](https://www.emerald.com/insight/content/doi/10.1108/CG-09-2020-0397/full/html)</span>
 </div>
 
 <div class="pub-entry" markdown>

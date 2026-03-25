@@ -27,9 +27,11 @@ Third, I have spent over a decade studying the institutional structures that sus
 Several of my published papers address topics covered in the book:
 
 - ["Gang rule: Understanding and countering criminal governance"](https://doi.org/10.1093/restud/rdae079) — *Review of Economic Studies* (2025)
+- ["Production and persistence of criminal skills: Evidence from a high-crime context"](https://www.sciencedirect.com/science/article/pii/S0304387822001122) — *Journal of Development Economics* (2023)
+- ["Statebuilding in the City: An Experiment in Civilian Alternatives to Policing"](https://www.nber.org/papers/w29692) — Forthcoming, *American Political Science Review*
+- ["Hot Spots Policing in a High Crime Environment: An Experimental Evaluation in Medellín"](https://link.springer.com/article/10.1007/s11292-019-09390-1) — *Journal of Experimental Criminology* (2021)
+- ["Prison conditions and recidivism: Do better prisons reduce recidivism?"](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_01007) — *Review of Economics and Statistics* (2022)
 - ["The role of land property rights in the war on illicit crops"](https://www.sciencedirect.com/science/article/pii/S0305750X17303455) — *World Development* (2018)
-- ["The terrible trade-off: Why governments must choose between more violence or stronger gangs"](https://mwi.westpoint.edu/the-terrible-trade-off-why-governments-must-choose-between-more-violence-or-stronger-gangs/) — Modern War Institute at West Point (2022)
-- ["Instituciones y cultivos ilícitos"](http://www.eafit.edu.co/centros/analisis-politico/publicaciones/proyectos-investigacion/Documents/Econom%C3%ADa%20criminal%20y%20poder%20pol%C3%ADtico.pdf) — EAFIT (2013)
 
 ## Contact
 
