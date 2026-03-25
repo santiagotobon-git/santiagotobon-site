@@ -107,8 +107,7 @@
   border-color: var(--md-accent-fg-color);
 }
 
-.card-grid .card h3,
-.card-grid .card .card-heading {
+.card-grid .card h3 {
   font-size: 0.95rem;
   margin: 0 0 0.5rem;
   font-weight: 600;
