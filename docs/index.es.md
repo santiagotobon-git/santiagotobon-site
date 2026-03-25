@@ -40,7 +40,7 @@ En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño
 
 <div class="card" markdown>
 
-<div class="card-heading">Investigación</div>
+### Investigación
 
 Publicaciones en gobernanza criminal, policía, prisiones y mercados ilícitos. Documentos de trabajo sobre confianza en actores estatales, reclutamiento de pandillas y la organización del crimen organizado.
 
@@ -50,7 +50,7 @@ Publicaciones en gobernanza criminal, policía, prisiones y mercados ilícitos. 
 
 <div class="card" markdown>
 
-<div class="card-heading">Centro de Valor Público</div>
+### Centro de Valor Público
 
 Investigación aplicada, evaluación de programas y diseño de políticas para gobiernos y organizaciones. Proyectos que van desde evaluaciones experimentales de intervenciones juveniles hasta fortalecimiento institucional en 49 municipios.
 
@@ -60,7 +60,7 @@ Investigación aplicada, evaluación de programas y diseño de políticas para g
 
 <div class="card" markdown>
 
-<div class="card-heading">Proyecto de libro</div>
+### Proyecto de libro
 
 Un relato basado en evidencia sobre la industria de la cocaína —desde el cultivo de coca, pasando por la producción, el tráfico y la distribución minorista, hasta las respuestas de política que configuran cada etapa.
 
@@ -70,7 +70,7 @@ Un relato basado en evidencia sobre la industria de la cocaína —desde el cult
 
 <div class="card" markdown>
 
-<div class="card-heading">Datos y replicación</div>
+### Datos y replicación
 
 Paquetes de replicación para artículos publicados, alojados en Harvard Dataverse y Zenodo.
 
