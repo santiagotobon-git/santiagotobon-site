@@ -21,7 +21,7 @@ I've held visiting positions at the University of Chicago Harris School of Publi
 
 ## Awards
 
-In 2020, the Juan Luis Londoño committee [awarded me the Londoño Medal](https://www.fedesarrollo.org.co/es/content/premio-juan-luis-londono-2020), which recognizes Colombians under 40 whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center.
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians under 40 whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center.
 
 ## Education
 
@@ -35,4 +35,4 @@ In 2020, the Juan Luis Londoño committee [awarded me the Londoño Medal](https:
 - **X:** [@SantiagoTobon](https://twitter.com/santiagotobon)
 - **Google Scholar:** [Profile](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en)
 - **IDEAS/RePEc:** [Profile](https://ideas.repec.org/f/pto355.html)
-- **CV:** [Download (PDF)](https://www.dropbox.com/s/jc8cmsk5fk68qj0/SantiagoTobon_CV.pdf?dl=0)
+- **CV:** [Download (PDF)](cv/cv_santiago_tobon.pdf)

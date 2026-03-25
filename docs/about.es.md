@@ -21,7 +21,7 @@ He sido profesor visitante en la Harris School of Public Policy de la Universida
 
 ## Premios
 
-En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos menores de 40 años cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el principal centro independiente de investigación económica de Colombia.
+En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos menores de 40 años cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el principal centro independiente de investigación económica de Colombia.
 
 ## Educación
 
