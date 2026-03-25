@@ -54,6 +54,30 @@ markdown_extensions:
 
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: es
+          name: Español
+          build: true
+          nav:
+            - Inicio: index.md
+            - Investigación:
+              - Publicaciones: research/publications.md
+              - Documentos de trabajo: research/working-papers.md
+              - Capítulos de libro y trabajo anterior: research/book-chapters.md
+              - Datos y replicación: research/data.md
+            - Centro de Valor Público: centro.md
+            - Libro: book.md
+            - Escritos y medios:
+              - Escritos de política: writing/policy.md
+              - Blog: writing/blog-posts.md
+              - Podcasts: writing/podcasts.md
+            - Acerca de: about.md
 
 nav:
   - Home: index.md
@@ -71,6 +95,13 @@ nav:
   - About: about.md
 
 extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Español
+      link: /es/
+      lang: es
   social:
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en
