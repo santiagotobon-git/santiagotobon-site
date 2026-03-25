@@ -44,7 +44,7 @@ In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Med
 
 Publications in criminal governance, policing, prisons, and illicit markets. Working papers on trust in state actors, gang recruitment, and the organization of organized crime.
 
-[Browse publications →](research/publications/){ .card-link }
+[Browse publications →](research/publications.md){ .card-link }
 
 </div>
 
@@ -54,7 +54,7 @@ Publications in criminal governance, policing, prisons, and illicit markets. Wor
 
 Applied research, program evaluation, and policy design for governments and organizations. Projects range from experimental evaluations of youth interventions to institutional strengthening across 49 municipalities.
 
-[See featured projects →](centro/){ .card-link }
+[See featured projects →](centro.md){ .card-link }
 
 </div>
 
@@ -64,7 +64,7 @@ Applied research, program evaluation, and policy design for governments and orga
 
 An evidence-based account of the cocaine industry — from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage.
 
-[About the book →](book/){ .card-link }
+[About the book →](book.md){ .card-link }
 
 </div>
 
@@ -74,7 +74,7 @@ An evidence-based account of the cocaine industry — from coca cultivation thro
 
 Replication packages for published papers, hosted on Harvard Dataverse and Zenodo.
 
-[Browse datasets →](research/data/){ .card-link }
+[Browse datasets →](research/data.md){ .card-link }
 
 </div>
 
