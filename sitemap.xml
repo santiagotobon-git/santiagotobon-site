@@ -1,47 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://santiagotobon.co/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/about/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/about/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/about/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/about/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/book/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/book/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/book/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/book/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/centro/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/centro/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/centro/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/centro/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/research/book-chapters/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/research/book-chapters/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/book-chapters/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/book-chapters/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/research/data/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/research/data/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/data/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/data/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/research/publications/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/research/publications/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/publications/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/publications/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/research/working-papers/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/research/working-papers/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/working-papers/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/working-papers/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/writing/blog-posts/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/writing/blog-posts/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/blog-posts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/blog-posts/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/writing/podcasts/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/writing/podcasts/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/podcasts/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/podcasts/"/>
     </url>
     <url>
-         <loc>https://santiagotobon.co/writing/policy/</loc>
-         <lastmod>2026-03-25</lastmod>
+        <loc>https://santiagotobon.co/writing/policy/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/policy/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/policy/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/about/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/about/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/book/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/book/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/book/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/centro/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/centro/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/centro/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/research/book-chapters/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/book-chapters/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/book-chapters/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/research/data/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/data/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/research/publications/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/publications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/publications/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/research/working-papers/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/research/working-papers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/research/working-papers/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/writing/blog-posts/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/blog-posts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/blog-posts/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/writing/podcasts/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/podcasts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/podcasts/"/>
+    </url>
+    <url>
+        <loc>https://santiagotobon.co/es/writing/policy/</loc>
+        <lastmod>2026-03-25</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="es" href="https://santiagotobon.co/es/writing/policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://santiagotobon.co/writing/policy/"/>
     </url>
 </urlset>
