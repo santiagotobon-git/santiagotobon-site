@@ -10,7 +10,7 @@ The projects below illustrate what the Centro does and how it works.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/profile.jpg" alt="Parceros Creadores">
+<img src="../img/parceros.jpg" alt="Parceros Creadores">
 </div>
 <div class="project-text" markdown>
 
@@ -33,7 +33,7 @@ The result is a government program that improves with each iteration because eva
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/profile.jpg" alt="Sistema del Cuidado">
+<img src="../img/cuidado.jpg" alt="Sistema del Cuidado">
 </div>
 <div class="project-text" markdown>
 
@@ -54,7 +54,7 @@ The design targets the institutional and cultural conditions that sustain gender
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/profile.jpg" alt="OCENSA">
+<img src="../img/ocensa.jpg" alt="OCENSA">
 </div>
 <div class="project-text" markdown>
 
@@ -77,7 +77,7 @@ The project changes the conditions that produce territorial underdevelopment rat
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/profile.jpg" alt="Hogares Saludables">
+<img src="../img/hogares.jpg" alt="Hogares Saludables">
 </div>
 <div class="project-text" markdown>
 
