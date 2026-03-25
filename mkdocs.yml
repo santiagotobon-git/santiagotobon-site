@@ -8,13 +8,13 @@ theme:
   custom_dir: docs/overrides
   language: en
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
+    - toc.integrate
   palette:
     - scheme: slate
       primary: custom
