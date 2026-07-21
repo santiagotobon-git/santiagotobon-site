@@ -60,9 +60,9 @@ Applied research, program evaluation, and policy design for governments and orga
 
 <div class="card" markdown>
 
-### Book project
+### COCAÍNA: Anatomía de un mercado prohibido
 
-An evidence-based account of the cocaine industry — from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage.
+An evidence-based account of the cocaine industry — from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage. The manuscript is finished and with the publisher.
 
 [About the book →](book.md){ .card-link }
 

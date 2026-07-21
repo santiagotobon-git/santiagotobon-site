@@ -60,9 +60,9 @@ Investigación aplicada, evaluación de programas y diseño de políticas para g
 
 <div class="card" markdown>
 
-### Proyecto de libro
+### COCAÍNA: Anatomía de un mercado prohibido
 
-Un relato basado en evidencia sobre la industria de la cocaína —desde el cultivo de coca, pasando por la producción, el tráfico y la distribución minorista, hasta las respuestas de política que configuran cada etapa.
+Un relato basado en evidencia sobre la industria de la cocaína —desde el cultivo de coca, pasando por la producción, el tráfico y la distribución minorista, hasta las respuestas de política que configuran cada etapa. El manuscrito está terminado y en manos de la editorial.
 
 [Sobre el libro →](book.md){ .card-link }
 

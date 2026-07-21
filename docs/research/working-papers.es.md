@@ -1,5 +1,29 @@
 # Documentos de trabajo y trabajo en curso
 
+## En evaluación en revistas académicas
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy"</span>
+(con Martín Vanegas-Arias)
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean"</span>
+(con Ernesto Schargrodsky)
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia"</span>
+(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias)
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Implementation Outcomes of a CBT-Based Psychosocial Intervention for Gang-Recruitment-Vulnerable Youth in Medellín: A Qualitative Study of Novice Provider Experiences"</span>
+(con Gabriela Algarín, Mariantonia Lemos y Martín Vanegas-Arias)
+</div>
+
+---
+
 ## Crimen organizado
 
 <div class="pub-entry" markdown>
@@ -29,11 +53,6 @@
 <div class="pub-entry" markdown>
 <span class="pub-title">"Building trust in state actors: A multi-site experiment with the Colombian National Police"</span>
 (con Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent y Michael Weintraub)
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Do procedurally just interactions increase trust in the police? Evidence from a survey experiment in Colombia"</span>
-(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias)
 </div>
 
 ---
