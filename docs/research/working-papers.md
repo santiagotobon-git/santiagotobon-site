@@ -42,8 +42,27 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Who expects to join criminal gangs and why? Occupational choice among 15,000 teenage boys in Medellín"</span>
+<span class="pub-title">"Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys"</span>
 (with Chris Blattman and Arantxa Rodríguez-Uribe)
+</div>
+
+---
+
+## Illicit economies
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"How Illegal Economies and Armed Actors Shape the Vote: Evidence from Colombia's Presidential Elections"</span>
+(with Michael Weintraub)
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia"</span>
+(with Ivonne Lara, Martín Vanegas-Arias and Juan Vargas)
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Do Illegal Economies Reduce Local Fiscal Capacity?"</span>
+(with Patricia Justino, Martín Vanegas-Arias and Juan Vargas)
 </div>
 
 ---
