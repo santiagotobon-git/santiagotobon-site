@@ -17,11 +17,6 @@
 (con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias)
 </div>
 
-<div class="pub-entry" markdown>
-<span class="pub-title">"Implementation Outcomes of a CBT-Based Psychosocial Intervention for Gang-Recruitment-Vulnerable Youth in Medellín: A Qualitative Study of Novice Provider Experiences"</span>
-(con Gabriela Algarín, Mariantonia Lemos y Martín Vanegas-Arias)
-</div>
-
 ---
 
 ## Crimen organizado
