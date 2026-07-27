@@ -2,23 +2,21 @@
 
 ## The book
 
-*COCAÍNA: Anatomía de un mercado prohibido* ("Cocaine: Anatomy of a Prohibited Market") is my first book. The manuscript is finished — an introduction and fifteen chapters — and is now with the publisher. The book is written in Spanish for a general audience. Publication details will appear on this page as they are confirmed.
+*COCAÍNA: Anatomía de un mercado prohibido* is my first book. The manuscript is finished — an introduction and fifteen chapters — and is now with the publisher. Publication details will appear on this page as they are confirmed.
 
-Cocaine generates an estimated $100 billion or more in annual revenue. It finances armed groups, shapes elections, drives mass incarceration, and sustains supply chains that span continents. Governments have spent decades and hundreds of billions of dollars trying to suppress it.
-
-Yet most of what the public knows about the cocaine industry comes from journalism, memoir, and television. The academic literature is scattered across disciplines, buried in technical journals, and rarely assembled into a single coherent account. The policy debates — eradication vs. legalization, enforcement vs. treatment, interdiction vs. regulation — proceed largely without reference to the accumulated evidence on how the industry actually works.
-
-This book fills that gap. It traces the cocaine industry from coca cultivation through chemical processing, wholesale trafficking, and retail distribution, and examines the policy interventions that governments deploy at each stage. Every claim rests on published evidence, original data, or fieldwork. Where the evidence is thin or contested, the book says so.
+The book follows the life of a gram of cocaine, from a coca leaf on an Andean hillside to a line of powder in a European bar, and from a street-corner sale to the bank transfer that launders the proceeds. More cocaine is produced and consumed today than at any time since systematic records began. United Nations estimates put production at 2,757 tons of pure cocaine in 2022 and 3,708 tons in 2023, with around 25 million consumers worldwide. Most of those consumers live in North America, Europe, and a few large South American cities. The heaviest costs fall elsewhere. Latin America and the Caribbean hold about 8 percent of the world's population and concentrate close to a third of its homicides, and much of that violence is tied to the drug trade.
 
 ## What the book argues
 
-The cocaine industry is a sequence of distinct markets, each with its own actors, cost structures, risks, and institutional environments. A coca farmer in Putumayo faces different incentives than a paste buyer in Nariño, a trafficking organization moving product through Central America, or a retail distributor in a European city. Policies designed for one stage often fail because they assume the logic of another.
+Prohibition sets the rules of the game, and those rules make brutal strategies profitable. No participant in the cocaine trade can enforce a contract in court, insure a shipment, or borrow from a bank. Violence takes the place of contracts. Corruption takes the place of regulation. The industry fragments into loosely connected links — growers, processors, transporters, wholesalers, retailers — because integration would expose any organization to catastrophic risk.
 
-The book also argues that the conventional framing — supply vs. demand, prohibition vs. legalization — obscures more than it reveals. The relevant questions are more specific. What determines where coca is grown? Why do some trafficking routes persist while others collapse? Under what conditions does enforcement reduce violence, and under what conditions does it increase it? What happens to retail markets when a major supplier is removed?
+At each link, the price builds in a premium for the risk of losing the merchandise, going to prison, or dying. A gram that costs cents in raw materials sells for 50 to 100 euros in European retail markets, and producer countries capture roughly 8 percent of the chain's total rent while bearing most of its violence. Heavy users respond little to price. When enforcement raises risk, prices rise and consumption barely falls, so total revenue in the business can grow. The organizations that survive each crackdown inherit the market shares of those that fell. Each crackdown selects for the actors most capable of exercising violence and buying off authorities, and hands them the resources to operate at larger scale.
+
+The book develops this argument link by link. It examines the rural economy of coca, the chemistry and logistics of processing, the trafficking routes and the corruption that keeps them open, retail markets and criminal governance in the cities, the public health and neuroscience of demand, and the political economy that holds prohibition in place. Medellín appears as a recurring case. I have worked there for over a decade with research teams, local authorities, and community organizations, in neighborhoods where armed groups decide who pays extortion and how disputes get resolved.
 
 ## Contents
 
-The book opens with an introduction and develops the argument across fifteen chapters. The titles below are English translations of the Spanish originals.
+The book opens with an introduction and develops the argument across fifteen chapters.
 
 1. The costs of the cocaine market
 2. The cocaine value chain
