@@ -32,11 +32,6 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Organized crime in Rio de Janeiro: Understanding non-state provision of order and justice"</span>
-(with Benjamin Lessing and Joana Monteiro)
-</div>
-
-<div class="pub-entry" markdown>
 <span class="pub-title">"Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys"</span>
 (with Chris Blattman and Arantxa Rodríguez-Uribe)
 </div>
@@ -67,13 +62,4 @@
 <div class="pub-entry" markdown>
 <span class="pub-title">"Building trust in state actors: A multi-site experiment with the Colombian National Police"</span>
 (with Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent and Michael Weintraub)
-</div>
-
----
-
-## Violence and behavior
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Building anti-social behaviors: The impacts of violence exposure"</span>
-(with Verónica Abril and Brayan Pineda)
 </div>
