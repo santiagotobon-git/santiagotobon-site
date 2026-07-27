@@ -3,6 +3,11 @@
 ## Organized crime and criminal governance
 
 <div class="pub-entry" markdown>
+<span class="pub-title">"Organized Crime and Violence"</span>
+(with Maria Micaela Sviatschi and Nicolás Cabra-Ruiz). Forthcoming at <span class="pub-venue">Annual Review of Economics</span>.
+</div>
+
+<div class="pub-entry" markdown>
 <span class="pub-title">"Statebuilding in the City: An Experiment in Civilian Alternatives to Policing"</span>
 (with Christopher Blattman, Gustavo Duncan and Benjamin Lessing). Forthcoming at <span class="pub-venue">American Political Science Review</span>.
 
