@@ -1,0 +1,358 @@
+\documentclass[11pt]{article}
+
+% Page geometry
+\usepackage[letterpaper, margin=1in]{geometry}
+
+% Fonts and encoding
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathpazo} % Palatino-like font, close to Blattman's style
+\usepackage{microtype}
+
+% Hyperlinks
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+
+% For compact lists
+\usepackage{enumitem}
+
+% Spacing
+\usepackage{setspace}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Section formatting
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\normalsize\scshape\bfseries}{}{0em}{}[\vspace{-0.5ex}\hrule\vspace{1ex}]
+\titlespacing{\section}{0pt}{1.5ex plus 0.5ex}{0.5ex plus 0.2ex}
+
+% Custom commands
+\newlength{\datecolwidth}
+\setlength{\datecolwidth}{1.5cm}
+\newlength{\gapwidth}
+\setlength{\gapwidth}{0.5cm}
+\newlength{\maincolwidth}
+\setlength{\maincolwidth}{\dimexpr\textwidth-\datecolwidth-\gapwidth\relax}
+
+\newcommand{\cventry}[2]{%
+  \begin{tabular}[t]{@{}p{\datecolwidth}@{\hspace{\gapwidth}}p{\maincolwidth}@{}}
+  #1 & #2 \\
+  \end{tabular}\vspace{0.3ex}%
+}
+
+\newcommand{\cventryw}[2]{%
+  \begin{tabular}[t]{@{}p{\datecolwidth}@{\hspace{\gapwidth}}p{\maincolwidth}@{}}
+  #1 & #2 \\
+  \end{tabular}\vspace{0.1ex}%
+}
+
+\begin{document}
+
+\begin{center}
+{\large \textbf{SANTIAGO TOB\'{O}N, PHD}}
+\end{center}
+
+\vspace{0.5ex}
+
+\begin{tabular}[t]{@{}l@{\hspace{3cm}}l}
+Universidad EAFIT & \href{mailto:stobonz@eafit.edu.co}{stobonz@eafit.edu.co} \\
+School of Finance, Economics and Government& \url{http://santiagotobon.co/} \\
+CR 49 \# 7Sur-50, Rm. 26-113 & +57 2619500 \\
+Medell\'{i}n, Colombia 050022 & Citizenship: Colombian, Spanish \\
+\end{tabular}
+
+\vspace{1.5ex}
+
+%--------------------------------------------------------------
+\section*{ACADEMIC EMPLOYMENT}
+%--------------------------------------------------------------
+
+\cventry{2020--}{Professor of Economics (tenured), Universidad EAFIT}
+\cventry{2019--20}{Professor of Economics (untenured), Universidad EAFIT}
+\cventry{2024}{Visiting Scholar, UNU -- World Institute for Development Economics Research}
+\cventry{2023}{Visiting Scholar, Interamerican Development Bank}
+\cventry{2022}{Visiting Professor, University of Chicago Harris School of Public Policy}
+\cventry{2017--19}{Postdoctoral Scholar, University of Chicago Harris School of Public Policy \& Innovations for Poverty Action}
+\cventry{2016--17}{Doctoral Scholar, Innovations for Poverty Action}
+\cventry{2016}{Visiting Doctoral Student, University of Chicago Harris School of Public Policy}
+
+%--------------------------------------------------------------
+\section*{OTHER AFFILIATIONS}
+%--------------------------------------------------------------
+
+\cventry{2024--}{Affiliate, J-PAL---Crime and Violence Initiative}
+\cventry{2020--}{Academic Member, Evidence in Governance and Politics (EGAP); Board Member; Co-director EGAP Latin America}
+\cventry{2016--}{Researcher, Innovations for Poverty Action}
+
+%--------------------------------------------------------------
+\section*{EDUCATION}
+%--------------------------------------------------------------
+
+\cventry{2014--18}{Ph.D., Economics, Universidad de los Andes. Dissertation with distinction}
+\cventry{2014--17}{M.A., Economics, Universidad de los Andes}
+\cventry{2011--12}{M.A., Economics, Universit\'{e} catholique de Louvain. \textit{Grande distinction}}
+\cventry{2009--11}{M.A., Business, Universidad EAFIT}
+\cventry{2002--07}{B.A., Computer Science, Universidad EIA}
+
+%--------------------------------------------------------------
+\section*{FIELDS OF STUDY}
+%--------------------------------------------------------------
+
+Political economy, Economics of crime, Development economics, Public policy, Policing, Criminal governance
+
+\vspace{1.5ex}
+
+%--------------------------------------------------------------
+\section*{PRIZES AND HONORS}
+%--------------------------------------------------------------
+
+\cventry{2024}{Medell\'{i}n Investiga Prize, awarded every year to the best research project related to Medell\'{i}n's most important development challenges}
+\cventry{2020}{Juan Luis Londo\~{n}o Medal, awarded every two years to Colombians of 40 years or less for the impact of their research and policy work on the welfare of Colombians}
+
+%--------------------------------------------------------------
+\section*{WORKING PAPERS \& PAPERS UNDER REVIEW}
+%--------------------------------------------------------------
+
+``Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy,'' with Mart\'{i}n Vanegas-Arias. Under review
+
+\vspace{0.5ex}
+
+``From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean,'' with Ernesto Schargrodsky. Under review
+
+\vspace{0.5ex}
+
+``Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia,'' with Ver\'{o}nica Abril, Santiago P\'{e}rez-Vincent, and Mart\'{i}n Vanegas-Arias. Under review
+
+\vspace{0.5ex}
+
+``Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys,'' with Christopher Blattman and Arantxa Rodr\'{i}guez-Uribe
+
+\vspace{0.5ex}
+
+``Pax Criminalis,'' with Christopher Blattman, Gustavo Duncan, Benjamin Lessing, and Juan F. Mart\'{i}nez
+
+\vspace{0.5ex}
+
+``Gangs of Medell\'{i}n: How Organized Crime Is Organized,'' with Christopher Blattman, Gustavo Duncan, and Benjamin Lessing
+
+\vspace{0.5ex}
+
+``Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police,'' with Ver\'{o}nica Abril, Ervyn Norza, Santiago P\'{e}rez-Vincent, and Michael Weintraub
+
+\vspace{0.5ex}
+
+``How Illegal Economies and Armed Actors Shape the Vote: Evidence from Colombia's Presidential Elections,'' with Michael Weintraub
+
+\vspace{0.5ex}
+
+``How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia,'' with Ivonne Lara, Mart\'{i}n Vanegas-Arias, and Juan Vargas
+
+\vspace{0.5ex}
+
+``Do Illegal Economies Reduce Local Fiscal Capacity?'' with Patricia Justino, Mart\'{i}n Vanegas-Arias, and Juan Vargas
+
+\vspace{1.5ex}
+
+%--------------------------------------------------------------
+\section*{BOOKS}
+%--------------------------------------------------------------
+
+\cventry{2026}{\textit{COCA\'{I}NA: Anatom\'{i}a de un mercado prohibido}. Book manuscript, with the publisher.}
+
+\vspace{1.5ex}
+
+%--------------------------------------------------------------
+\section*{ACADEMIC PUBLICATIONS}
+%--------------------------------------------------------------
+
+\textit{Journal Articles}
+
+\vspace{0.5ex}
+
+\cventry{2026}{``Implementation Outcomes of a CBT-Based Psychosocial Intervention for Gang-Recruitment-Vulnerable Youth in Medell\'{i}n: A Qualitative Study of Novice Provider Experiences,'' with Gabriela Algar\'{i}n, Mariantonia Lemos, and Mart\'{i}n Vanegas-Arias, accepted at \textit{Cambridge Prisms: Global Mental Health}.}
+
+\cventry{2025}{``Statebuilding in the City: An Experiment in Civilian Alternatives to Policing,'' with Christopher Blattman, Gustavo Duncan, and Benjamin Lessing, accepted at \textit{American Political Science Review}.}
+
+\cventry{}{``Gang Rule: Understanding and Countering Criminal Governance,'' with Christopher Blattman, Gustavo Duncan, and Benjamin Lessing, \textit{Review of Economic Studies} 92(3): 1497--1531.}
+
+\cventry{2023}{``Production and Persistence of Criminal Skills: Evidence from a High-Crime Context,'' with Maria A. Escobar and Martin Vanegas-Arias, \textit{Journal of Development Economics} 160: 102969.}
+
+\cventry{}{``The Perils of Military Policing,'' (invited commentary), \textit{Nature Human Behaviour}.}
+
+\cventry{2022}{``Do Better Prisons Reduce Recidivism? Evidence from a Prison Construction Program,'' \textit{The Review of Economics and Statistics} 104(6): 1256--1272.}
+
+\cventry{2021}{``Place-Based Interventions at Scale: The Direct and Spillover Effects of Policing and City Services on Crime,'' with Christopher Blattman, Donald Green, and Daniel Ortega, \textit{Journal of the European Economic Association} 19(4): 2022--2051.}
+
+\cventry{}{``Hot Spots Policing in a High-Crime Environment: An Experimental Evaluation in Medell\'{i}n,'' with Daniel Collazos, Eduardo Garc\'{i}a, Daniel Mej\'{i}a, and Daniel Ortega, \textit{Journal of Experimental Criminology} 17(3): 473--506.}
+
+\cventry{}{``The Deterrent Effect of Surveillance Cameras on Crime,'' with Santiago G\'{o}mez and Daniel Mej\'{i}a, \textit{Journal of Policy Analysis and Management} 40(2): 553--571.}
+
+\cventry{}{``Crises Conducting Stakeholder Salience: Shifts in the Evolution of Private Universities' Governance in Latin America,'' with M.A. Gonzalez-Perez, M. Cordova, M. Hermans, K.M. Nava-Aguirre, F. Monje-Cueto, S. Mingo, C.A. Rodriguez, E.H. Salvaj, and D.E. Floriani, \textit{Corporate Governance: The International Journal of Business in Society} 21(6): 1194--1214.}
+
+\cventry{}{``Community Policing in the Developing World,'' (invited commentary), \textit{Science} 374(6571): 1046--1047.}
+
+\cventry{2020}{``Meta-Analysis of Hematopoietic Stem Cell Transplantation in Major Histocompatibility Complex Class II Deficiency,'' with L.M. Casta\~{n}o-Jaramillo, J. Bare\~{n}o-Silva, and A.F. Escobar-Gonzalez, \textit{Pediatric Transplantation} 24(6): e13774.}
+
+\cventry{2018}{``The Role of Land Property Rights in the War on Illicit Crops: Evidence from Colombia,'' with Juan Carlos Mu\~{n}oz-Mora and Jesse W. d'Anjou, \textit{World Development} 103: 268--283.}
+
+\vspace{1ex}
+
+\textit{Book Chapters}
+
+\vspace{0.5ex}
+
+\cventry{Forth.}{``Crime: Economics of, the Standard Approach,'' with Paolo Buonanno and Juan F. Vargas, in \textit{Encyclopedia of Law and Economics}, A. Marciano and G.B. Ramello, Eds., Springer.}
+
+\cventry{2022}{``Prisons,'' with Paolo Buonanno and Juan F. Vargas, in \textit{Encyclopedia of Law and Economics}, A. Marciano and G.B. Ramello, Eds., Springer, pp. 1--5.}
+
+\cventry{}{``Broken Windows Policing and Crime: Evidence from 80 Colombian Cities,'' with Daniel Mej\'{i}a, Elkin Norza, and Martin Vanegas-Arias, in \textit{A Modern Guide to the Economics of Crime}, P. Buonanno, P. Vanin, and J. Vargas, Eds., Edward Elgar Publishing, pp. 55--87.}
+
+%--------------------------------------------------------------
+\section*{PROFESSIONAL ACTIVITIES}
+%--------------------------------------------------------------
+
+\textit{Teaching}
+
+\vspace{0.5ex}
+
+\cventry{2019--}{Universidad EAFIT: Microeconomics Seminar---Economics of Crime (undergraduate); Microeconomics Seminar---Development Economics (undergraduate); Political Economy (undergraduate); Impact Evaluation (graduate)}
+\cventry{2022}{University of Chicago Harris School of Public Policy: Economic Development and Policy (graduate); International Police Reform Policy Lab (graduate)}
+\cventry{2016--}{National Police of Colombia (lecturer): Evidence Based Policing (graduate-equivalent)}
+\cventry{2017--19}{American University (lecturer): Policing in the Global Context (undergraduate)}
+\cventry{2015}{Universidad de los Andes (teaching assistant): Economic Theory of Crime (graduate)}
+
+\vspace{1ex}
+
+\textit{PhD Students}
+
+\vspace{0.5ex}
+
+\cventry{2023--}{Martin Vanegas-Arias, Universidad EAFIT (supervision)}
+\cventry{2020--}{C\'{e}sar Herrera, Universidad EAFIT (supervision)}
+\cventry{2022}{PierFrancesco Rolla, University of Sussex (examination)}
+\cventry{2021}{Magaly Herrera, Universidad ICESI (examination)}
+
+\vspace{1ex}
+
+\textit{Refereeing}
+
+\vspace{0.5ex}
+
+\textit{Science}; \textit{Nature}; \textit{Quarterly Journal of Economics}; \textit{American Political Science Review}; \textit{AER: Insights}; \textit{Review of Economics and Statistics}; \textit{Journal of the European Economic Association}; \textit{AEJ: Applied}; \textit{Economic Journal}; \textit{Journal of Labor Economics}; \textit{Journal of Development Economics}; \textit{Journal of Human Resources}; \textit{Journal of Public Economics}; \textit{Comparative Political Studies}; \textit{Journal of Financial and Quantitative Analysis}; \textit{Nature Human Behavior}; \textit{Economic Development and Cultural Change}; \textit{Defence and Peace Economics}; \textit{Journal of Policy Analysis and Management}; \textit{Criminology}; \textit{Journal of Quantitative Criminology}; \textit{Journal of Experimental Criminology}; \textit{Criminology and Public Policy}
+
+\vspace{1.5ex}
+
+%--------------------------------------------------------------
+\section*{SELECTED PRESENTATIONS}
+%--------------------------------------------------------------
+
+\textit{Conference and Seminar Presentations}
+
+\vspace{0.5ex}
+
+\cventry{2025}{UNU-WIDER Tax and Conflict Workshop, Helsinki; The Interconnection of Latin American Policy Challenges, Columbia University, New York}
+
+\cventry{2024}{UNU-WIDER Research Seminar, Helsinki}
+
+\cventry{2023}{IEA World Congress, Medell\'{i}n; IDB Research Seminar, Washington, DC; UNU-WIDER Development Conference, Oslo; NBER Summer Institute: Crime, Cambridge, MA; Texas Economics of Crime Conference, Austin, TX; Seminario CAF; AL CAPONE/RIDGE, Montevideo; Empirical Studies of Conflict, Bogot\'{a}}
+
+\cventry{2022}{American Economics Association Annual Meeting; National Academies Workshop on Building Trust and Legitimacy in Policing; UNU-WIDER Development Conference, Bogot\'{a}; American Society of Criminology Annual Meeting, Atlanta; AL CAPONE, Reggio Calabria; UNU-WIDER Puzzle of Peace Conference, Helsinki; CLEAN Seminar; Urban Violence and Collective Memory in the Americas, Geneva; Conference on Criminal Governance, Rio de Janeiro; CIDE Lecture Series on Drug Policy}
+
+\cventry{2021}{Niskanen Center Panel Series on Violence Prevention; RIDGE Forum: AL CAPONE; Fedesarrollo; UNODC INEGI Conference on Governance, Crime and Justice Statistics; USAID; Center for Global Development Violence Prevention seminar; University of Chicago and LSE Conference on the Economics of Crime and Justice; Universidad Cat\'{o}lica de Uruguay Economics Seminar; Congreso Anual Red de Investigadores de Econom\'{i}a}
+
+\cventry{2020}{BREAD/CEPR/STICERD/TCD Conference on Development Economics; Sao Paulo School of Economics; CEPR RPN on Preventing Conflict; University of Chicago Crime Lab; Empirical Studies of Conflict (ESOC); Texas Economics of Crime Workshop, College Station; Latin America Peace Science, Medell\'{i}n}
+
+\cventry{2019}{Annual Colombian Economics Conference, Bogot\'{a}; IDB Innovation in Citizen Services Division, Washington, DC; LACEA, Puebla; Universidad EAFIT; What Works Global Summit, M\'{e}xico D.F.; REDESDAL, M\'{e}xico D.F.; Behavioral Insights in Development and Peace Building, G\"{o}ttingen; Economic Development and Institutions Annual Conference, Paris; Minist\'{e}rio P\'{u}blico do Estado do Rio de Janeiro; RIDGE Forum: Political Economy Workshop, Medell\'{i}n; AL CAPONE, Medell\'{i}n; Cities and Development Workshop, Johns Hopkins SAIS, Washington, DC; International Republican Institute, Panam\'{a}; Seminario CEDE CESED, Bogot\'{a}}
+
+\cventry{2018}{Encuentro Internacional de Observatorios del Delito, Polic\'{i}a Nacional, Bogot\'{a}; Households in Conflict Network Workshop, Medell\'{i}n; Escuela de Posgrados de la Polic\'{i}a Nacional, Bogot\'{a}; Proantioquia, Medell\'{i}n}
+
+\cventry{2017}{LACEA, Buenos Aires; Economic Development and Institutions Annual Conference, Namur; Economics of Organized Crime, Bogot\'{a}; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Medell\'{i}n; AL CAPONE, Santiago; Empirical Studies of Conflict, Washington, DC; EGAP 20, Bogot\'{a}; Seminario CEDE, Universidad de los Andes, Bogot\'{a}; National Network for Safe Communities, Tarrytown, NY; Seminario de Econom\'{i}a, Universidad del Rosario, Bogot\'{a}}
+
+\cventry{2016}{Center for Latin American Studies, Stanford; LACEA, Medell\'{i}n; University of Chicago Crime Lab; AL CAPONE, Buenos Aires; American Law and Economics Association, Harvard Law School; Seminario Banco de la Rep\'{u}blica, Bogot\'{a}}
+
+\cventry{2015}{LACEA, Santa Cruz de la Sierra}
+
+\cventry{2014}{LACEA, Sao Paulo; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Bogot\'{a}}
+
+\cventry{2012}{Econom\'{i}as criminales y poder pol\'{i}tico, Universidad EAFIT, Medell\'{i}n}
+
+%--------------------------------------------------------------
+\section*{GRANTS}
+%--------------------------------------------------------------
+
+\cventry{2023--24}{Innovations for Poverty Action, Human Trafficking Research Initiative, ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$118,000}
+
+\cventry{2022--24}{Sistema General de Regal\'{i}as, Gobierno de Colombia, ``Estudios sobre pandillas, crimen urbano y gobierno criminal en Antioquia,'' \$840,000}
+
+\cventry{2022--23}{Templeton World Charity Foundation, ``Childhood Adversity, Misperceptions, and Gang Recruitment,'' \$235,000}
+
+\cventry{2022}{Towards Kindness, ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$200,000}
+
+\cventry{2021--23}{Ministerio de Ciencia, Tecnolog\'{i}a e Innovaci\'{o}n, ``Crimen urbano y pol\'{i}ticas de seguridad en Colombia y Am\'{e}rica Latina: Reclutamiento, gobierno criminal y polic\'{i}a militarizada,'' \$400,000}
+
+\cventry{2022}{Interamerican Development Bank, ``Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police,'' \$130,000}
+
+\cventry{2020--21}{Innovations for Poverty Action Peace and Recovery Program, ``Gang Entry and Exit: Behavioral Biases and Gang Recruitment,'' \$50,000}
+
+\cventry{}{Becker Friedman Institute, University of Chicago, ``COVID-19, Crises, and Support for the Rule of Law: Organized Crime in Rio de Janeiro's Favelas,'' \$35,000}
+
+\cventry{}{Foreign and Commonwealth Office, UK, ``How Organized Crime Is Responding to the COVID-19 Crisis,'' \$35,000}
+
+\cventry{}{Universidad EAFIT, ``Organized Crime in Rio de Janeiro: Understanding Non-State Provision of Order and Justice,'' \$40,000}
+
+\cventry{2020}{J-PAL Crime and Violence Initiative, ``The Other Virus: How Gangs and Organized Crime Are Responding to the COVID-19 Crisis,'' \$50,000}
+
+\cventry{2020--23}{Universidad EAFIT, ``Improving Human Decisions through Machine Learning: An Experiment to Reduce Crime by Selecting Inmates Better,'' \$100,000}
+
+\cventry{2019--20}{National Science Foundation, SES 1919399, ``Contesting Criminal Gang Governance in Medell\'{i}n: Experimental Impacts of Intensive Municipal Governance and Community Organization on Gang Governance,'' \$375,000}
+
+\cventry{2019}{J-PAL Crime and Violence Initiative, ``Contesting Criminal Gang Governance in Medellin,'' \$100,000}
+
+\cventry{}{Fundaci\'{o}n para el Desarrollo de Antioquia -- Proantioquia, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000}
+
+\cventry{2018}{Secretar\'{i}a de Seguridad de Medell\'{i}n, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$33,000}
+
+\cventry{}{Proantioquia, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000}
+
+\cventry{2017--18}{J-PAL Latin America and Caribbean, ``Strategies and Programs to Prevent Violence among Youth,'' \$32,000}
+
+\cventry{}{Economic Development and Institutions -- EDI, ``Gangs of Medellin: A Proposal to Understand Variation in Non-State Provision of Order and Justice,'' \$100,000}
+
+\cventry{}{CESED/Postobon, Universidad de los Andes, ``Gangs of Medellin,'' \$10,000}
+
+\cventry{}{CESED/Open Society Foundations, Universidad de los Andes, ``Gangs of Medellin,'' \$10,000}
+
+\cventry{2016--17}{Development Priorities Window -- 3ie, ``Increasing State and Police Presence in the Least Governed Areas of Bogot\'{a}: A Hot Spot Policing Approach,'' \$280,000}
+
+\cventry{}{J-PAL Governance Initiative, ``State-Building on the Intensive and Extensive Margins: Testing Urban Violence Reduction through Policing and Public Services in Bogota,'' \$360,000}
+
+\cventry{}{CAF -- Development Bank of Latin America, ``The Impact of Hotspot Policing and Municipal Services on Crime: Experimental Evidence from Bogot\'{a},'' \$50,000}
+
+\cventry{}{Government Partnership Initiative -- J-PAL, ``The Impact of Hotspot Policing and Municipal Services on Crime: Experimental Evidence from Bogot\'{a},'' \$20,000}
+
+\cventry{2016}{CESED/Postobon, Universidad de los Andes, ``Prison Overcrowding and Recidivism: Evidence from Colombia,'' \$10,000}
+
+\cventry{}{CESED/Open Society Foundations, Universidad de los Andes, ``El Sistema de Justicia Criminal en la lucha contra el consumo de drogas il\'{i}citas,'' \$10,000}
+
+%--------------------------------------------------------------
+\section*{NON-ACADEMIC EMPLOYMENT AND CONSULTING}
+%--------------------------------------------------------------
+
+\cventry{2021--22}{Consultant, Police Reform, National Police of Colombia}
+\cventry{}{Consultant, Policy Analysis and Evaluation, Federaci\'{o}n Nacional de Departamentos}
+\cventry{}{Consultant, Impact Evaluation, Fundaci\'{o}n Acci\'{o}n Interna}
+\cventry{2020--21}{Consultant, Human Rights, Human Rights Office, Presidency of Colombia}
+\cventry{}{Consultant, Human Trafficking, International Organization for Migration}
+\cventry{2019--22}{Consultant, Innovation in Citizen Services Division, Inter-American Development Bank}
+\cventry{2019}{Advisor to the Director for Justice, Security and Government, National Planning Department}
+\cventry{2018--19}{Advisor on Monitoring and Evaluation, International Organization for Migration}
+\cventry{2017--18}{Advisor to the Deputy Minister for Crime Policy, Ministry of Justice of Colombia}
+\cventry{}{Advisor to the Secretary, Secretariat of Security of Bogot\'{a}}
+\cventry{2017}{Consultant, Innovation in Citizen Services Division, Inter-American Development Bank}
+\cventry{2015--16}{Consultant, CAF -- Latin American Development Bank}
+\cventry{}{Consultant, CREER-IHRB Institute for Human Rights and Business}
+\cventry{2014--15}{Chief of Staff, Senator in the 4th Committee on Economic Affairs, Colombian Congress}
+\cventry{2013--14}{Advisor, FINAGRO -- Rural Development Bank, Colombia}
+\cventry{2009--11}{Director, Cadastre and Territorial Development, Government of Antioquia, Colombia}
+\cventry{2008--09}{Director, Economic Development, Government of Antioquia, Colombia}
+
+\end{document}
