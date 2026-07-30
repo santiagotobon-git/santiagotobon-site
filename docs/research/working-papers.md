@@ -14,7 +14,12 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia"</span>
-(with Verónica Abril, Santiago Pérez-Vincent and Martín Vanegas-Arias)
+(with Verónica Abril, Santiago Pérez-Vincent and Martín Vanegas-Arias). Revise and resubmit at <span class="pub-venue">Justice Quarterly</span>.
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories"</span>
+(with Michael Weintraub)
 </div>
 
 ---
@@ -39,11 +44,6 @@
 ---
 
 ## Illicit economies
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"How Illegal Economies and Armed Actors Shape the Vote: Evidence from Colombia's Presidential Elections"</span>
-(with Michael Weintraub)
-</div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia"</span>
