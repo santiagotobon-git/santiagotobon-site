@@ -4,7 +4,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy"</span>
-(con Martín Vanegas-Arias)
+(con Martín Vanegas-Arias). Revisión solicitada en <span class="pub-venue">World Development</span>.
 </div>
 
 <div class="pub-entry" markdown>

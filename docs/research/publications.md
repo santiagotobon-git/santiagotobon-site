@@ -21,7 +21,11 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Implementation Outcomes of a CBT-Based Psychosocial Intervention for Gang-Recruitment-Vulnerable Youth in Medellín: A Qualitative Study of Novice Provider Experiences"</span>
-(with Gabriela Algarín, Mariantonia Lemos and Martín Vanegas-Arias). Forthcoming at <span class="pub-venue">Cambridge Prisms: Global Mental Health</span>.
+(with Mariantonia Lemos, Gabriela Algarín and Martín Vanegas-Arias). <span class="pub-venue">Cambridge Prisms: Global Mental Health</span>, 13, e174. (2026)
+
+<span class="pub-links">
+[Paper](https://doi.org/10.1017/gmh.2026.10282)
+</span>
 </div>
 
 <div class="pub-entry" markdown>
