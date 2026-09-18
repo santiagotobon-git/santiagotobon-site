@@ -8,13 +8,13 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean"</span>
-(con Ernesto Schargrodsky)
+<span class="pub-title">"Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia"</span>
+(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias). Revisión solicitada en <span class="pub-venue">Justice Quarterly</span>.
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia"</span>
-(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias). Revisión solicitada en <span class="pub-venue">Justice Quarterly</span>.
+<span class="pub-title">"From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean"</span>
+(con Ernesto Schargrodsky)
 </div>
 
 <div class="pub-entry" markdown>

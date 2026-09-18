@@ -6,3 +6,7 @@ HANDOFF.md
 HANDOFF.autosave.md
 cv-source/main.pdf
 .DS_Store
+.handoff.lock
+cv-source/main.aux
+cv-source/main.log
+cv-source/main.out
