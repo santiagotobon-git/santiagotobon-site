@@ -144,17 +144,31 @@
 
 /* Publication entries */
 .pub-entry {
-  padding: 1rem 0;
+  padding: 0.7rem 0;
   border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  line-height: 1.5;
 }
 
 .pub-entry:last-child {
   border-bottom: none;
 }
 
+/* Title: the link to the paper, in the body text color so it reads as the headline */
 .pub-entry .pub-title {
+  display: block;
   font-weight: 600;
-  color: var(--md-typeset-a-color);
+  color: var(--md-default-fg-color) !important;
+  text-decoration: none;
+}
+
+.pub-entry a.pub-title:hover {
+  color: var(--md-accent-fg-color) !important;
+  text-decoration: underline;
+}
+
+.pub-entry .pub-meta {
+  display: block;
+  color: var(--md-default-fg-color--light);
 }
 
 .pub-entry .pub-venue {
@@ -163,13 +177,62 @@
 }
 
 .pub-entry .pub-links {
-  margin-top: 0.25rem;
-  font-size: 0.85rem;
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--lighter);
 }
 
 .pub-entry .pub-links a {
   color: var(--md-accent-fg-color) !important;
-  margin-right: 0.75rem;
+}
+
+/* Collapsible abstract */
+.pub-entry details.pub-abstract {
+  margin: 0.2rem 0 0 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+  font-size: 0.8rem;
+}
+
+.pub-entry details.pub-abstract summary {
+  cursor: pointer;
+  color: var(--md-accent-fg-color);
+  padding: 0;
+  font-weight: 400;
+  list-style: revert;
+}
+
+.pub-entry details.pub-abstract summary::before,
+.pub-entry details.pub-abstract summary::after {
+  display: none;
+}
+
+.pub-entry details.pub-abstract p {
+  margin: 0.35rem 0 0.2rem 0;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Collapsed group (Spanish-language and early work) */
+details.pub-group {
+  border: none;
+  box-shadow: none;
+  background: none;
+  padding: 0;
+}
+
+details.pub-group > summary {
+  cursor: pointer;
+  color: var(--md-accent-fg-color);
+  font-size: 0.85rem;
+  padding: 0;
+  list-style: revert;
+}
+
+details.pub-group > summary::before,
+details.pub-group > summary::after {
+  display: none;
 }
 
 /* Latest section on homepage */
@@ -239,4 +302,37 @@
   .card-grid {
     grid-template-columns: 1fr;
   }
+}
+
+/* Override Material's admonition-style details for abstracts and collapsed groups */
+.md-typeset .pub-entry details.pub-abstract,
+.md-typeset details.pub-group {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  margin: 0.2rem 0 0 0;
+  padding: 0;
+  overflow: visible;
+}
+
+.md-typeset .pub-entry details.pub-abstract > summary,
+.md-typeset details.pub-group > summary {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  min-height: 0;
+}
+
+.md-typeset .pub-entry details.pub-abstract > summary::before,
+.md-typeset .pub-entry details.pub-abstract > summary::after,
+.md-typeset details.pub-group > summary::before,
+.md-typeset details.pub-group > summary::after {
+  display: none;
+}
+
+.md-typeset .pub-entry details.pub-abstract > p {
+  margin: 0.35rem 0 0.3rem 0;
+  padding: 0;
 }

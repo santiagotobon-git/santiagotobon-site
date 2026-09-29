@@ -44,7 +44,7 @@ En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño
 
 Publicaciones en gobernanza criminal, policía, prisiones y mercados ilícitos. Documentos de trabajo sobre confianza en actores estatales, reclutamiento de pandillas y la organización del crimen organizado.
 
-[Ver publicaciones →](research/publications.md){ .card-link }
+[Ver investigación →](research/publications.md){ .card-link }
 
 </div>
 
@@ -70,11 +70,11 @@ Un relato basado en evidencia sobre la industria de la cocaína —desde el cult
 
 <div class="card" markdown>
 
-### Datos y replicación
+### Escritos de política
 
-Paquetes de replicación para artículos publicados, alojados en Harvard Dataverse y Zenodo.
+Notas de política e informes para gobiernos y agencias de desarrollo, desde el tamaño de las economías de la cocaína y del oro en Colombia hasta lecciones de experimentos de campo con la policía y los gobiernos locales.
 
-[Ver datos →](research/data.md){ .card-link }
+[Ver escritos de política →](writing/policy.md){ .card-link }
 
 </div>
 
@@ -85,16 +85,16 @@ Paquetes de replicación para artículos publicados, alojados en Harvard Dataver
 **Reciente**
 
 <div class="latest-item" markdown>
-<span>"Gang rule: Understanding and countering criminal governance" — *Review of Economic Studies* (2025)</span>
+<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing" — *American Political Science Review* (2026)</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Statebuilding in the City" — próximamente en *APSR*</span>
+<span>"Organized Crime and Violence" — próximamente en *Annual Review of Economics*</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>How conflict and illicit economies undermine fiscal stability in Colombia — UNU-WIDER</span>
-<span class="latest-type">Blog, 2024</span>
+<span>"La participación del productor: el tamaño de la economía de la cocaína en Colombia" — Valor Público, Universidad EAFIT</span>
+<span class="latest-type">Nota de política, 2026</span>
 </div>

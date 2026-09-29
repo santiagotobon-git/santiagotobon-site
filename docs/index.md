@@ -44,7 +44,7 @@ In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Med
 
 Publications in criminal governance, policing, prisons, and illicit markets. Working papers on trust in state actors, gang recruitment, and the organization of organized crime.
 
-[Browse publications →](research/publications.md){ .card-link }
+[Browse research →](research/publications.md){ .card-link }
 
 </div>
 
@@ -70,11 +70,11 @@ An evidence-based account of the cocaine industry — from coca cultivation thro
 
 <div class="card" markdown>
 
-### Data & replication
+### Policy writing
 
-Replication packages for published papers, hosted on Harvard Dataverse and Zenodo.
+Policy notes and reports for governments and development agencies, from the size of Colombia's cocaine and gold economies to lessons from field experiments with the police and city governments.
 
-[Browse datasets →](research/data.md){ .card-link }
+[Read policy writing →](writing/policy.md){ .card-link }
 
 </div>
 
@@ -85,16 +85,16 @@ Replication packages for published papers, hosted on Harvard Dataverse and Zenod
 **Latest**
 
 <div class="latest-item" markdown>
-<span>"Gang rule: Understanding and countering criminal governance" — *Review of Economic Studies* (2025)</span>
+<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing" — *American Political Science Review* (2026)</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Statebuilding in the City" — forthcoming at *APSR*</span>
+<span>"Organized Crime and Violence" — forthcoming at *Annual Review of Economics*</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>How conflict and illicit economies undermine fiscal stability in Colombia — UNU-WIDER</span>
-<span class="latest-type">Blog post, 2024</span>
+<span>"The Producer's Cut: Sizing Colombia's Cocaine Economy" — Valor Público, Universidad EAFIT</span>
+<span class="latest-type">Policy note, 2026</span>
 </div>

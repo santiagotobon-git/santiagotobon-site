@@ -69,11 +69,7 @@ plugins:
           build: true
           nav:
             - Inicio: index.md
-            - Investigación:
-              - Publicaciones: research/publications.md
-              - Documentos de trabajo: research/working-papers.md
-              - Capítulos de libro y trabajo anterior: research/book-chapters.md
-              - Datos y replicación: research/data.md
+            - Investigación: research/publications.md
             - Centro de Valor Público: centro.md
             - Libro: book.md
             - Escritos y medios:
@@ -84,11 +80,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Research:
-    - Publications: research/publications.md
-    - Working papers: research/working-papers.md
-    - Book chapters & earlier work: research/book-chapters.md
-    - Data & replication: research/data.md
+  - Research: research/publications.md
   - Centro de Valor Público: centro.md
   - Book: book.md
   - Writing & Media:

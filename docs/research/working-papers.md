@@ -1,70 +1,10 @@
-# Working papers and work in progress
-
-## Under review
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy"</span>
-(with Martín Vanegas-Arias). Revise and resubmit at <span class="pub-venue">World Development</span>.
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia"</span>
-(with Verónica Abril, Santiago Pérez-Vincent and Martín Vanegas-Arias). Revise and resubmit at <span class="pub-venue">Justice Quarterly</span>.
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean"</span>
-(with Ernesto Schargrodsky)
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories"</span>
-(with Michael Weintraub)
-</div>
-
+---
+search:
+  exclude: true
 ---
 
-## Organized crime
+# Working papers
 
-<div class="pub-entry" markdown>
-<span class="pub-title">"Pax Criminalis"</span>
-(with Christopher Blattman, Gustavo Duncan, Benjamin Lessing and Juan F. Martínez)
-</div>
+This page has moved to [Research](publications.md#working-papers).
 
-<div class="pub-entry" markdown>
-<span class="pub-title">"Gangs of Medellín: How organized crime is organized"</span>
-(with Christopher Blattman, Gustavo Duncan and Benjamin Lessing)
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys"</span>
-(with Christopher Blattman and Arantxa Rodríguez-Uribe)
-</div>
-
----
-
-## Illicit economies
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain"</span>
-(with Juan F. Vargas and Michael Weintraub)
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia"</span>
-(with Ivonne Lara, Martín Vanegas-Arias and Juan F. Vargas)
-</div>
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Do Illegal Economies Reduce Local Fiscal Capacity?"</span>
-(with Patricia Justino, Martín Vanegas-Arias and Juan F. Vargas)
-</div>
-
----
-
-## Policing and trust in state institutions
-
-<div class="pub-entry" markdown>
-<span class="pub-title">"Building Trust in the Police: Evidence from a Multi-Site Experiment in Colombia"</span>
-(with Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent and Michael Weintraub)
-</div>
+<script>window.location.replace("../publications/#working-papers");</script>
