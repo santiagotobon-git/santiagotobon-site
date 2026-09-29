@@ -10,9 +10,9 @@ hide:
 
 Estudio cómo opera el crimen organizado —cómo las organizaciones criminales gobiernan comunidades, extraen recursos y se sostienen— y qué pueden hacer los gobiernos al respecto. Mi investigación abarca temas de policía, prisiones, alternativas civiles a la aplicación de la ley y la regulación de mercados ilícitos. La mayor parte de mi trabajo de campo se desarrolla en ciudades colombianas, donde realizo experimentos y recolecto datos originales sobre gobernanza criminal, confianza ciudadana en las instituciones estatales y los efectos de intervenciones de política pública a escala.
 
-Soy Profesor de Economía en la Universidad EAFIT en Medellín y Director del [Centro de Valor Público](centro.md), que conecta la investigación aplicada con la toma de decisiones institucionales en Colombia. Estoy afiliado a J-PAL, IPA, UNU-WIDER y EGAP, donde soy miembro de la Junta Directiva.
+Soy Profesor de Economía en la Universidad EAFIT en Medellín y Director del [Centro de Valor Público](centro.md), que conecta la investigación aplicada con la toma de decisiones institucionales en Colombia. Presido AL CAPONE, la red América Latina Crime and Policy Network, y estoy afiliado a J-PAL, IPA, UNU-WIDER y EGAP, donde soy miembro de la Junta Directiva.
 
-En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos menores de 40 años cuya investigación ha incidido en la política pública.
+En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos de 40 años o menos cuya investigación ha incidido en la política pública.
 
 </div>
 <div class="hero-photo" markdown>

@@ -4,7 +4,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Crime: Economics of, The Standard Approach"</span>
-(con Paolo Buonanno y Juan Vargas). En Marciano, A. y Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2023)
+(con Paolo Buonanno y Juan F. Vargas). En Marciano, A. y Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2023)
 
 <span class="pub-links">
 [Capítulo](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_743-2)
@@ -23,7 +23,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Prisons"</span>
-(con Paolo Buonanno y Juan Vargas). En Marciano, A. y Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2022)
+(con Paolo Buonanno y Juan F. Vargas). En Marciano, A. y Ramello, G.B. (Eds.) *Encyclopedia of Law and Economics*, Springer. (2022)
 
 <span class="pub-links">
 [Capítulo](https://link.springer.com/referenceworkentry/10.1007/978-1-4614-7883-6_595-2)
@@ -33,8 +33,13 @@
 ## Política de drogas y economías ilícitas
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"La situación del narcotráfico en Colombia ad portas del posconflicto"</span>
-(con Isabel Gutiérrez y Gustavo Duncan). En Giraldo, J. (Ed.) *Contribuciones de la Universidad a la Agenda de La Habana*, Universidad EAFIT. (2018)
+<span class="pub-title">"Concealed Costs: Illicit Economies and the Erosion of the Local Tax Base in Colombia"</span>
+(con Patricia Justino, Martín Vanegas-Arias y Juan F. Vargas). En Justino, P. et al. (Eds.) *Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes*, Oxford University Press. Próximamente.
+</div>
+
+<div class="pub-entry" markdown>
+<span class="pub-title">"La situación del narcotráfico en Colombia ad portas del posacuerdo"</span>
+(con Isabel Gutiérrez, Camila Suárez, Martín Vanegas-Arias y Gustavo Duncan). En Giraldo, J. (Ed.) *Contribuciones de la Universidad a la Agenda de La Habana*, Universidad EAFIT. (2016)
 
 <span class="pub-links">[Capítulo](http://www.eafit.edu.co/escuelas/humanidades/departamento-gobierno-ciencias-politicas/publicaciones/SiteAssets/Paginas/libros/Cuadernos%20de%20Trabajo%20EAFIT%2013-5-2016.pdf)</span>
 </div>
@@ -66,7 +71,7 @@ En Giraldo, J. (Ed.) *Economía criminal y poder político*, Universidad EAFIT. 
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Evaluación y seguimiento a las actividades de la policía de vigilancia"</span>
-(con Isabel Gutiérrez). En Gutiérrez, I. (Ed.) *Gestión Territorial de la Seguridad en el Posconflicto*, EAFIT y CESEP. (2017)
+(con Isabel Gutiérrez). En Gutiérrez, I. (Ed.) *Gestión Territorial de la Seguridad en el Posconflicto*, EAFIT y CESEP. (2016)
 
 <span class="pub-links">[Capítulo](https://www.dropbox.com/s/4fhgf5apgsmziiq/Gesti%C3%B3n%20Territorial%20de%20la%20Seguridad%20en%20el%20Posconflicto%20CESEP%202016.pdf?dl=0)</span>
 </div>
@@ -80,14 +85,14 @@ En Giraldo, J. (Ed.) *Economía criminal y poder político*, Universidad EAFIT. 
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"The Rational Expectations Hypothesis: An Assessment on its Real World Application"</span>
-<span class="pub-venue">Ecos de Economía: A Latin American Journal of Applied Economics</span>, 18(37), 37–47. (2014)
+<span class="pub-venue">Ecos de Economía: A Latin American Journal of Applied Economics</span>, 18(39), 37–47. (2014)
 
 <span class="pub-links">[Paper](http://publicaciones.eafit.edu.co/index.php/ecos-economia/article/view/2705)</span>
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Impuesto predial y desarrollo económico"</span>
-(con Juan Carlos Muñoz). <span class="pub-venue">Ecos de Economía</span>, 17(36), 173–198. (2013)
+<span class="pub-title">"Impuesto predial y desarrollo económico: aproximación a la relación entre el impuesto predial y la inversión de los municipios de Antioquia"</span>
+(con Juan Carlos Muñoz-Mora). <span class="pub-venue">Ecos de Economía</span>, 17(36), 173–198. (2013)
 
 <span class="pub-links">[Paper](http://publicaciones.eafit.edu.co/index.php/ecos-economia/article/view/2163/2158)</span>
 </div>
@@ -105,7 +110,7 @@ En Giraldo, J. (Ed.) *Economía criminal y poder político*, Universidad EAFIT. 
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Meta-Analysis of Hematopoietic Stem Cell Transplantation in Major Histocompatibility Complex Class II Deficiency"</span>
-(con Lina Castano-Jaramillo, Jose Bareno-Silva y Andres Escobar-Gonzalez). <span class="pub-venue">Pediatric Transplantation</span>, 24(6), e13774. (2020)
+(con Lina Castaño-Jaramillo, Jose Bareño-Silva y Andres Escobar-Gonzalez). <span class="pub-venue">Pediatric Transplantation</span>, 24(6), e13774. (2020)
 
 <span class="pub-links">[Paper](https://doi.org/10.1111/petr.13774)</span>
 </div>

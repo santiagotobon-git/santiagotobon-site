@@ -12,22 +12,27 @@ Soy Profesor de Economía en la Universidad EAFIT en Medellín, Colombia, y Dire
 
 Tengo las siguientes afiliaciones:
 
+- **AL CAPONE** (América Latina Crime and Policy Network) — Presidente
 - **UNU-WIDER** — Investigador Senior No Residente
-- **J-PAL** — Investigador Afiliado
-- **IPA** — Investigador Afiliado
-- **EGAP** — Miembro de Junta Directiva
+- **J-PAL** — Afiliado, Crime and Violence Initiative
+- **IPA** — Investigador
+- **EGAP** — Miembro académico y de Junta Directiva
 
-He sido profesor visitante en la Harris School of Public Policy de la Universidad de Chicago, el Banco Interamericano de Desarrollo y UNU-WIDER. Antes de vincularme a EAFIT, fui Investigador Postdoctoral en el Pearson Institute de la Universidad de Chicago y el programa Peace and Recovery de IPA.
+He sido profesor visitante en la Harris School of Public Policy de la Universidad de Chicago, el Banco Interamericano de Desarrollo y UNU-WIDER. Antes de vincularme a EAFIT, fui Investigador Postdoctoral en la Harris School of Public Policy de la Universidad de Chicago y en Innovations for Poverty Action.
 
 ## Premios
 
-En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos menores de 40 años cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el principal centro independiente de investigación económica de Colombia.
+En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos de 40 años o menos cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el principal centro independiente de investigación económica de Colombia.
+
+En 2024 recibí el Premio Medellín Investiga, que se otorga cada año al mejor proyecto de investigación sobre los principales retos de desarrollo de Medellín.
 
 ## Educación
 
 - **Doctorado en Economía**, Universidad de los Andes (2018)
 - **Maestría en Economía**, Universidad de los Andes (2017)
 - **Maestría en Economía**, Université catholique de Louvain (2012)
+- **Maestría en Administración**, Universidad EAFIT (2011)
+- **Pregrado en Ingeniería Informática**, Universidad EIA (2007)
 
 ## Contacto
 

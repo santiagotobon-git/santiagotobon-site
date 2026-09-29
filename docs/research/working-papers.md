@@ -27,18 +27,18 @@
 ## Organized crime
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"The Pax Criminalis"</span>
-(with Chris Blattman, Gustavo Duncan, Ben Lessing and Juan F. Martinez)
+<span class="pub-title">"Pax Criminalis"</span>
+(with Christopher Blattman, Gustavo Duncan, Benjamin Lessing and Juan F. Martínez)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Gangs of Medellín: How organized crime is organized"</span>
-(with Chris Blattman, Gustavo Duncan and Ben Lessing)
+(with Christopher Blattman, Gustavo Duncan and Benjamin Lessing)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys"</span>
-(with Chris Blattman and Arantxa Rodríguez-Uribe)
+(with Christopher Blattman and Arantxa Rodríguez-Uribe)
 </div>
 
 ---
@@ -46,13 +46,18 @@
 ## Illicit economies
 
 <div class="pub-entry" markdown>
+<span class="pub-title">"The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain"</span>
+(with Juan F. Vargas and Michael Weintraub)
+</div>
+
+<div class="pub-entry" markdown>
 <span class="pub-title">"How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia"</span>
-(with Ivonne Lara, Martín Vanegas-Arias and Juan Vargas)
+(with Ivonne Lara, Martín Vanegas-Arias and Juan F. Vargas)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Do Illegal Economies Reduce Local Fiscal Capacity?"</span>
-(with Patricia Justino, Martín Vanegas-Arias and Juan Vargas)
+(with Patricia Justino, Martín Vanegas-Arias and Juan F. Vargas)
 </div>
 
 ---
@@ -60,6 +65,6 @@
 ## Policing and trust in state institutions
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Building trust in state actors: A multi-site experiment with the Colombian National Police"</span>
+<span class="pub-title">"Building Trust in the Police: Evidence from a Multi-Site Experiment in Colombia"</span>
 (with Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent and Michael Weintraub)
 </div>

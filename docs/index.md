@@ -10,9 +10,9 @@ hide:
 
 I study how organized crime operates — how criminal organizations govern communities, extract resources, and sustain themselves — and what governments can do about it. My research covers policing, prisons, civilian alternatives to enforcement, and the regulation of illicit markets. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data on criminal governance, public trust in state institutions, and the effects of policy interventions at scale.
 
-I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
+I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I chair AL CAPONE, the América Latina Crime and Policy Network, and hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
 
-In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians under 40 whose research has shaped public policy.
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy.
 
 </div>
 <div class="hero-photo" markdown>

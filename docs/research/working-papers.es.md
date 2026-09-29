@@ -27,18 +27,18 @@
 ## Crimen organizado
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"The Pax Criminalis"</span>
-(con Chris Blattman, Gustavo Duncan, Ben Lessing y Juan F. Martinez)
+<span class="pub-title">"Pax Criminalis"</span>
+(con Christopher Blattman, Gustavo Duncan, Benjamin Lessing y Juan F. Martínez)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Gangs of Medellín: How organized crime is organized"</span>
-(con Chris Blattman, Gustavo Duncan y Ben Lessing)
+(con Christopher Blattman, Gustavo Duncan y Benjamin Lessing)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys"</span>
-(con Chris Blattman y Arantxa Rodríguez-Uribe)
+(con Christopher Blattman y Arantxa Rodríguez-Uribe)
 </div>
 
 ---
@@ -46,13 +46,18 @@
 ## Economías ilícitas
 
 <div class="pub-entry" markdown>
+<span class="pub-title">"The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain"</span>
+(con Juan F. Vargas y Michael Weintraub)
+</div>
+
+<div class="pub-entry" markdown>
 <span class="pub-title">"How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia"</span>
-(con Ivonne Lara, Martín Vanegas-Arias y Juan Vargas)
+(con Ivonne Lara, Martín Vanegas-Arias y Juan F. Vargas)
 </div>
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Do Illegal Economies Reduce Local Fiscal Capacity?"</span>
-(con Patricia Justino, Martín Vanegas-Arias y Juan Vargas)
+(con Patricia Justino, Martín Vanegas-Arias y Juan F. Vargas)
 </div>
 
 ---
@@ -60,6 +65,6 @@
 ## Policía y confianza en instituciones estatales
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Building trust in state actors: A multi-site experiment with the Colombian National Police"</span>
+<span class="pub-title">"Building Trust in the Police: Evidence from a Multi-Site Experiment in Colombia"</span>
 (con Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent y Michael Weintraub)
 </div>

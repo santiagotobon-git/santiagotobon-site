@@ -1,7 +1,7 @@
-\documentclass[11pt]{article}
+\documentclass[10pt]{article}
 
-% Page geometry
-\usepackage[letterpaper, margin=1in]{geometry}
+% Layout follows cv-onepage.tex, with slightly looser spacing (2026-09-29).
+\usepackage[letterpaper, hmargin=0.6in, vmargin=0.5in]{geometry}
 
 % Fonts and encoding
 \usepackage[T1]{fontenc}
@@ -12,75 +12,66 @@
 % Hyperlinks
 \usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
 
-% For compact lists
-\usepackage{enumitem}
-
 % Spacing
-\usepackage{setspace}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0pt}
 
+% Page numbers bottom right
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{\footnotesize Santiago Tob\'{o}n --- \thepage}
+
 % Section formatting
 \usepackage{titlesec}
-\titleformat{\section}{\normalfont\normalsize\scshape\bfseries}{}{0em}{}[\vspace{-0.5ex}\hrule\vspace{1ex}]
-\titlespacing{\section}{0pt}{1.5ex plus 0.5ex}{0.5ex plus 0.2ex}
+\titleformat{\section}{\normalfont\normalsize\scshape\bfseries}{}{0em}{}[\vspace{-0.6ex}\hrule\vspace{0.3ex}]
+\titlespacing{\section}{0pt}{1.2ex plus 0.3ex}{0.4ex}
 % Keep each section heading on the same page as its first entries
 \usepackage{needspace}
-\newcommand{\sectionbreak}{\needspace{5\baselineskip}}
+\newcommand{\sectionbreak}{\Needspace*{5\baselineskip}}
 
 % Custom commands
 \newlength{\datecolwidth}
-\setlength{\datecolwidth}{1.5cm}
+\setlength{\datecolwidth}{1.35cm}
 \newlength{\gapwidth}
-\setlength{\gapwidth}{0.5cm}
+\setlength{\gapwidth}{0.35cm}
 \newlength{\maincolwidth}
 \setlength{\maincolwidth}{\dimexpr\textwidth-\datecolwidth-\gapwidth\relax}
 
+% Hanging-indent entry: looks like a two-column row but can break across pages
 \newcommand{\cventry}[2]{%
-  \begin{tabular}[t]{@{}p{\datecolwidth}@{\hspace{\gapwidth}}p{\maincolwidth}@{}}
-  #1 & #2 \\
-  \end{tabular}\vspace{0.3ex}%
-}
+  \par\hangindent=\dimexpr\datecolwidth+\gapwidth\relax\hangafter=1
+  \noindent\makebox[\datecolwidth][l]{#1}\hspace{\gapwidth}#2\par\vspace{0.1ex}}
 
-\newcommand{\cventryw}[2]{%
-  \begin{tabular}[t]{@{}p{\datecolwidth}@{\hspace{\gapwidth}}p{\maincolwidth}@{}}
-  #1 & #2 \\
-  \end{tabular}\vspace{0.1ex}%
-}
+% Italic sub-heading inside a section
+\newcommand{\cvsub}[1]{\par\vspace{0.5ex}\textit{#1}\par\nopagebreak\vspace{0.3ex}\nopagebreak}
 
 \begin{document}
 
 \begin{center}
-{\large \textbf{SANTIAGO TOB\'{O}N, PHD}}
+{\large\textbf{SANTIAGO TOB\'{O}N, PHD}}\\[0.4ex]
+Professor of Economics, School of Finance, Economics and Government, Universidad EAFIT\\
+CR 49 \# 7Sur-50, Rm.\ 26-113, Medell\'{i}n, Colombia 050022 \,$\cdot$\, +57 604 261 9500 \,$\cdot$\, Citizenship: Colombian, Spanish\\
+\href{mailto:stobonz@eafit.edu.co}{stobonz@eafit.edu.co} \,$\cdot$\, \url{https://santiagotobon.co}
 \end{center}
 
-\vspace{0.5ex}
-
-\begin{tabular}[t]{@{}l@{\hspace{3cm}}l}
-Universidad EAFIT & \href{mailto:stobonz@eafit.edu.co}{stobonz@eafit.edu.co} \\
-School of Finance, Economics and Government& \url{http://santiagotobon.co/} \\
-CR 49 \# 7Sur-50, Rm. 26-113 & +57 4 261 9500 \\
-Medell\'{i}n, Colombia 050022 & Citizenship: Colombian, Spanish \\
-\end{tabular}
-
-\vspace{1.5ex}
-
 %--------------------------------------------------------------
-\section*{ACADEMIC EMPLOYMENT}
+\section*{Academic Employment}
 %--------------------------------------------------------------
 
 \cventry{2020--}{Professor of Economics (tenured), Universidad EAFIT}
 \cventry{2025--}{Director, Centro de Valor P\'{u}blico---EAFIT's applied policy research center, Universidad EAFIT}
 \cventry{2019--20}{Professor of Economics (untenured), Universidad EAFIT}
 \cventry{2024}{Visiting Scholar, UNU -- World Institute for Development Economics Research, Helsinki}
-\cventry{2023}{Visiting Scholar, Interamerican Development Bank, Washington, DC}
+\cventry{2023}{Visiting Scholar, Inter-American Development Bank, Washington, DC}
 \cventry{2022}{Visiting Professor, University of Chicago Harris School of Public Policy, Chicago}
 \cventry{2017--19}{Postdoctoral Scholar, University of Chicago Harris School of Public Policy \& Innovations for Poverty Action}
 \cventry{2016--17}{Doctoral Scholar, Innovations for Poverty Action}
 \cventry{2016}{Visiting Doctoral Student, University of Chicago Harris School of Public Policy}
 
 %--------------------------------------------------------------
-\section*{OTHER AFFILIATIONS}
+\section*{Other Affiliations}
 %--------------------------------------------------------------
 
 \cventry{2026--}{Chair, AL CAPONE---Am\'{e}rica Latina Crime and Policy Network}
@@ -90,16 +81,7 @@ Medell\'{i}n, Colombia 050022 & Citizenship: Colombian, Spanish \\
 \cventry{2016--}{Researcher, Innovations for Poverty Action}
 
 %--------------------------------------------------------------
-\section*{CONFERENCE ORGANIZATION}
-%--------------------------------------------------------------
-
-\cventry{2027}{Host, 20th Annual Conference of the International Society for the Study of Drug Policy (ISSDP), Universidad EAFIT, Medell\'{i}n}
-\cventry{2027}{Host, AL CAPONE Annual Meeting, Universidad EAFIT, Medell\'{i}n}
-\cventry{2025}{Host, EGAP 29 Meeting, Universidad EAFIT, Medell\'{i}n}
-\cventry{2023}{Local host, 20th IEA World Congress, Medell\'{i}n}
-
-%--------------------------------------------------------------
-\section*{EDUCATION}
+\section*{Education}
 %--------------------------------------------------------------
 
 \cventry{2014--18}{Ph.D., Economics, Universidad de los Andes, Bogot\'{a}. Dissertation with distinction}
@@ -109,242 +91,100 @@ Medell\'{i}n, Colombia 050022 & Citizenship: Colombian, Spanish \\
 \cventry{2002--07}{B.A., Computer Science, Universidad EIA, Envigado}
 
 %--------------------------------------------------------------
-\section*{FIELDS OF STUDY}
+\section*{Fields of Study}
 %--------------------------------------------------------------
 
 Economics of crime, Organized crime and criminal governance, Drug policy, Policing and criminal justice, Development economics, Political economy
 
-\vspace{1.5ex}
-
 %--------------------------------------------------------------
-\section*{PRIZES AND HONORS}
+\section*{Prizes and Honors}
 %--------------------------------------------------------------
 
 \cventry{2024}{Medell\'{i}n Investiga Prize, awarded every year to the best research project related to Medell\'{i}n's most important development challenges}
 \cventry{2020}{Juan Luis Londo\~{n}o Medal, awarded every two years to Colombians of 40 years or less for the impact of their research and policy work on the welfare of Colombians}
 
 %--------------------------------------------------------------
-\section*{BOOKS}
+\section*{Conference Organization}
+%--------------------------------------------------------------
+
+\cventry{2027}{Host, 20th Annual Conference of the International Society for the Study of Drug Policy (ISSDP), Universidad EAFIT, Medell\'{i}n}
+\cventry{2027}{Host, AL CAPONE Annual Meeting, Universidad EAFIT, Medell\'{i}n}
+\cventry{2025}{Host, EGAP 29 Meeting, Universidad EAFIT, Medell\'{i}n}
+\cventry{2023}{Local host, 20th IEA World Congress, Medell\'{i}n}
+
+%--------------------------------------------------------------
+\section*{Books}
 %--------------------------------------------------------------
 
 \cventry{2027}{\textit{Coca\'{i}na: Anatom\'{i}a de un mercado prohibido}. Under contract, Penguin Random House Grupo Editorial. Expected publication 2027.}
-
-\cventry{Forth.}{\textit{State-building and State Capacity in Conflict-Affected Contexts: The Role of Formal and Informal Taxation}, edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza. Oxford University Press, in production.} % TODO: title being finalized -- editors discussing rename to ``Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes'' (Justino email 2026-08-31)
-
-\vspace{1.5ex}
+\cventry{Forth.}{\textit{Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes}, edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza. Oxford University Press, in production.} % Title agreed unanimously by the editors, 2026-09-11 (email thread with Justino); formerly ``State-building and State Capacity in Conflict-Affected Contexts''
 
 %--------------------------------------------------------------
-\section*{ACADEMIC PUBLICATIONS}
+\section*{Academic Publications}
 %--------------------------------------------------------------
 
 \input{publications-block}
 
 %--------------------------------------------------------------
-\section*{WORKING PAPERS \& PAPERS UNDER REVIEW}
+\section*{Working Papers \& Papers under Review}
 %--------------------------------------------------------------
 
-``Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy,'' with Mart\'{i}n Vanegas-Arias. Revise and resubmit, \textit{World Development}
-
-\vspace{0.5ex}
-
-``Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia,'' with Ver\'{o}nica Abril, Santiago P\'{e}rez-Vincent, and Mart\'{i}n Vanegas-Arias. Revise and resubmit, \textit{Justice Quarterly}
-
-\vspace{0.5ex}
-
-``The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain,'' with Juan F. Vargas and Michael Weintraub
-
-\vspace{0.5ex}
-
-``From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean,'' with Ernesto Schargrodsky. Under review
-
-\vspace{0.5ex}
-
-``Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories,'' with Michael Weintraub. Under review
-
-\vspace{0.5ex}
-
-``Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys,'' with Christopher Blattman and Arantxa Rodr\'{i}guez-Uribe
-
-\vspace{0.5ex}
-
-``Pax Criminalis,'' with Christopher Blattman, Gustavo Duncan, Benjamin Lessing, and Juan F. Mart\'{i}nez
-
-\vspace{0.5ex}
-
-``Gangs of Medell\'{i}n: How Organized Crime Is Organized,'' with Christopher Blattman, Gustavo Duncan, and Benjamin Lessing
-
-\vspace{0.5ex}
-
-``Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police,'' with Ver\'{o}nica Abril, Ervyn Norza, Santiago P\'{e}rez-Vincent, and Michael Weintraub
-
-\vspace{0.5ex}
-
-``How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia,'' with Ivonne Lara, Mart\'{i}n Vanegas-Arias, and Juan Vargas
-
-\vspace{0.5ex}
-
-``Do Illegal Economies Reduce Local Fiscal Capacity?'' with Patricia Justino, Mart\'{i}n Vanegas-Arias, and Juan Vargas
-
-\vspace{1.5ex}
+\cventry{}{``Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy,'' with Mart\'{i}n Vanegas-Arias. Revise and resubmit, \textit{World Development}}
+\cventry{}{``Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia,'' with Ver\'{o}nica Abril, Santiago P\'{e}rez-Vincent, and Mart\'{i}n Vanegas-Arias. Revise and resubmit, \textit{Justice Quarterly}}
+\cventry{}{``The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain,'' with Juan F. Vargas and Michael Weintraub}
+\cventry{}{``From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean,'' with Ernesto Schargrodsky. Under review}
+\cventry{}{``Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories,'' with Michael Weintraub. Under review}
+\cventry{}{``Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys,'' with Christopher Blattman and Arantxa Rodr\'{i}guez-Uribe}
+\cventry{}{``Pax Criminalis,'' with Christopher Blattman, Gustavo Duncan, Benjamin Lessing, and Juan F. Mart\'{i}nez}
+\cventry{}{``Gangs of Medell\'{i}n: How Organized Crime Is Organized,'' with Christopher Blattman, Gustavo Duncan, and Benjamin Lessing}
+\cventry{}{``Building Trust in the Police: Evidence from a Multi-Site Experiment in Colombia,'' with Ver\'{o}nica Abril, Ervyn Norza, Santiago P\'{e}rez-Vincent, and Michael Weintraub} % Title updated 2026-09-29 to the current manuscript (police-trust-experiment/paper/main.tex; SocArXiv 2024, SSRN 2025). The IDB technical note under Policy Notes keeps the 2023 title.
+\cventry{}{``How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia,'' with Ivonne Lara, Mart\'{i}n Vanegas-Arias, and Juan F. Vargas}
+\cventry{}{``Do Illegal Economies Reduce Local Fiscal Capacity?'' with Patricia Justino, Mart\'{i}n Vanegas-Arias, and Juan F. Vargas}
 
 %--------------------------------------------------------------
-\section*{PROFESSIONAL ACTIVITIES}
+\section*{Grants}
 %--------------------------------------------------------------
 
-\textit{Teaching}
-
-\vspace{0.5ex}
-
-\cventry{2019--}{Universidad EAFIT: Microeconomics Seminar---Economics of Crime (undergraduate); Microeconomics Seminar---Development Economics (undergraduate); Political Economy (undergraduate); Impact Evaluation (graduate)}
-\cventry{2022}{University of Chicago Harris School of Public Policy: Economic Development and Policy (graduate); International Police Reform Policy Lab (graduate)}
-\cventry{2016--}{National Police of Colombia (lecturer): Evidence Based Policing (graduate-equivalent)}
-\cventry{2017--19}{American University (lecturer): Policing in the Global Context (undergraduate)}
-\cventry{2015}{Universidad de los Andes (teaching assistant): Economic Theory of Crime (graduate)}
-
-\vspace{1ex}
-
-\textit{PhD Students}
-
-\vspace{0.5ex}
-
-\cventry{2023--}{Martin Vanegas-Arias, Universidad EAFIT (supervision)}
-\cventry{2020--26}{C\'{e}sar Herrera, Universidad EAFIT (supervision; graduated 2026)}
-\cventry{2022}{PierFrancesco Rolla, University of Sussex (examination)}
-\cventry{2021}{Magaly Herrera, Universidad ICESI (examination)}
-
-\vspace{1ex}
-
-\textit{Refereeing}
-
-\vspace{0.5ex}
-
-Science, Nature, Quarterly Journal of Economics, American Political Science Review, AER: Insights, Review of Economics and Statistics, Journal of the European Economic Association, AEJ: Applied, Economic Journal, Journal of Labor Economics, Journal of Development Economics, Journal of Human Resources, Journal of Public Economics, Comparative Political Studies, Journal of Financial and Quantitative Analysis, Nature Human Behavior, Economic Development and Cultural Change, Defence and Peace Economics, Journal of Policy Analysis and Management, Criminology, Journal of Quantitative Criminology, Journal of Experimental Criminology, Criminology and Public Policy
-
-\vspace{1.5ex}
-
-%--------------------------------------------------------------
-\section*{SELECTED PRESENTATIONS}
-%--------------------------------------------------------------
-
-\textit{Conference and Seminar Presentations}
-
-\vspace{0.5ex}
-
-\cventry{2026}{CAF Research Seminar, Buenos Aires; Universidad de San Andr\'{e}s Economics Seminar, Buenos Aires; Universidad de Montevideo Economics Seminar; University of Chicago Harris School of Public Policy; Universidad EAFIT Economics Seminar; U.S. Department of State TIP Office--IPA Human Trafficking Research Initiative briefing (virtual); CAF Workshop with the Laboratorio de Justicia y Pol\'{i}tica Criminal, Cali}
-
-\cventry{2025}{UNU-WIDER Tax and Conflict Workshop, Helsinki; The Interconnection of Latin American Policy Challenges, Columbia University, New York; Empirical Studies of Conflict (ESOC) Annual Meeting, Taipei; AL CAPONE/RIDGE May Forum, Universidad del Pac\'{i}fico, Lima; University of Chicago Development Economics Seminar; EGAP 29, Universidad EAFIT, Medell\'{i}n} % TODO: Sept 2025 trip via Panama destination/event
-
-\cventry{2024}{UNU-WIDER Research Seminar, Helsinki; University of Chicago and LSE Conference on the Economics of Crime and Justice, London; AL CAPONE, Harvard University; EGAP 28, Paris; EGAP Regional Meeting, Rio de Janeiro; Drug Policy Forum, Universidad EAFIT; USAID Latin America Evidence Summit (virtual); UNU-WIDER meeting, New York; World Bank meeting, Bogot\'{a}} % TODO: exact names of the UNU-WIDER New York meeting (Justino) and the World Bank Bogot\'a meeting
-
-\cventry{2023}{IEA World Congress, Medell\'{i}n; IDB Research Seminar, Washington, DC; UNU-WIDER Development Conference, Oslo; NBER Summer Institute: Crime, Cambridge, MA; Texas Economics of Crime Conference, Austin, TX; Seminario CAF; AL CAPONE/RIDGE, Montevideo; Empirical Studies of Conflict, Bogot\'{a}}
-
-\cventry{2022}{American Economics Association Annual Meeting; National Academies Workshop on Building Trust and Legitimacy in Policing; UNU-WIDER Development Conference, Bogot\'{a}; American Society of Criminology Annual Meeting, Atlanta; AL CAPONE, Reggio Calabria; UNU-WIDER Puzzle of Peace Conference, Helsinki; CLEAN Seminar; Urban Violence and Collective Memory in the Americas, Geneva; Conference on Criminal Governance, Rio de Janeiro; CIDE Lecture Series on Drug Policy}
-
-\cventry{2021}{Niskanen Center Panel Series on Violence Prevention; RIDGE Forum: AL CAPONE; Fedesarrollo; UNODC INEGI Conference on Governance, Crime and Justice Statistics; USAID; Center for Global Development Violence Prevention seminar; University of Chicago and LSE Conference on the Economics of Crime and Justice; Universidad Cat\'{o}lica de Uruguay Economics Seminar; Congreso Anual Red de Investigadores de Econom\'{i}a}
-
-\cventry{2020}{BREAD/CEPR/STICERD/TCD Conference on Development Economics; Sao Paulo School of Economics; CEPR RPN on Preventing Conflict; University of Chicago Crime Lab; Empirical Studies of Conflict (ESOC); Texas Economics of Crime Workshop, College Station; Latin America Peace Science, Medell\'{i}n}
-
-\cventry{2019}{Annual Colombian Economics Conference, Bogot\'{a}; IDB Innovation in Citizen Services Division, Washington, DC; LACEA, Puebla; Universidad EAFIT; What Works Global Summit, M\'{e}xico D.F.; REDESDAL, M\'{e}xico D.F.; Behavioral Insights in Development and Peace Building, G\"{o}ttingen; Economic Development and Institutions Annual Conference, Paris; Minist\'{e}rio P\'{u}blico do Estado do Rio de Janeiro; RIDGE Forum: Political Economy Workshop, Medell\'{i}n; AL CAPONE, Medell\'{i}n; Cities and Development Workshop, Johns Hopkins SAIS, Washington, DC; International Republican Institute, Panam\'{a}; Seminario CEDE CESED, Bogot\'{a}}
-
-\cventry{2018}{Encuentro Internacional de Observatorios del Delito, Polic\'{i}a Nacional, Bogot\'{a}; Households in Conflict Network Workshop, Medell\'{i}n; Escuela de Posgrados de la Polic\'{i}a Nacional, Bogot\'{a}; Proantioquia, Medell\'{i}n}
-
-\cventry{2017}{LACEA, Buenos Aires; Economic Development and Institutions Annual Conference, Namur; Economics of Organized Crime, Bogot\'{a}; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Medell\'{i}n; AL CAPONE, Santiago; Empirical Studies of Conflict, Washington, DC; EGAP 20, Bogot\'{a}; Seminario CEDE, Universidad de los Andes, Bogot\'{a}; National Network for Safe Communities, Tarrytown, NY; Seminario de Econom\'{i}a, Universidad del Rosario, Bogot\'{a}}
-
-\cventry{2016}{Center for Latin American Studies, Stanford; LACEA, Medell\'{i}n; University of Chicago Crime Lab; AL CAPONE, Buenos Aires; American Law and Economics Association, Harvard Law School; Seminario Banco de la Rep\'{u}blica, Bogot\'{a}}
-
-\cventry{2015}{LACEA, Santa Cruz de la Sierra}
-
-\cventry{2014}{LACEA, Sao Paulo; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Bogot\'{a}}
-
-\cventry{2012}{Econom\'{i}as criminales y poder pol\'{i}tico, Universidad EAFIT, Medell\'{i}n}
-
-%--------------------------------------------------------------
-\section*{GRANTS}
-%--------------------------------------------------------------
-
-\cventry{2026--}{Templeton World Charity Foundation, ``Women at Risk: Understanding and Preventing Gang Involvement among Girls in Medell\'{i}n,'' \$250,000} % TODO: confirm exact project title; Santiago (2026-09-07): confirm amount with Dani
-
-\cventry{2026--27}{J-PAL Crime and Violence Initiative, ``Parceritos: Second-Cohort Evaluation of a Community-Based Program for At-Risk Adolescents in Medell\'{i}n,'' \$124,000} % TODO: confirm title; Santiago (2026-09-07): confirm amount with Dani
-
-\cventry{2024--26}{National Science Foundation, award 2343694 (via University of Chicago), ``Understanding and Preventing Gang Entry: A Longitudinal and Experimental Study,'' \$555,570 (co-PI)} % Verified on api.nsf.gov 2026-09-28: 07/2024-06/2026, $555,570 obligated, PI Blattman, co-PI Tobon.
-
-\cventry{2025--26}{University of Birmingham, policy interventions to reduce organized crime in Cali and Medell\'{i}n, \textsterling 49,253} % TODO: confirm program (SOC ACE?) and title
-
+\cventry{2026--}{Templeton World Charity Foundation, ``Empowering Occupational Choice for At-Risk Adolescent Girls in Medell\'{i}n,'' \$250,000} % Title and amount confirmed by Santiago 2026-09-29
+\cventry{2026--27}{J-PAL Crime and Violence Initiative, ``Evaluating an Intervention to Reduce Youth Gang Involvement,'' \$124,291} % Title and amount confirmed by Santiago 2026-09-29
+\cventry{2026--}{The Weiss Fund for Research in Development Economics, ``The Long-Run Economic Returns to Treating Adolescent Mental Illness,'' \$25,000} % Santiago 2026-09-29; Weiss Spring 2026 Panel 2 decision, 13 May 2026
+\cventry{2025--26}{University of Birmingham, Serious Organised Crime \& Anti-Corruption Evidence (SOC ACE) programme, ``Developing Government Information and Accountability Systems for Combating Serious Organised Crime: Medell\'{i}n Demonstration Project,'' \textsterling 49,253} % Santiago 2026-09-29: the SOC ACE project, Medell\'{i}n only; title from socace-research.org.uk project 13
+\cventry{2025--26}{The Weiss Fund for Research in Development Economics, ``Testing a Behavior Change Approach to Counter Criminal Youth Recruitment,'' \$130,000} % Santiago 2026-09-29; Weiss USAID 2025 window, award 29 May 2025 (Weiss CHG-066)
 \cventry{2024--27}{Wellspring Philanthropic Fund, Medell\'{i}n organized-crime research agenda (behavioral prevention in schools, anti-extortion experiment, city-wide organized-crime survey), \$600,000}
-
-\cventry{2025--26}{The Weiss Fund for Research in Development Economics, ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$130,000} % TODO: confirm project title and years
-
-\cventry{2024--25}{Minerva Research Initiative, U.S. Department of Defense, ``Youth Recruitment into Criminal Organizations in Latin America,'' \$2,200,000. Award terminated by the funder in the 2025 U.S. federal grant cancellations} % TODO: approximate title — confirm against the signed contract
-
+\cventry{2024--26}{National Science Foundation, award 2343694 (via University of Chicago), ``Understanding and Preventing Gang Entry: A Longitudinal and Experimental Study,'' \$555,570 (co-PI)} % Verified on api.nsf.gov 2026-09-28: 07/2024-06/2026, $555,570 obligated, PI Blattman, co-PI Tobon.
+\cventry{2024--26}{J-PAL Innovation in Government Initiative (via Innovations for Poverty Action), ``Reducing Criminal Behaviors among 100,000 High-Risk Youth in Colombia,'' \$157,653} % Santiago 2026-09-29. J-PAL--IPA agreement signed 2024-08-08, period of performance ends 2026-03-30 (J. P. Mesa email, 2025-04-25); IGI's records call it ``Informing and Adapting Programs to Reduce Criminal Behaviors Among High-Risk Youth in Colombia'' (2023 RFP). Originally for work with the national government, which stopped midway; reallocated to the Medell\'{i}n youth-recruitment study.
+\cventry{2024--25}{Minerva Research Initiative, U.S. Department of Defense, ``Youth Recruitment into Criminal Organizations in Latin America,'' \$2,200,000. Award terminated by the funder in the 2025 U.S. federal grant cancellations} % Title kept as is (Santiago 2026-09-29)
 \cventry{2024--25}{USAID Development Innovation Ventures, ``Countering Criminal Youth Recruitment,'' \$199,802. Award terminated by the funder in the 2025 U.S. federal grant cancellations}
-
-\cventry{2023--26}{Innovations for Poverty Action, Human Trafficking Research Initiative (U.S. Department of State), ``Understanding How to Reduce Adolescent Recruitment into Gangs: Experimental Evidence in Medell\'{i}n, Colombia,'' \$285,907 (co-PI)} % Amount per Amendment 1 (2023-12-12) to IPA project USDOS-20-10001-S4; confirm end date against the stage-2 letter of 2024-07-12.
-
+\cventry{2023--26}{Innovations for Poverty Action, Human Trafficking Research Initiative (U.S. Department of State), ``Understanding How to Reduce Adolescent Recruitment into Gangs: Experimental Evidence in Medell\'{i}n, Colombia,'' \$285,907 (co-PI)} % Amount per Amendment 1 (2023-12-12) to IPA project USDOS-20-10001-S4; dates kept as is (Santiago 2026-09-29).
 \cventry{2022--24}{Sistema General de Regal\'{i}as, Gobierno de Colombia, ``Estudios sobre pandillas, crimen urbano y gobierno criminal en Antioquia,'' \$840,000}
-
 \cventry{2022--23}{Templeton World Charity Foundation, ``Childhood Adversity, Misperceptions, and Gang Recruitment,'' \$235,000}
-
-\cventry{2022}{Towards Kindness, ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$200,000}
-
+\cventry{2022}{Towards Kindness, ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$200,000} % Confirmed by Santiago 2026-09-29
+\cventry{2022}{Inter-American Development Bank, ``Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police,'' \$130,000}
 \cventry{2021--23}{Ministerio de Ciencia, Tecnolog\'{i}a e Innovaci\'{o}n, ``Crimen urbano y pol\'{i}ticas de seguridad en Colombia y Am\'{e}rica Latina: Reclutamiento, gobierno criminal y polic\'{i}a militarizada,'' \$400,000}
-
-\cventry{2022}{Interamerican Development Bank, ``Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police,'' \$130,000}
-
-\cventry{2020--21}{Innovations for Poverty Action Peace and Recovery Program, ``Gang Entry and Exit: Behavioral Biases and Gang Recruitment,'' \$50,000}
-
-\cventry{}{Becker Friedman Institute, University of Chicago, ``COVID-19, Crises, and Support for the Rule of Law: Organized Crime in Rio de Janeiro's Favelas,'' \$35,000}
-
-\cventry{}{Foreign and Commonwealth Office, UK, ``How Organized Crime Is Responding to the COVID-19 Crisis,'' \$35,000}
-
-\cventry{}{Universidad EAFIT, ``Organized Crime in Rio de Janeiro: Understanding Non-State Provision of Order and Justice,'' \$40,000}
-
-\cventry{2020}{J-PAL Crime and Violence Initiative, ``The Other Virus: How Gangs and Organized Crime Are Responding to the COVID-19 Crisis,'' \$50,000}
-
 \cventry{2020--23}{Universidad EAFIT, ``Improving Human Decisions through Machine Learning: An Experiment to Reduce Crime by Selecting Inmates Better,'' \$100,000}
-
+\cventry{2020--21}{Innovations for Poverty Action Peace and Recovery Program, ``Gang Entry and Exit: Behavioral Biases and Gang Recruitment,'' \$50,000}
+\cventry{}{Becker Friedman Institute, University of Chicago, ``COVID-19, Crises, and Support for the Rule of Law: Organized Crime in Rio de Janeiro's Favelas,'' \$35,000}
+\cventry{}{Foreign and Commonwealth Office, UK, ``How Organized Crime Is Responding to the COVID-19 Crisis,'' \$35,000}
+\cventry{}{Universidad EAFIT, ``Organized Crime in Rio de Janeiro: Understanding Non-State Provision of Order and Justice,'' \$40,000}
+\cventry{2020}{J-PAL Crime and Violence Initiative, ``The Other Virus: How Gangs and Organized Crime Are Responding to the COVID-19 Crisis,'' \$50,000}
 \cventry{2019--21}{National Science Foundation, award 1851543 (via University of Chicago), ``Experimental Impacts of Intensive Municipal Governance and Community Organization on Gang Governance,'' \$450,000 (co-PI)} % Verified on api.nsf.gov 2026-09-28: 08/2019-07/2021. The old entry cited SES 1919399, which is Blattman's Liberia CBT award.
-
-\cventry{2019}{J-PAL Crime and Violence Initiative, ``Contesting Criminal Gang Governance in Medellin,'' \$100,000}
-
-\cventry{}{Fundaci\'{o}n para el Desarrollo de Antioquia -- Proantioquia, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000}
-
-\cventry{2018}{Secretar\'{i}a de Seguridad de Medell\'{i}n, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$33,000}
-
-\cventry{}{Proantioquia, ``Gangs of Medellin: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000}
-
+\cventry{2019}{J-PAL Crime and Violence Initiative, ``Contesting Criminal Gang Governance in Medell\'{i}n,'' \$100,000}
+\cventry{}{Fundaci\'{o}n para el Desarrollo de Antioquia -- Proantioquia, ``Gangs of Medell\'{i}n: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000} % Santiago (2026-09-29): two separate Proantioquia grants of the same amount, 2018 and 2019
+\cventry{2018}{Secretar\'{i}a de Seguridad de Medell\'{i}n, ``Gangs of Medell\'{i}n: A Proposal to Map Order and Violence at the Micro Level,'' \$33,000}
+\cventry{}{Proantioquia, ``Gangs of Medell\'{i}n: A Proposal to Map Order and Violence at the Micro Level,'' \$70,000}
 \cventry{2017--18}{J-PAL Latin America and Caribbean, ``Strategies and Programs to Prevent Violence among Youth,'' \$32,000}
-
-\cventry{}{Economic Development and Institutions -- EDI, ``Gangs of Medellin: A Proposal to Understand Variation in Non-State Provision of Order and Justice,'' \$100,000}
-
-\cventry{}{CESED/Postobon, Universidad de los Andes, ``Gangs of Medellin,'' \$10,000}
-
-\cventry{}{CESED/Open Society Foundations, Universidad de los Andes, ``Gangs of Medellin,'' \$10,000}
-
+\cventry{}{Economic Development and Institutions -- EDI, ``Gangs of Medell\'{i}n: A Proposal to Understand Variation in Non-State Provision of Order and Justice,'' \$100,000}
+\cventry{}{CESED/Postob\'{o}n, Universidad de los Andes, ``Gangs of Medell\'{i}n,'' \$10,000}
+\cventry{}{CESED/Open Society Foundations, Universidad de los Andes, ``Gangs of Medell\'{i}n,'' \$10,000}
 \cventry{2016--17}{Development Priorities Window -- 3ie, ``Increasing State and Police Presence in the Least Governed Areas of Bogot\'{a}: A Hot Spot Policing Approach,'' \$280,000}
-
-\cventry{}{J-PAL Governance Initiative, ``State-Building on the Intensive and Extensive Margins: Testing Urban Violence Reduction through Policing and Public Services in Bogota,'' \$360,000}
-
+\cventry{}{J-PAL Governance Initiative, ``State-Building on the Intensive and Extensive Margins: Testing Urban Violence Reduction through Policing and Public Services in Bogot\'{a},'' \$360,000}
 \cventry{}{CAF -- Development Bank of Latin America, ``The Impact of Hotspot Policing and Municipal Services on Crime: Experimental Evidence from Bogot\'{a},'' \$50,000}
-
 \cventry{}{Government Partnership Initiative -- J-PAL, ``The Impact of Hotspot Policing and Municipal Services on Crime: Experimental Evidence from Bogot\'{a},'' \$20,000}
-
-\cventry{2016}{CESED/Postobon, Universidad de los Andes, ``Prison Overcrowding and Recidivism: Evidence from Colombia,'' \$10,000}
-
+\cventry{2016}{CESED/Postob\'{o}n, Universidad de los Andes, ``Prison Overcrowding and Recidivism: Evidence from Colombia,'' \$10,000}
 \cventry{}{CESED/Open Society Foundations, Universidad de los Andes, ``El Sistema de Justicia Criminal en la lucha contra el consumo de drogas il\'{i}citas,'' \$10,000}
 
 %--------------------------------------------------------------
-\section*{PUBLIC WRITING AND MEDIA}
-%--------------------------------------------------------------
-
-\cventry{2015--}{Public writing on crime, policing, prisons, and drug policy in VoxDev, UNU-WIDER, Foco Econ\'{o}mico, Nada es Gratis, Raz\'{o}n P\'{u}blica, La Silla Vac\'{i}a, and the Inter-American Development Bank's Sin Miedos blog}
-\cventry{}{Commentary and analysis in Colombian media, including El Colombiano, El Espectador, and Caracol Radio's Hora 20 panel} % TODO: confirm characterization (column regularity, Hora 20 frequency)
-\cventry{}{Research coverage in \textit{The Economist}, El Tiempo, Portafolio, El Colombiano, El Espectador, Infobae, Noticias RCN, BluRadio, and El Universal, among others} % TODO: link the specific Economist article
-\cventry{}{Podcast appearances: Probable Causation (Ep.\ 61), The Visible Hand, Atemporal, Stories of Impact}
-
-\vspace{1.5ex}
-
-%--------------------------------------------------------------
-\section*{POLICY POSITIONS AND CONSULTING}
+\section*{Policy Positions and Consulting}
 %--------------------------------------------------------------
 
 \cventry{2025}{Consultant, Prisons and Organized Crime, Office of the Chief Economist for Latin America and the Caribbean, World Bank}
@@ -360,11 +200,57 @@ Science, Nature, Quarterly Journal of Economics, American Political Science Revi
 \cventry{2017--18}{Advisor to the Deputy Minister for Crime Policy, Ministry of Justice of Colombia}
 \cventry{}{Advisor to the Secretary, Secretariat of Security of Bogot\'{a}}
 \cventry{2017}{Consultant, Innovation in Citizen Services Division, Inter-American Development Bank}
-\cventry{2015--16}{Consultant, CAF -- Latin American Development Bank}
+\cventry{2015--16}{Consultant, CAF -- Development Bank of Latin America}
 \cventry{}{Consultant, CREER-IHRB Institute for Human Rights and Business}
 \cventry{2014--15}{Chief of Staff, Senator in the 4th Committee on Economic Affairs, Colombian Congress}
 \cventry{2013--14}{Advisor, FINAGRO -- Rural Development Bank, Colombia}
 \cventry{2009--11}{Director, Cadastre and Territorial Development, Government of Antioquia, Colombia}
 \cventry{2008--09}{Director, Economic Development, Government of Antioquia, Colombia}
+
+%--------------------------------------------------------------
+\section*{Professional Activities}
+%--------------------------------------------------------------
+
+\cvsub{Teaching}
+\cventry{2019--}{Universidad EAFIT: Microeconomics Seminar -- Economics of Crime (undergraduate); Microeconomics Seminar -- Development Economics (undergraduate); Political Economy (undergraduate); Impact Evaluation (graduate)}
+\cventry{2022}{University of Chicago Harris School of Public Policy: Economic Development and Policy (graduate); International Police Reform Policy Lab (graduate)}
+\cventry{2016--}{National Police of Colombia (lecturer): Evidence Based Policing (graduate-equivalent)}
+\cventry{2017--19}{American University (lecturer): Policing in the Global Context (undergraduate)}
+\cventry{2015}{Universidad de los Andes (teaching assistant): Economic Theory of Crime (graduate)}
+
+\cvsub{PhD Students}
+\cventry{2023--}{Mart\'{i}n Vanegas-Arias, Universidad EAFIT (supervision)}
+\cventry{2020--26}{C\'{e}sar Herrera, Universidad EAFIT (supervision; graduated 2026)}
+\cventry{2022}{PierFrancesco Rolla, University of Sussex (examination)}
+\cventry{2021}{Magaly Herrera, Universidad ICESI (examination)}
+
+\cvsub{Refereeing}
+Science, Nature, Quarterly Journal of Economics, American Political Science Review, AER: Insights, Review of Economics and Statistics, Journal of the European Economic Association, AEJ: Applied, Economic Journal, Journal of Labor Economics, Journal of Development Economics, Journal of Human Resources, Journal of Public Economics, Comparative Political Studies, Journal of Financial and Quantitative Analysis, Nature Human Behaviour, Economic Development and Cultural Change, Defence and Peace Economics, Journal of Policy Analysis and Management, Criminology, Journal of Quantitative Criminology, Journal of Experimental Criminology, Criminology and Public Policy
+
+%--------------------------------------------------------------
+\section*{Public Writing and Media}
+%--------------------------------------------------------------
+
+\cventry{2015--}{Public writing on crime, policing, prisons, and drug policy in VoxDev, UNU-WIDER, Foco Econ\'{o}mico, Nada es Gratis, Raz\'{o}n P\'{u}blica, La Silla Vac\'{i}a, and the Inter-American Development Bank's Sin Miedos blog}
+\cventry{}{Regular commentary and analysis in Colombian media, including El Colombiano, El Espectador, La Silla Vac\'{i}a, and Caracol Radio's Hora 20 panel}
+\cventry{}{Research coverage in \textit{The Economist} (\href{https://www.economist.com/the-americas/2022/05/19/medellin-is-an-example-of-what-colombia-could-be}{2022}; interviewed on police reform, \href{https://www.economist.com/the-americas/2020/09/19/why-colombias-militarised-police-need-reform}{2020}), El Tiempo, Portafolio, El Colombiano, El Espectador, Infobae, Noticias RCN, BluRadio, and El Universal, among others}
+\cventry{}{Podcast appearances: Probable Causation (Ep.\ 61), The Visible Hand, Atemporal, Stories of Impact}
+
+%--------------------------------------------------------------
+\section*{Selected Presentations}
+%--------------------------------------------------------------
+
+\cventry{2026}{CAF Research Seminar, Buenos Aires; Universidad de San Andr\'{e}s Economics Seminar, Buenos Aires; Universidad de Montevideo Economics Seminar; University of Chicago Harris School of Public Policy; Universidad EAFIT Economics Seminar; U.S. Department of State TIP Office--IPA Human Trafficking Research Initiative briefing (virtual); CAF Workshop with the Laboratorio de Justicia y Pol\'{i}tica Criminal, Cali}
+\cventry{2025}{UNU-WIDER Tax and Conflict Workshop, Helsinki; West Point Social Science Seminar, U.S. Military Academy, West Point, NY; The Interconnection of Latin American Policy Challenges, Columbia University, New York; Empirical Studies of Conflict (ESOC) Annual Meeting, Taipei; AL CAPONE/RIDGE May Forum, Universidad del Pac\'{i}fico, Lima; University of Chicago Development Economics Seminar; Inter-American Development Bank Regional Summit on Citizen Security and Justice, Buenos Aires (panel on youth recruitment by organized crime); EGAP 29, Universidad EAFIT, Medell\'{i}n} % Buenos Aires: IDB Cumbre Regional de Seguridad y Justicia, 8--9 Sep 2025, Panel 4 on youth recruitment (N. Pe\~na emails)
+\cventry{2024}{World Bank Fragility Forum, IDB session on criminal violence in middle-income countries, Washington, DC; UNU-WIDER Research Seminar, Helsinki; University of Chicago and LSE Conference on the Economics of Crime and Justice, London; AL CAPONE, Harvard University; EGAP 28, Paris; EGAP Regional Meeting, Rio de Janeiro; Drug Policy Forum, Universidad EAFIT; USAID Latin America Evidence Summit (virtual); UN Financing for Development Dialogues, Academic Day (UNU-WIDER panel), New York; World Bank, Bogot\'{a} (Medell\'{i}n gangs research agenda)} % New York: 2 Dec 2024, UNU-WIDER travel and panel emails (M.-F. Boucher)
+\cventry{2023}{IEA World Congress, Medell\'{i}n; IDB Research Seminar, Washington, DC; UNU-WIDER Development Conference, Oslo; NBER Summer Institute: Crime, Cambridge, MA; Texas Economics of Crime Conference, Austin, TX; Seminario CAF; AL CAPONE/RIDGE, Montevideo; Empirical Studies of Conflict, Bogot\'{a}}
+\cventry{2022}{American Economic Association Annual Meeting; National Academies Workshop on Building Trust and Legitimacy in Policing; UNU-WIDER Development Conference, Bogot\'{a}; American Society of Criminology Annual Meeting, Atlanta; AL CAPONE, Reggio Calabria; UNU-WIDER Puzzle of Peace Conference, Helsinki; CLEAN Seminar; Urban Violence and Collective Memory in the Americas, Geneva; Conference on Criminal Governance, Rio de Janeiro; CIDE Lecture Series on Drug Policy}
+\cventry{2021}{Niskanen Center Panel Series on Violence Prevention; RIDGE Forum: AL CAPONE; Fedesarrollo; UNODC INEGI Conference on Governance, Crime and Justice Statistics; USAID; Center for Global Development Violence Prevention seminar; University of Chicago and LSE Conference on the Economics of Crime and Justice; Universidad Cat\'{o}lica de Uruguay Economics Seminar; Congreso Anual Red de Investigadores de Econom\'{i}a}
+\cventry{2020}{BREAD/CEPR/STICERD/TCD Conference on Development Economics; S\~{a}o Paulo School of Economics; CEPR RPN on Preventing Conflict; University of Chicago Crime Lab; Empirical Studies of Conflict (ESOC); Texas Economics of Crime Workshop, College Station; Latin America Peace Science, Medell\'{i}n}
+\cventry{2019}{Annual Colombian Economics Conference, Bogot\'{a}; IDB Innovation in Citizen Services Division, Washington, DC; LACEA, Puebla; Universidad EAFIT; What Works Global Summit, M\'{e}xico D.F.; REDESDAL, M\'{e}xico D.F.; Behavioral Insights in Development and Peace Building, G\"{o}ttingen; Economic Development and Institutions Annual Conference, Paris; Minist\'{e}rio P\'{u}blico do Estado do Rio de Janeiro; RIDGE Forum: Political Economy Workshop, Medell\'{i}n; AL CAPONE, Medell\'{i}n; Cities and Development Workshop, Johns Hopkins SAIS, Washington, DC; International Republican Institute, Panam\'{a}; Seminario CEDE CESED, Bogot\'{a}}
+\cventry{2018}{Encuentro Internacional de Observatorios del Delito, Polic\'{i}a Nacional, Bogot\'{a}; Households in Conflict Network Workshop, Medell\'{i}n; Escuela de Posgrados de la Polic\'{i}a Nacional, Bogot\'{a}; Proantioquia, Medell\'{i}n}
+\cventry{2017}{LACEA, Buenos Aires; Economic Development and Institutions Annual Conference, Namur; Economics of Organized Crime, Bogot\'{a}; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Medell\'{i}n; AL CAPONE, Santiago; Empirical Studies of Conflict, Washington, DC; EGAP 20, Bogot\'{a}; Seminario CEDE, Universidad de los Andes, Bogot\'{a}; National Network for Safe Communities, Tarrytown, NY; Seminario de Econom\'{i}a, Universidad del Rosario, Bogot\'{a}}
+\cventry{2016}{Center for Latin American Studies, Stanford; LACEA, Medell\'{i}n; University of Chicago Crime Lab; AL CAPONE, Buenos Aires; American Law and Economics Association, Harvard Law School; Seminario Banco de la Rep\'{u}blica, Bogot\'{a}}
+\cventry{2012--15}{LACEA, Santa Cruz de la Sierra, 2015; LACEA, S\~{a}o Paulo, 2014; Seminario de Econom\'{i}a, Banco de la Rep\'{u}blica, Bogot\'{a}, 2014; Econom\'{i}as criminales y poder pol\'{i}tico, Universidad EAFIT, Medell\'{i}n, 2012}
 
 \end{document}

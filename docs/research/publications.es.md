@@ -8,10 +8,11 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Statebuilding in the City: An Experiment in Civilian Alternatives to Policing"</span>
-(con Christopher Blattman, Gustavo Duncan y Benjamin Lessing). Próximamente en <span class="pub-venue">American Political Science Review</span>.
+<span class="pub-title">"State-Building in the City: An Experiment in Civilian Alternatives to Policing"</span>
+(con Christopher Blattman, Gustavo Duncan y Benjamin Lessing). <span class="pub-venue">American Political Science Review</span>. (2026)
 
 <span class="pub-links">
+[Paper](https://doi.org/10.1017/S0003055426101555) ·
 [NBER Working Paper](https://www.nber.org/papers/w29692) ·
 [SocArXiv Working Paper](https://osf.io/preprints/socarxiv/3bncz/) ·
 [Nota de Política EAFIT](https://ideas.repec.org/p/col/000122/018490.html) ·
@@ -44,7 +45,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Production and persistence of criminal skills: Evidence from a high-crime context"</span>
-(con Maria A. Escobar y Martin Vanegas-Arias). <span class="pub-venue">Journal of Development Economics</span>, 160. (2023)
+(con Maria A. Escobar y Martín Vanegas-Arias). <span class="pub-venue">Journal of Development Economics</span>, 160. (2023)
 
 <span class="pub-links">
 [Paper](https://www.sciencedirect.com/science/article/pii/S0304387822001122) ·
@@ -71,7 +72,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"The Perils of Military Policing"</span>
-<span class="pub-venue">Nature Human Behaviour</span>, 7, 843–844. Comentario invitado. (2023)
+<span class="pub-venue">Nature Human Behaviour</span>, 7(6), 843–844. Comentario invitado. (2023)
 
 <span class="pub-links">
 [Paper](https://rdcu.be/dbUHg)
@@ -90,7 +91,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"Place-based interventions at scale: The direct and spillover effects of policing and city services on crime"</span>
-(con Chris Blattman, Donald Green y Daniel Ortega). <span class="pub-venue">Journal of the European Economic Association</span>, 19(4), 2022–2051. (2021)
+(con Christopher Blattman, Donald Green y Daniel Ortega). <span class="pub-venue">Journal of the European Economic Association</span>, 19(4), 2022–2051. (2021)
 
 <span class="pub-links">
 [Paper](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvab002/6149460?guestAccessKey=a92f42de-f22e-40ae-96de-eb5f85affff6) ·
@@ -100,7 +101,7 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"The Deterrent Effects of Surveillance Cameras on Crime"</span>
+<span class="pub-title">"The Deterrent Effect of Surveillance Cameras on Crime"</span>
 (con Santiago Gómez y Daniel Mejía). <span class="pub-venue">Journal of Policy Analysis and Management</span>, 40(2), 553–571. (2021)
 
 <span class="pub-links">
@@ -109,8 +110,8 @@
 </div>
 
 <div class="pub-entry" markdown>
-<span class="pub-title">"Hot Spots Policing in a High Crime Environment: An Experimental Evaluation in Medellín"</span>
-(con Daniela Collazos, Eduardo García, Daniel Mejía y Daniel Ortega). <span class="pub-venue">Journal of Experimental Criminology</span>, 17, 473–506. (2021)
+<span class="pub-title">"Hot Spots Policing in a High-Crime Environment: An Experimental Evaluation in Medellín"</span>
+(con Daniela Collazos, Eduardo García, Daniel Mejía y Daniel Ortega). <span class="pub-venue">Journal of Experimental Criminology</span>, 17(3), 473–506. (2021)
 
 <span class="pub-links">
 [Paper](https://link.springer.com/article/10.1007/s11292-019-09390-1)
@@ -123,7 +124,7 @@
 
 <div class="pub-entry" markdown>
 <span class="pub-title">"The role of land property rights in the war on illicit crops: Evidence from Colombia"</span>
-(con Juan Carlos Muñoz y Jesse D'Anjou). <span class="pub-venue">World Development</span>, 103, 268–283. (2018)
+(con Juan Carlos Muñoz-Mora y Jesse W. d'Anjou). <span class="pub-venue">World Development</span>, 103, 268–283. (2018)
 
 <span class="pub-links">
 [Paper](https://www.sciencedirect.com/science/article/pii/S0305750X17303455) ·
