@@ -9,6 +9,7 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <div class="pub-entry">
 <span class="pub-title">Organized Crime and Violence</span>
 <span class="pub-meta">(with Maria Micaela Sviatschi and Nicolás Cabra-Ruiz). <em>Annual Review of Economics</em>. Forthcoming.</span>
+<details class="pub-abstract"><summary>Abstract</summary><p>Organized crime violence, produced by gangs, mafias, and drug traffickers that fight one another for profit rather than to capture the state, shapes economic activity and welfare, most acutely in the Americas. This article reviews its causes, costs, and remedies. Two claims organize it. First, the industrial organization of criminal markets—the number of armed actors, their integration, their relationship with the state, and the contestability of territory—is a central determinant of violence that standard crime models omit, even holding the rents at stake fixed. Second, enforcement acts in general equilibrium, so crackdowns can fragment markets and raise violence, and falling homicide can mask rising extortion or displacement. Illegal drug markets are the principal source of these rents, so supply-side enforcement reorganizes the trade while cutting demand shrinks the prize. These harms reach firms, workers, educational outcomes, and institutions. The main obstacle is measuring how criminal groups govern.</p></details>
 </div>
 
 <div class="pub-entry">
