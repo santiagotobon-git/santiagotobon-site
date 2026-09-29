@@ -14,8 +14,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "#centro-de-valor-publico": prefix + "centro/",
     "#book-project": prefix + "book/",
     "#proyecto-de-libro": prefix + "book/",
-    "#data-replication": prefix + "research/data/",
-    "#datos-y-replicacion": prefix + "research/data/",
+    "#policy-writing": prefix + "writing/policy/",
+    "#escritos-de-politica": prefix + "writing/policy/",
     "#latest": null,
     "#reciente": null
   };
