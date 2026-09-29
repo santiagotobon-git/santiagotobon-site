@@ -10,3 +10,8 @@ cv-source/main.pdf
 cv-source/main.aux
 cv-source/main.log
 cv-source/main.out
+cv-source/cv-onepage.pdf
+cv-source/cv-onepage.aux
+cv-source/cv-onepage.log
+cv-source/cv-onepage.out
+cv-source/*.local.tex

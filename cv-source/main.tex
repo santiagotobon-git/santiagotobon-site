@@ -24,6 +24,9 @@
 \usepackage{titlesec}
 \titleformat{\section}{\normalfont\normalsize\scshape\bfseries}{}{0em}{}[\vspace{-0.5ex}\hrule\vspace{1ex}]
 \titlespacing{\section}{0pt}{1.5ex plus 0.5ex}{0.5ex plus 0.2ex}
+% Keep each section heading on the same page as its first entries
+\usepackage{needspace}
+\newcommand{\sectionbreak}{\needspace{5\baselineskip}}
 
 % Custom commands
 \newlength{\datecolwidth}
@@ -263,7 +266,7 @@ Science, Nature, Quarterly Journal of Economics, American Political Science Revi
 
 \cventry{2026--27}{J-PAL Crime and Violence Initiative, ``Parceritos: Second-Cohort Evaluation of a Community-Based Program for At-Risk Adolescents in Medell\'{i}n,'' \$124,000} % TODO: confirm title; Santiago (2026-09-07): confirm amount with Dani
 
-\cventry{2024--26}{National Science Foundation (via University of Chicago), Medell\'{i}n gang-recruitment field experiment and surveys, \$1,300,000} % TODO: confirm award title and role
+\cventry{2024--26}{National Science Foundation, award 2343694 (via University of Chicago), ``Understanding and Preventing Gang Entry: A Longitudinal and Experimental Study,'' \$555,570 (co-PI)} % Verified on api.nsf.gov 2026-09-28: 07/2024-06/2026, $555,570 obligated, PI Blattman, co-PI Tobon.
 
 \cventry{2025--26}{University of Birmingham, policy interventions to reduce organized crime in Cali and Medell\'{i}n, \textsterling 49,253} % TODO: confirm program (SOC ACE?) and title
 
@@ -275,7 +278,7 @@ Science, Nature, Quarterly Journal of Economics, American Political Science Revi
 
 \cventry{2024--25}{USAID Development Innovation Ventures, ``Countering Criminal Youth Recruitment,'' \$199,802. Award terminated by the funder in the 2025 U.S. federal grant cancellations}
 
-\cventry{2023--24}{Innovations for Poverty Action, Human Trafficking Research Initiative (U.S. Department of State), ``Understanding Gang Entry and Exit in Medell\'{i}n, Colombia,'' \$175,000}
+\cventry{2023--26}{Innovations for Poverty Action, Human Trafficking Research Initiative (U.S. Department of State), ``Understanding How to Reduce Adolescent Recruitment into Gangs: Experimental Evidence in Medell\'{i}n, Colombia,'' \$285,907 (co-PI)} % Amount per Amendment 1 (2023-12-12) to IPA project USDOS-20-10001-S4; confirm end date against the stage-2 letter of 2024-07-12.
 
 \cventry{2022--24}{Sistema General de Regal\'{i}as, Gobierno de Colombia, ``Estudios sobre pandillas, crimen urbano y gobierno criminal en Antioquia,'' \$840,000}
 
@@ -299,7 +302,7 @@ Science, Nature, Quarterly Journal of Economics, American Political Science Revi
 
 \cventry{2020--23}{Universidad EAFIT, ``Improving Human Decisions through Machine Learning: An Experiment to Reduce Crime by Selecting Inmates Better,'' \$100,000}
 
-\cventry{2019--20}{National Science Foundation, SES 1919399, ``Contesting Criminal Gang Governance in Medell\'{i}n: Experimental Impacts of Intensive Municipal Governance and Community Organization on Gang Governance,'' \$375,000}
+\cventry{2019--21}{National Science Foundation, award 1851543 (via University of Chicago), ``Experimental Impacts of Intensive Municipal Governance and Community Organization on Gang Governance,'' \$450,000 (co-PI)} % Verified on api.nsf.gov 2026-09-28: 08/2019-07/2021. The old entry cited SES 1919399, which is Blattman's Liberia CBT award.
 
 \cventry{2019}{J-PAL Crime and Violence Initiative, ``Contesting Criminal Gang Governance in Medellin,'' \$100,000}
 
@@ -344,15 +347,14 @@ Science, Nature, Quarterly Journal of Economics, American Political Science Revi
 \section*{POLICY POSITIONS AND CONSULTING}
 %--------------------------------------------------------------
 
+\cventry{2025}{Consultant, Prisons and Organized Crime, Office of the Chief Economist for Latin America and the Caribbean, World Bank}
+\cventry{}{Consultant, Education and Organized Crime, CAF -- Development Bank of Latin America}
 \cventry{2021--22}{Consultant, Police Reform, National Police of Colombia}
 \cventry{}{Consultant, Policy Analysis and Evaluation, Federaci\'{o}n Nacional de Departamentos}
 \cventry{}{Consultant, Impact Evaluation, Fundaci\'{o}n Acci\'{o}n Interna}
 \cventry{2020--21}{Consultant, Human Rights, Human Rights Office, Presidency of Colombia}
 \cventry{}{Consultant, Human Trafficking, International Organization for Migration}
 \cventry{2019--23}{Consultant, Innovation in Citizen Services Division, Inter-American Development Bank}
-% TODO (Santiago 2026-09-07): the PUP proposal's author paragraph now names the World Bank among
-% institutions worked with, per Santiago's annotation ("World Bank should also come here"); add the
-% corresponding engagement (role, unit, dates) to this section so the CV supports it.
 \cventry{2019}{Advisor to the Director for Justice, Security and Government, National Planning Department}
 \cventry{2018--19}{Advisor on Monitoring and Evaluation, International Organization for Migration}
 \cventry{2017--18}{Advisor to the Deputy Minister for Crime Policy, Ministry of Justice of Colombia}

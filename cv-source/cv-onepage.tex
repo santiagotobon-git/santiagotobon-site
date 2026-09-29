@@ -1,0 +1,71 @@
+% One-page CV for grant attachments, built from main.tex. Selection favors relevance to
+% crime and youth-recruitment funders, U.S. government awards, top-journal output, and the
+% government partnerships behind the field work. NSF figures checked on api.nsf.gov 2026-09-28.
+\documentclass[10pt]{article}
+\usepackage[letterpaper, hmargin=0.6in, vmargin=0.5in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathpazo}
+\usepackage{microtype}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue]{hyperref}
+\usepackage{titlesec}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\pagestyle{empty}
+\titleformat{\section}{\normalfont\normalsize\scshape\bfseries}{}{0em}{}[\vspace{-0.6ex}\hrule\vspace{0.2ex}]
+\titlespacing{\section}{0pt}{0.9ex}{0.3ex}
+
+\newlength{\datecolwidth}\setlength{\datecolwidth}{1.25cm}
+\newlength{\gapwidth}\setlength{\gapwidth}{0.3cm}
+\newlength{\maincolwidth}\setlength{\maincolwidth}{\dimexpr\textwidth-\datecolwidth-\gapwidth\relax}
+\newcommand{\cventry}[2]{%
+  \begin{tabular}[t]{@{}p{\datecolwidth}@{\hspace{\gapwidth}}p{\maincolwidth}@{}}#1 & #2 \\\end{tabular}\vspace{0.05ex}\par}
+
+\begin{document}
+
+\begin{center}
+{\large\textbf{SANTIAGO TOB\'{O}N, PHD}}\\[0.3ex]
+Professor of Economics, Universidad EAFIT, Medell\'{i}n, Colombia \,$\cdot$\,
+\href{mailto:stobonz@eafit.edu.co}{stobonz@eafit.edu.co} \,$\cdot$\, \url{https://santiagotobon.co}
+\end{center}
+
+\vspace{0.2ex}
+Economist studying organized crime, youth recruitment into criminal groups, policing and criminal justice in Latin America, using field experiments and administrative data built with governments. Co-principal investigator of the Medell\'{i}n youth-recruitment study funded by the National Science Foundation and by the U.S. Department of State's TIP Office through the Human Trafficking Research Initiative.
+
+\section*{Positions and Affiliations}
+\cventry{2020--}{Professor of Economics (tenured), Universidad EAFIT; from 2025, Director, Centro de Valor P\'{u}blico, EAFIT's applied policy research center}
+\cventry{2017--19}{Postdoctoral Scholar, University of Chicago Harris School of Public Policy and Innovations for Poverty Action; Visiting Professor, Harris School, 2022}
+\cventry{}{Chair, AL CAPONE (Am\'{e}rica Latina Crime and Policy Network); Affiliate, J-PAL Crime and Violence Initiative; Researcher, Innovations for Poverty Action; Board Member, Evidence in Governance and Politics (EGAP)}
+
+\section*{Education}
+\cventry{2018}{Ph.D., Economics, Universidad de los Andes (with distinction); M.A., Economics, Universit\'{e} catholique de Louvain, 2012}
+
+\section*{Selected Publications}
+\cventry{2027}{``Organized Crime and Violence,'' with M. M. Sviatschi and N. Cabra-Ruiz, \textit{Annual Review of Economics}, forthcoming.}
+\cventry{2026}{``State-building in the City: An Experiment in Civilian Alternatives to Policing,'' with C. Blattman, G. Duncan and B. Lessing, \textit{American Political Science Review}, forthcoming.}
+\cventry{2025}{``Gang Rule: Understanding and Countering Criminal Governance,'' with C. Blattman, G. Duncan and B. Lessing, \textit{Review of Economic Studies} 92(3).}
+\cventry{2023}{``Production and Persistence of Criminal Skills,'' with M. A. Escobar and M. Vanegas-Arias, \textit{Journal of Development Economics} 160.}
+\cventry{2022}{``Do Better Prisons Reduce Recidivism?'' \textit{Review of Economics and Statistics} 104(6).}
+\cventry{2021}{``Place-Based Interventions at Scale,'' with C. Blattman, D. Green and D. Ortega, \textit{Journal of the European Economic Association} 19(4). ``Community Policing in the Developing World,'' \textit{Science} 374 (commentary).}
+\cventry{WP}{``Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys,'' with C. Blattman and A. Rodr\'{i}guez-Uribe.}
+
+\section*{Selected Research Funding}
+\cventry{2024--26}{National Science Foundation, award 2343694, ``Understanding and Preventing Gang Entry: A Longitudinal and Experimental Study,'' \$555,570 (co-PI)}
+\cventry{2023--26}{U.S. Department of State, TIP Office, through IPA's Human Trafficking Research Initiative, ``Understanding How to Reduce Adolescent Recruitment into Gangs: Experimental Evidence in Medell\'{i}n, Colombia,'' \$285,907 (co-PI)}
+\cventry{2019--21}{National Science Foundation, award 1851543, ``Experimental Impacts of Intensive Municipal Governance and Community Organization on Gang Governance,'' \$450,000 (co-PI)}
+\cventry{2024--27}{Wellspring Philanthropic Fund, Medell\'{i}n organized-crime research agenda, \$600,000}
+\cventry{2022--24}{Sistema General de Regal\'{i}as, Government of Colombia, gangs, urban crime and criminal governance in Antioquia, \$840,000}
+\cventry{}{More than 30 research grants in total, including from J-PAL, the Inter-American Development Bank, CAF, 3ie, the Templeton World Charity Foundation and the Weiss Fund.}
+
+\section*{Government and Policy Roles}
+\cventry{2025}{Consultant on prisons and organized crime, Office of the Chief Economist for Latin America and the Caribbean, World Bank}
+\cventry{2020--21}{Consultant on human trafficking, International Organization for Migration}
+\cventry{2019}{Advisor to the Director for Justice, Security and Government, National Planning Department}
+\cventry{2017--18}{Advisor to the Deputy Minister for Crime Policy, Ministry of Justice, and to Bogot\'{a}'s Secretary of Security}
+\cventry{2016--}{Evidence-based policing lecturer, National Police of Colombia; police reform consultant, 2021--22}
+\cventry{}{Data agreements with Medell\'{i}n's Secretariats of Security and Education. Writing for U.S. policy audiences in the Modern War Institute at West Point (2022) and for USAID (2018).}
+
+\section*{Honors}
+\cventry{2020}{Juan Luis Londo\~{n}o Medal, Colombia's prize for researchers aged 40 or under; Medell\'{i}n Investiga Prize, 2024}
+
+\end{document}
