@@ -192,7 +192,12 @@ Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios
 
 ## Trabajo en español y trabajo anterior {#spanish-and-early-work}
 
-<details class="pub-group"><summary>Ver los 8</summary>
+<details class="pub-group"><summary>Ver los 9</summary>
+
+<div class="pub-entry">
+<a class="pub-title" href="https://repositorio.banrep.gov.co/items/1f3850ed-7112-41e9-b30d-aa01251489d4">Crimen y Covid-19. Cómo los combos de Medellín respondieron a la pandemia</a>
+<span class="pub-meta">(con Christopher Blattman, David Cerero, Gustavo Duncan, Sebastián Hernández, Benjamin Lessing, Juan F. Martínez, Juan Pablo Mesa-Mejía y Helena Montoya). En <em>Covid-19: consecuencias y desafíos en la economía colombiana. Una mirada desde las universidades</em>, D. Cortés, C. Posso y M. Villamizar-Villegas, eds., Banco de la República, 243–264 (2022).</span>
+</div>
 
 <div class="pub-entry">
 <a class="pub-title" href="https://revistas.udea.edu.co/index.php/lecturasdeeconomia/article/view/339173">El gasto fiscal de la guerra contra los portadores de drogas ilícitas: una aproximación para Colombia</a>
