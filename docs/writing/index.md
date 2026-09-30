@@ -100,6 +100,7 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 ## Columns and blog posts {#columns}
 
 - [¿Puede la salud mental prevenir la violencia escolar? Lecciones desde Medellín, Colombia](https://www.iadb.org/es/blog/educacion/puede-la-salud-mental-prevenir-la-violencia-escolar-lecciones-desde-medellin-colombia), Enfoque Educación, Inter-American Development Bank (2026)
+- [Daniel Mejía y Santiago Tobón analizan el inmenso desafío que enfrentará De La Espriella en la lucha contra las drogas](https://www.semana.com/nacion/articulo/daniel-mejia-y-santiago-tobon-analizan-el-inmenso-desafio-que-enfrentara-de-la-espriella-en-la-lucha-contra-las-drogas/202613/), Semana (with Daniel Mejía) (2026)
 - [Proteger empleos del pasado es sacrificar los del futuro](https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/proteger-empleos-del-pasado-es-sacrificar-los-del-futuro/), La Silla Vacía (2026)
 - [Con el crimen organizado no hay qué negociar](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/con-el-crimen-organizado-no-hay-que-negociar/), La Silla Vacía (2026)
 - [Prevenir el suicidio comienza con tratar la depresión universitaria](https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/prevenir-el-suicidio-comienza-con-tratar-la-depresion-universitaria/), La Silla Vacía (2026)
@@ -169,6 +170,9 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 - [Las caras de los combos que quieren entrar a la Paz Total](https://www.lasillavacia.com/silla-nacional/las-caras-de-los-combos-que-quieren-entrar-a-la-paz-total/), La Silla Vacía, draws on Gang Rule (2023)
 - [Medellín is an example of what Colombia could be](https://www.economist.com/the-americas/2022/05/19/medellin-is-an-example-of-what-colombia-could-be), The Economist, cites Gang Rule (2022)
 - [Santiago Tobón ganó el premio Juan Luis Londoño de la Cuesta 2020](https://www.elespectador.com/economia/santiago-tobon-gano-el-premio-juan-luis-londono-de-la-cuesta-2020-article/), El Espectador, on the Londoño Medal (2021)
+- [Estos son los galardonados con el Premio Juan Luis Londoño de la Cuesta 2020](https://www.portafolio.co/tendencias/estos-son-los-galardonados-con-el-premio-juan-luis-londono-de-la-cuesta-2020-550640), Portafolio, on the Londoño Medal (2021)
+- [Santiago Tobón, ganador del premio Juan Luis Londoño de la Cuesta 2020](https://www.semana.com/economia/capsulas/articulo/santiago-tobon-ganador-del-premio-juan-luis-londono-de-la-cuesta-2020/202118/), Semana, on the Londoño Medal (2021)
+- [Santiago Tobón ganó el Premio Juan Luis Londoño por investigaciones sobre el crimen](https://www.larepublica.co/economia/santiago-tobon-gano-el-premio-juan-luis-londono-por-investigaciones-sobre-el-crimen-3145839), La República, on the Londoño Medal (2021)
 - [Así está el mapa que refleja el "control" de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, on the Gang Rule study (2021)
 - [Así gobiernan los "combos" en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, quotes me (2020)
 - [Estudio revela cómo reclusos colombianos son menos propensos a reincidir si en la cárcel tienen buenas condiciones](https://www.infobae.com/america/colombia/2020/11/28/estudio-revela-como-reclusos-colombianos-son-menos-propensos-a-reincidir-si-en-la-carcel-tienen-buenas-condiciones/), Infobae, on the prisons paper (2020)
