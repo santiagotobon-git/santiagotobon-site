@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
@@ -14,6 +15,9 @@ I am a Professor of Economics at Universidad EAFIT in Medellín and Director of 
 
 In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy.
 
+[CV](cv/cv_santiago_tobon.pdf) · [Google Scholar](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en) · [IDEAS/RePEc](https://ideas.repec.org/f/pto355.html) · [Email](mailto:stobonz@eafit.edu.co) · [X](https://twitter.com/santiagotobon)
+{ .hero-links }
+
 </div>
 <div class="hero-photo" markdown>
 
@@ -22,17 +26,6 @@ In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Med
 </div>
 </div>
 
-<div class="affiliations" markdown>
-<span class="badge">EAFIT</span>
-<span class="badge">J-PAL</span>
-<span class="badge">IPA</span>
-<span class="badge">UNU-WIDER</span>
-<span class="badge">EGAP</span>
-</div>
-
-[CV :material-file-document:](cv/cv_santiago_tobon.pdf){ .md-button }
-[Google Scholar :material-school:](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
-[stobonz@eafit.edu.co :material-email:](mailto:stobonz@eafit.edu.co){ .md-button }
 
 ---
 
@@ -85,16 +78,16 @@ Policy notes and reports for governments and development agencies, from the size
 **Latest**
 
 <div class="latest-item" markdown>
-<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing", *American Political Science Review* (2026)</span>
+<span>["State-Building in the City: An Experiment in Civilian Alternatives to Policing"](https://doi.org/10.1017/S0003055426101555), *American Political Science Review* (2026)</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Organized Crime and Violence", forthcoming at *Annual Review of Economics*</span>
+<span>["Organized Crime and Violence"](research/publications.md#journal-articles), forthcoming at *Annual Review of Economics*</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"The Producer's Cut: Sizing Colombia's Cocaine Economy", Valor Público, Universidad EAFIT</span>
+<span>["The Producer's Cut: Sizing Colombia's Cocaine Economy"](https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy), Valor Público, Universidad EAFIT</span>
 <span class="latest-type">Policy note, 2026</span>
 </div>

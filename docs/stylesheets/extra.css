@@ -76,8 +76,12 @@
 
 @media (max-width: 768px) {
   .hero-header {
-    flex-direction: column;
-    align-items: center;
+    flex-direction: column-reverse;
+    align-items: stretch;
+    gap: 1rem;
+  }
+  .hero-photo {
+    align-self: center;
   }
   .hero-photo {
     width: 120px;
@@ -335,4 +339,26 @@ details.pub-group > summary::after {
 .md-typeset .pub-entry details.pub-abstract > p {
   margin: 0.35rem 0 0.3rem 0;
   padding: 0;
+}
+
+/* Quiet link line under the homepage intro */
+.md-typeset p.hero-links {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset p.hero-links a {
+  color: var(--md-accent-fg-color);
+  font-weight: 600;
+}
+
+/* Latest items: title may wrap; keep the type label on the right */
+.latest-item > span:first-child {
+  flex: 1;
+  padding-right: 1rem;
+}
+
+.latest-item .latest-type {
+  white-space: nowrap;
 }

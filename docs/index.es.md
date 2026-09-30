@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
@@ -14,6 +15,9 @@ Soy Profesor de Economía en la Universidad EAFIT en Medellín y Director del [C
 
 En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño](https://fedesarrollo.org.co/otros/premio-londono), que reconoce a colombianos de 40 años o menos cuya investigación ha incidido en la política pública.
 
+[CV](cv/cv_santiago_tobon.pdf) · [Google Scholar](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en) · [IDEAS/RePEc](https://ideas.repec.org/f/pto355.html) · [Correo](mailto:stobonz@eafit.edu.co) · [X](https://twitter.com/santiagotobon)
+{ .hero-links }
+
 </div>
 <div class="hero-photo" markdown>
 
@@ -22,17 +26,6 @@ En 2020, el comité Juan Luis Londoño me [otorgó la Medalla Juan Luis Londoño
 </div>
 </div>
 
-<div class="affiliations" markdown>
-<span class="badge">EAFIT</span>
-<span class="badge">J-PAL</span>
-<span class="badge">IPA</span>
-<span class="badge">UNU-WIDER</span>
-<span class="badge">EGAP</span>
-</div>
-
-[CV :material-file-document:](cv/cv_santiago_tobon.pdf){ .md-button }
-[Google Scholar :material-school:](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en){ .md-button }
-[stobonz@eafit.edu.co :material-email:](mailto:stobonz@eafit.edu.co){ .md-button }
 
 ---
 
@@ -85,16 +78,16 @@ Notas de política e informes para gobiernos y agencias de desarrollo, desde el 
 **Reciente**
 
 <div class="latest-item" markdown>
-<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing", *American Political Science Review* (2026)</span>
+<span>["State-Building in the City: An Experiment in Civilian Alternatives to Policing"](https://doi.org/10.1017/S0003055426101555), *American Political Science Review* (2026)</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Organized Crime and Violence", próximamente en *Annual Review of Economics*</span>
+<span>["Organized Crime and Violence"](research/publications.md#journal-articles), próximamente en *Annual Review of Economics*</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"La participación del productor: el tamaño de la economía de la cocaína en Colombia", Valor Público, Universidad EAFIT</span>
+<span>["La participación del productor: el tamaño de la economía de la cocaína en Colombia"](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), Valor Público, Universidad EAFIT</span>
 <span class="latest-type">Nota de política, 2026</span>
 </div>
