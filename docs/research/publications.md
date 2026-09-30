@@ -2,7 +2,7 @@
 
 # Research
 
-Journal articles, working papers, book chapters, and commentaries. Policy notes and reports are listed under [Policy writing](../writing/policy.md).
+Journal articles, working papers, book chapters, and commentaries. Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing).
 
 ## Journal articles {#journal-articles}
 

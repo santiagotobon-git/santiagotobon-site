@@ -2,7 +2,7 @@
 
 # Investigación
 
-Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios. Las notas de política e informes están en [Escritos de política](../writing/policy.md).
+Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios. Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing).
 
 ## Artículos en revistas {#journal-articles}
 

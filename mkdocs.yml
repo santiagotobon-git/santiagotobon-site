@@ -69,10 +69,7 @@ plugins:
             - Investigación: research/publications.md
             - Centro de Valor Público: centro.md
             - Libro: book.md
-            - Escritos y medios:
-              - Escritos de política: writing/policy.md
-              - Columnas y blog: writing/blog-posts.md
-              - Podcasts, radio y video: writing/podcasts.md
+            - Escritos y medios: writing/index.md
             - Acerca de: about.md
 
 nav:
@@ -80,10 +77,7 @@ nav:
   - Research: research/publications.md
   - Centro de Valor Público: centro.md
   - Book: book.md
-  - Writing & Media:
-    - Policy writing: writing/policy.md
-    - Blog posts & op-eds: writing/blog-posts.md
-    - Podcasts, radio & video: writing/podcasts.md
+  - Writing & Media: writing/index.md
   - About: about.md
 
 extra:

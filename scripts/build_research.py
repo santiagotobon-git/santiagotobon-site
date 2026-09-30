@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Build the Research and Policy writing pages (English and Spanish) from one data file.
+"""Build the Research and Writing & Media pages (English and Spanish) from one data file.
 
 Source of truth: scripts/research_data.json. Edit entries there, then run
     /usr/bin/python3 scripts/build_research.py
 from the repository root. The script overwrites
     docs/research/publications.md, docs/research/publications.es.md,
-    docs/writing/policy.md, docs/writing/policy.es.md.
+    docs/writing/index.md, docs/writing/index.es.md (Writing & Media: policy
+    writing, columns, press coverage, podcasts, radio/TV/interviews, video).
+The 'media' block of the data file holds ready-made Markdown lines per language.
 Keep the data file aligned with cv-source/ (main.tex, publications-block.tex).
 """
 import html
@@ -21,7 +23,7 @@ TEXT = {
         "show": "Show all {n}",
         "research_title": "Research",
         "research_intro": ("Journal articles, working papers, book chapters, and commentaries. "
-                           "Policy notes and reports are listed under [Policy writing](../writing/policy.md)."),
+                           "Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing)."),
         "policy_title": "Policy writing and reports",
         "policy_intro": ("Policy notes, briefing notes, and technical reports. "
                          "Journal articles and working papers are listed under [Research](../research/publications.md)."),
@@ -31,7 +33,7 @@ TEXT = {
         "show": "Ver los {n}",
         "research_title": "Investigación",
         "research_intro": ("Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios. "
-                           "Las notas de política e informes están en [Escritos de política](../writing/policy.md)."),
+                           "Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing)."),
         "policy_title": "Escritos de política e informes",
         "policy_intro": ("Notas de política, notas informativas e informes técnicos. "
                          "Los artículos y documentos de trabajo están en [Investigación](../research/publications.md)."),
@@ -121,10 +123,49 @@ def research_page(lang):
     return "".join(lines)
 
 
-def policy_page(lang):
-    t = TEXT[lang]
-    lines = [HEADER, f"# {t['policy_title']}\n\n", t["policy_intro"] + "\n\n"]
-    lines += [entry(it, lang) + "\n" for it in DATA["policy"]]
+MEDIA_TEXT = {
+    "en": {
+        "title": "Writing and media",
+        "intro": ("Policy notes and reports, columns and blog posts, press coverage of my research, "
+                  "and podcast, radio, and video appearances. Journal articles and working papers are "
+                  "listed under [Research](../research/publications.md)."),
+        "sections": [("policy-writing", "Policy writing and reports"), ("columns", "Columns and blog posts"),
+                     ("press-coverage", "Press coverage"), ("podcasts", "Podcasts"),
+                     ("radio-tv-interviews", "Radio, TV, and interviews"), ("video", "Video")],
+    },
+    "es": {
+        "title": "Escritos y medios",
+        "intro": ("Notas de política e informes, columnas y entradas de blog, cubrimiento de prensa de mi "
+                  "investigación, y participaciones en podcasts, radio y video. Los artículos y documentos "
+                  "de trabajo están en [Investigación](../research/publications.md)."),
+        "sections": [("policy-writing", "Escritos de política e informes"), ("columns", "Columnas y entradas de blog"),
+                     ("press-coverage", "Cubrimiento de prensa"), ("podcasts", "Podcasts"),
+                     ("radio-tv-interviews", "Radio, televisión y entrevistas"), ("video", "Video")],
+    },
+}
+MEDIA_KEYS = {"columns": "blog", "press-coverage": "press", "podcasts": "podcasts",
+              "radio-tv-interviews": "radio", "video": "video"}
+
+
+def writing_page(lang):
+    t = MEDIA_TEXT[lang]
+    media = DATA.get("media", {})
+    lines = [HEADER, f"# {t['title']}\n\n", t["intro"] + "\n\n"]
+    for sid, title in t["sections"]:
+        if sid == "policy-writing":
+            lines.append(f"## {title} {{#{sid}}}\n\n")
+            lines += [entry(it, lang) + "\n" for it in DATA["policy"]]
+            continue
+        items = media.get(MEDIA_KEYS[sid], [])
+        if not items:
+            continue
+        lines.append(f"## {title} {{#{sid}}}\n\n")
+        for it in items:
+            line = it[lang]
+            if it.get("year"):  # columns carry the year as a field; other media lines already end with it
+                line += f" ({it['year']})"
+            lines.append(f"- {line}\n")
+        lines.append("\n")
     return "".join(lines)
 
 
@@ -132,8 +173,8 @@ def main():
     targets = {
         "docs/research/publications.md": research_page("en"),
         "docs/research/publications.es.md": research_page("es"),
-        "docs/writing/policy.md": policy_page("en"),
-        "docs/writing/policy.es.md": policy_page("es"),
+        "docs/writing/index.md": writing_page("en"),
+        "docs/writing/index.es.md": writing_page("es"),
     }
     for rel, text in targets.items():
         (ROOT / rel).write_text(text, encoding="utf-8")

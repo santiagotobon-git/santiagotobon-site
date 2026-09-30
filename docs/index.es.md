@@ -67,7 +67,7 @@ Un relato basado en evidencia sobre la industria de la cocaína —desde el cult
 
 Notas de política e informes para gobiernos y agencias de desarrollo, desde el tamaño de las economías de la cocaína y del oro en Colombia hasta lecciones de experimentos de campo con la policía y los gobiernos locales.
 
-[Ver escritos de política →](writing/policy.md){ .card-link }
+[Ver escritos de política →](writing/index.md#policy-writing){ .card-link }
 
 </div>
 

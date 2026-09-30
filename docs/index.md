@@ -67,7 +67,7 @@ An evidence-based account of the cocaine industry—from coca cultivation throug
 
 Policy notes and reports for governments and development agencies, from the size of Colombia's cocaine and gold economies to lessons from field experiments with the police and city governments.
 
-[Read policy writing →](writing/policy.md){ .card-link }
+[Read policy writing →](writing/index.md#policy-writing){ .card-link }
 
 </div>
 
