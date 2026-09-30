@@ -15,7 +15,7 @@
 - **Stories of Impact**, [“From gangs to growth: Fighting for the future of Medellín's teens”](https://www.storiesofimpact.org/from-gangs-to-growth-fighting-for-the-future-of-medellins-teens/) · [Video](https://www.youtube.com/watch?v=tyM_P7nBOYg) (2025)
 - **Actualidad Latinoamericana (Diario Financiero, Chile)**, [“Crimen organizado e impacto en PIB de la región: Santiago Tobón analiza los efectos del flagelo”](https://www.youtube.com/watch?v=YCXTufx3fLQ) (2025)
 - **Cárceles Podcast, #11**, [“Construir más cárceles o buscar alternativas”](https://podcasters.spotify.com/pod/show/carcelespodcast/episodes/CONSTRUIR-ms-CRCELES-o-BUSCAR-alternativas--Crceles-Podcast-11-e2tv1tc) (2025)
-- **The Visible Hand, Ep. 83**, [“Santiago Tobón on the Governance Provided by Organised Criminal Groups”](https://www.thevisiblehand.uk/episodes/episode-81-lh3nh-74djw-jramg-ehaft) (2024)
+- **The Visible Hand (Jordi Blanes i Vidal, LSE), Ep. 83**, [“Santiago Tobón on the Governance Provided by Organised Criminal Groups”](https://www.thevisiblehand.uk/episodes/episode-81-lh3nh-74djw-jramg-ehaft) (2024)
 - **El Profesor con Sergio Fajardo**, [“¿Por qué un joven entra a la ilegalidad?”](https://www.youtube.com/watch?v=licpsaXS3Dg) (2024)
 - **Pivotes, ¡Es la Evidencia! (Chile)**, [“Santiago Tobón sobre narcotráfico y gobierno”](https://www.youtube.com/watch?v=x9R0uIE_yf4) (2023)
 - **Daniel Duque V, Cap. 7**, [“Hablemos de seguridad con Santiago Tobón”](https://www.youtube.com/watch?v=SeRHO8TWRcQ) (2023)
