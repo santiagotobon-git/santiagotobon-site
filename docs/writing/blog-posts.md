@@ -47,12 +47,12 @@ Columns, blog posts, and op-eds, newest first.
 
 - [¿Cómo tener una mejor policía?](https://dev.focoeconomico.org/2021/06/16/como-tener-una-mejor-policia/), Foco Económico
 - [¿Qué debe incluir una reforma a la Policía?](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/que-debe-incluir-una-reforma-a-la-policia/), La Silla Vacía, conversation with María Acosta
-- [Reflexiones sobre crimen y violencia](https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, speech on receiving the 2020 Juan Luis Londoño Medal
+- [Reflexiones sobre crimen y violencia](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, speech on receiving the 2020 Juan Luis Londoño Medal
 
 ## 2020
 
 - [Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública
-- COVID-19 y crimen: Los grandes retos en la pandemia, Sin Miedos, Inter-American Development Bank
+- [COVID-19 y crimen: Los grandes retos en la pandemia](https://www.iadb.org/es/blog/seguridad-ciudadana/covid-19-y-crimen-los-grandes-retos-en-la-pandemia), Sin Miedos, Inter-American Development Bank (with Nathalie Alvarado, Santiago Pérez-Vincent, Martín Vanegas-Arias and Ervyn Norza)
 - [Gobierno criminal: ¿Qué es y cómo enfrentarlo?](https://focoeconomico.org/2020/11/03/gobierno-criminal-que-es-y-como-contrarrestarlo/), Foco Económico
 - [Colombia necesita más que una reforma policial](https://lasillavacia.com/silla-llena/red-social/colombia-necesita-mas-reforma-policial-77190), La Silla Vacía (with Isabel Gutiérrez)
 - [El COVID vuelve a abrir el debate sobre el salario mínimo](https://lasillavacia.com/silla-llena/red-social/covid-vuelve-abrir-debate-sobre-salario-minimo-76426), La Silla Vacía

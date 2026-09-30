@@ -22,7 +22,7 @@ I've held visiting positions at the University of Chicago Harris School of Publi
 
 ## Awards
 
-In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center.
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center. My acceptance speech, "Reflexiones sobre crimen y violencia," is available as a [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) and on [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
 
 In 2024, I received the Medellín Investiga Prize, awarded every year to the best research project on Medellín's most important development challenges.
 

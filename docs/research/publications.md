@@ -74,6 +74,7 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <div class="pub-entry">
 <a class="pub-title" href="https://doi.org/10.1111/petr.13774">Meta-Analysis of Hematopoietic Stem Cell Transplantation in Major Histocompatibility Complex Class II Deficiency</a>
 <span class="pub-meta">(with L. M. Castaño-Jaramillo, J. Bareño-Silva and A. F. Escobar-Gonzalez). <em>Pediatric Transplantation</em> 24(6): e13774 (2020).</span>
+<span class="pub-links"><a href="https://open.spotify.com/episode/40RDx2tFsGp6XKkjvXaxnW">Podcast (ES): Más niños, #53</a></span>
 <details class="pub-abstract"><summary>Abstract</summary><p>Major histocompatibility complex class II deficiency is a rare case of PID. Specific recommendations for hematopoietic stem cell transplant, the only curative treatment option, are still lacking. This meta‐analysis aims to identify the factors associated with better prognosis in these patients. Thirteen articles reporting 63 patients with major histocompatibility complex class II deficiency that underwent hematopoietic stem cell transplant were included. The median age for hematopoietic stem cell transplant was 18 months. The most common source of transplant was bone marrow, with alternative sources as umbilical cord blood emerging during recent years. The highest proportion of engraftment was seen with umbilical cord. Engraftment was higher in patients with matched donors, with better overall survival in patients with reduced‐intensity conditioning. Graft‐vs‐host disease developed in 65% of the patients, with grades I‐II being the most frequently encountered. There was a higher mortality in patients with myeloablative conditioning and no engraftment. There was an inverse correlation between survival and stage of graft‐vs‐host disease. The main cause of mortality was infectious disease, mostly secondary to viral infections. Ideally, matched grafts should be used, and reduced‐intensity conditioning should be considered to reduce early post‐transplant complications. GVHD and viral prophylaxis are fundamental.</p></details>
 </div>
 
@@ -165,6 +166,15 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <a class="pub-title" href="https://www.e-elgar.com/shop/usd/a-modern-guide-to-the-economics-of-crime-9781789909326.html">Broken Windows Policing and Crime: Evidence from 80 Colombian Cities</a>
 <span class="pub-meta">(with Daniel Mejía, Ervyn Norza and Martín Vanegas-Arias). In <em>A Modern Guide to the Economics of Crime</em>, P. Buonanno, P. Vanin and J. Vargas, eds., Edward Elgar, 55–87 (2022).</span>
 <span class="pub-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917187">Working paper</a></span>
+</div>
+
+## Literature reviews {#literature-reviews}
+
+<div class="pub-entry">
+<a class="pub-title" href="https://voxdev.org/voxdevlit/organised-crime">Organised Crime and Development</a>
+<span class="pub-meta">(with Maria Micaela Sviatschi and Nicolás Cabra-Ruiz). <em>VoxDevLit</em> 17(1) (2025).</span>
+<span class="pub-links"><a href="https://voxdev.org/sites/default/files/2025-09/Organised_Crime_Issue_1.pdf">PDF</a></span>
+<details class="pub-abstract"><summary>Abstract</summary><p>This VoxDevLit reviews research on the roots and development impacts of organised crime. Weak state capacity, dense local social networks, and incentives from illicit markets enable the rise and expansion of criminal organisations. These groups exert territorial control, engage in extortion, recruit children and, in some cases, establish forms of criminal governance and political influence. Their presence has persistent negative effects on economic growth, labour market outcomes, and human capital, while also undermining social trust through violence, corruption, and parallel authority structures. We examine policy responses—including policing reforms, prison rehabilitation, and preventive interventions such as conditional cash transfers, school-based programmes to shift norms or raise labour market expectations, and cognitive behavioural therapy. We highlight that these approaches can show greater effectiveness in reducing violence and recruitment when implemented alongside stronger formal institutions.</p></details>
 </div>
 
 ## Invited commentaries {#invited-commentaries}

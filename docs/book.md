@@ -41,6 +41,7 @@ Several of my papers, working papers, and policy notes address topics covered in
 ### The cocaine market
 
 - Organized Crime and Violence, *Annual Review of Economics*, forthcoming
+- [Organised Crime and Development](https://voxdev.org/voxdevlit/organised-crime), *VoxDevLit* 17(1) (2025)
 - The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain, working paper
 - [The Producer's Cut: Sizing Colombia's Cocaine Economy](https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy), Valor Público policy note (2026)
 - How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia, working paper

@@ -287,7 +287,16 @@
      "venue": "Pediatric Transplantation",
      "details": "24(6): e13774",
      "year": "2020",
-     "abstract": "Major histocompatibility complex class II deficiency is a rare case of PID. Specific recommendations for hematopoietic stem cell transplant, the only curative treatment option, are still lacking. This meta‐analysis aims to identify the factors associated with better prognosis in these patients. Thirteen articles reporting 63 patients with major histocompatibility complex class II deficiency that underwent hematopoietic stem cell transplant were included. The median age for hematopoietic stem cell transplant was 18 months. The most common source of transplant was bone marrow, with alternative sources as umbilical cord blood emerging during recent years. The highest proportion of engraftment was seen with umbilical cord. Engraftment was higher in patients with matched donors, with better overall survival in patients with reduced‐intensity conditioning. Graft‐vs‐host disease developed in 65% of the patients, with grades I‐II being the most frequently encountered. There was a higher mortality in patients with myeloablative conditioning and no engraftment. There was an inverse correlation between survival and stage of graft‐vs‐host disease. The main cause of mortality was infectious disease, mostly secondary to viral infections. Ideally, matched grafts should be used, and reduced‐intensity conditioning should be considered to reduce early post‐transplant complications. GVHD and viral prophylaxis are fundamental."
+     "abstract": "Major histocompatibility complex class II deficiency is a rare case of PID. Specific recommendations for hematopoietic stem cell transplant, the only curative treatment option, are still lacking. This meta‐analysis aims to identify the factors associated with better prognosis in these patients. Thirteen articles reporting 63 patients with major histocompatibility complex class II deficiency that underwent hematopoietic stem cell transplant were included. The median age for hematopoietic stem cell transplant was 18 months. The most common source of transplant was bone marrow, with alternative sources as umbilical cord blood emerging during recent years. The highest proportion of engraftment was seen with umbilical cord. Engraftment was higher in patients with matched donors, with better overall survival in patients with reduced‐intensity conditioning. Graft‐vs‐host disease developed in 65% of the patients, with grades I‐II being the most frequently encountered. There was a higher mortality in patients with myeloablative conditioning and no engraftment. There was an inverse correlation between survival and stage of graft‐vs‐host disease. The main cause of mortality was infectious disease, mostly secondary to viral infections. Ideally, matched grafts should be used, and reduced‐intensity conditioning should be considered to reduce early post‐transplant complications. GVHD and viral prophylaxis are fundamental.",
+     "links": [
+      {
+       "label": {
+        "en": "Podcast (ES): Más niños, #53",
+        "es": "Podcast: Más niños, #53"
+       },
+       "url": "https://open.spotify.com/episode/40RDx2tFsGp6XKkjvXaxnW"
+      }
+     ]
     },
     {
      "title": "The Role of Land Property Rights in the War on Illicit Crops: Evidence from Colombia",
@@ -527,6 +536,36 @@
       }
      ],
      "note": "in"
+    }
+   ]
+  },
+  {
+   "id": "literature-reviews",
+   "title": {
+    "en": "Literature reviews",
+    "es": "Revisiones de literatura"
+   },
+   "items": [
+    {
+     "title": "Organised Crime and Development",
+     "url": "https://voxdev.org/voxdevlit/organised-crime",
+     "coauthors": [
+      "Maria Micaela Sviatschi",
+      "Nicolás Cabra-Ruiz"
+     ],
+     "venue": "VoxDevLit",
+     "details": "17(1)",
+     "year": "2025",
+     "links": [
+      {
+       "label": {
+        "en": "PDF",
+        "es": "PDF"
+       },
+       "url": "https://voxdev.org/sites/default/files/2025-09/Organised_Crime_Issue_1.pdf"
+      }
+     ],
+     "abstract": "This VoxDevLit reviews research on the roots and development impacts of organised crime. Weak state capacity, dense local social networks, and incentives from illicit markets enable the rise and expansion of criminal organisations. These groups exert territorial control, engage in extortion, recruit children and, in some cases, establish forms of criminal governance and political influence. Their presence has persistent negative effects on economic growth, labour market outcomes, and human capital, while also undermining social trust through violence, corruption, and parallel authority structures. We examine policy responses—including policing reforms, prison rehabilitation, and preventive interventions such as conditional cash transfers, school-based programmes to shift norms or raise labour market expectations, and cognitive behavioural therapy. We highlight that these approaches can show greater effectiveness in reducing violence and recruitment when implemented alongside stronger formal institutions."
     }
    ]
   },

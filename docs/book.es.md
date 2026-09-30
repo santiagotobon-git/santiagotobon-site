@@ -41,6 +41,7 @@ Varios de mis artículos, documentos de trabajo y notas de política abordan tem
 ### El mercado de la cocaína
 
 - Organized Crime and Violence, *Annual Review of Economics*, próximamente
+- [Organised Crime and Development](https://voxdev.org/voxdevlit/organised-crime), *VoxDevLit* 17(1) (2025)
 - The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain, documento de trabajo
 - [The Producer's Cut: Sizing Colombia's Cocaine Economy](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), nota de política de Valor Público (2026)
 - How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia, documento de trabajo
