@@ -11,7 +11,7 @@
 - **El Podcast con Luis Carlos Vélez, #140**, [episodio](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)
 - **Hablemos de Raíz con Lucas Gómez, Ep. 106**, [“¿Qué cambió en Medellín? Estructuras criminales y nuevos acuerdos”](https://www.youtube.com/watch?v=YrayTj93Lw8) (2025)
 - **Atemporal con Andrés Acevedo, #177**, [“Es el momento de mayor poder de los combos”](https://www.youtube.com/watch?v=YhBlPtfGPj4) (2025)
-- **Más niños, un podcast de Fuly, #53**, [“La ciencia, la fe, el amor y la terquedad salvaron a Jerónimo”](https://open.spotify.com/episode/40RDx2tFsGp6XKkjvXaxnW) (2025)
+- **Más niños, un podcast de Fuly (conducido por Daniel Gómez), #53**, [“La ciencia, la fe, el amor y la terquedad salvaron a Jerónimo”](https://open.spotify.com/episode/40RDx2tFsGp6XKkjvXaxnW) (2025)
 - **Stories of Impact (conducido por Tavia Gilbert y Richard Sergay)**, [“From gangs to growth: Fighting for the future of Medellín's teens”](https://www.storiesofimpact.org/from-gangs-to-growth-fighting-for-the-future-of-medellins-teens/) · [Video](https://www.youtube.com/watch?v=tyM_P7nBOYg) (2025)
 - **Actualidad Latinoamericana (Diario Financiero, Chile; conducido por Renato García)**, [“Crimen organizado e impacto en PIB de la región: Santiago Tobón analiza los efectos del flagelo”](https://www.youtube.com/watch?v=YCXTufx3fLQ) (2025)
 - **Cárceles Podcast (conducido por Johana Bahamón), #11**, [“Construir más cárceles o buscar alternativas”](https://podcasters.spotify.com/pod/show/carcelespodcast/episodes/CONSTRUIR-ms-CRCELES-o-BUSCAR-alternativas--Crceles-Podcast-11-e2tv1tc) (2025)
@@ -22,7 +22,7 @@
 - **Governance Loop (EGAP; moderado por Lucía Tiscornia, con Joana Monteiro y Andrés Tobón), Ep. 3**, [“Understanding and Confronting Latin American Gangs”](https://podcasts.apple.com/co/podcast/id1603900048?i=1000551277681) (2022)
 - **Probable Causation (conducido por Jennifer Doleac), Ep. 61**, [“Santiago Tobón on gang rule”](https://www.probablecausation.com/podcasts/episode-61-santiago-tobon) (2021)
 - **Clase a la casa (Universidad de los Andes; con Alejandro Gaviria, Tatiana Andia e Inge Valencia), T3 E5**, [“Miradas diversas al paro nacional”](https://podcasters.spotify.com/pod/show/clase-a-la-casa/episodes/T3-E5-Miradas-diversas-al-paro-nacional-e11j81r) (2021)
-- **Quaderno de cuentas (Universo Centro), QC01**, [“Gobierno en combo”](https://www.youtube.com/watch?v=SyqiQkM9FFo) (2020)
+- **Quaderno de cuentas (Universo Centro; conducido por Pascual Gaviria), QC01**, [“Gobierno en combo”](https://www.youtube.com/watch?v=SyqiQkM9FFo) (2020)
 
 ## Radio, televisión y prensa
 
