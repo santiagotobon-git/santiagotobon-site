@@ -12,11 +12,11 @@ Soy Profesor de Economía en la Universidad EAFIT en Medellín, Colombia, y Dire
 
 Tengo las siguientes afiliaciones:
 
-- **AL CAPONE** (América Latina Crime and Policy Network) — Presidente
-- **UNU-WIDER** — Investigador Senior No Residente
-- **J-PAL** — Afiliado, Crime and Violence Initiative
-- **IPA** — Investigador
-- **EGAP** — Miembro académico y de Junta Directiva
+- **AL CAPONE** (América Latina Crime and Policy Network), Presidente
+- **UNU-WIDER**, Investigador Senior No Residente
+- **J-PAL**, Afiliado, Crime and Violence Initiative
+- **IPA**, Investigador
+- **EGAP**, Miembro académico y de Junta Directiva
 
 He sido profesor visitante en la Harris School of Public Policy de la Universidad de Chicago, el Banco Interamericano de Desarrollo y UNU-WIDER. Antes de vincularme a EAFIT, fui Investigador Postdoctoral en la Harris School of Public Policy de la Universidad de Chicago y en Innovations for Poverty Action.
 

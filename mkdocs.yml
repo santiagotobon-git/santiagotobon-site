@@ -74,8 +74,8 @@ plugins:
             - Libro: book.md
             - Escritos y medios:
               - Escritos de política: writing/policy.md
-              - Blog: writing/blog-posts.md
-              - Podcasts: writing/podcasts.md
+              - Columnas y blog: writing/blog-posts.md
+              - Podcasts y video: writing/podcasts.md
             - Acerca de: about.md
 
 nav:
@@ -85,8 +85,8 @@ nav:
   - Book: book.md
   - Writing & Media:
     - Policy writing: writing/policy.md
-    - Blog posts: writing/blog-posts.md
-    - Podcasts: writing/podcasts.md
+    - Blog posts & op-eds: writing/blog-posts.md
+    - Podcasts & video: writing/podcasts.md
   - About: about.md
 
 extra:

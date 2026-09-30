@@ -85,16 +85,16 @@ Notas de política e informes para gobiernos y agencias de desarrollo, desde el 
 **Reciente**
 
 <div class="latest-item" markdown>
-<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing" — *American Political Science Review* (2026)</span>
+<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing", *American Political Science Review* (2026)</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Organized Crime and Violence" — próximamente en *Annual Review of Economics*</span>
+<span>"Organized Crime and Violence", próximamente en *Annual Review of Economics*</span>
 <span class="latest-type">Artículo</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"La participación del productor: el tamaño de la economía de la cocaína en Colombia" — Valor Público, Universidad EAFIT</span>
+<span>"La participación del productor: el tamaño de la economía de la cocaína en Colombia", Valor Público, Universidad EAFIT</span>
 <span class="latest-type">Nota de política, 2026</span>
 </div>

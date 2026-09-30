@@ -8,7 +8,7 @@ hide:
 
 # Santiago Tobón
 
-I study how organized crime operates — how criminal organizations govern communities, extract resources, and sustain themselves — and what governments can do about it. My research covers policing, prisons, civilian alternatives to enforcement, and the regulation of illicit markets. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data on criminal governance, public trust in state institutions, and the effects of policy interventions at scale.
+I study how organized crime operates—how criminal organizations govern communities, extract resources, and sustain themselves—and what governments can do about it. My research covers policing, prisons, civilian alternatives to enforcement, and the regulation of illicit markets. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data on criminal governance, public trust in state institutions, and the effects of policy interventions at scale.
 
 I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I chair AL CAPONE, the América Latina Crime and Policy Network, and hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
 
@@ -62,7 +62,7 @@ Applied research, program evaluation, and policy design for governments and orga
 
 ### COCAÍNA: Anatomía de un mercado prohibido
 
-An evidence-based account of the cocaine industry — from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage. The manuscript is finished and with the publisher.
+An evidence-based account of the cocaine industry—from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage. The manuscript is finished and with the publisher.
 
 [About the book →](book.md){ .card-link }
 
@@ -85,16 +85,16 @@ Policy notes and reports for governments and development agencies, from the size
 **Latest**
 
 <div class="latest-item" markdown>
-<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing" — *American Political Science Review* (2026)</span>
+<span>"State-Building in the City: An Experiment in Civilian Alternatives to Policing", *American Political Science Review* (2026)</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"Organized Crime and Violence" — forthcoming at *Annual Review of Economics*</span>
+<span>"Organized Crime and Violence", forthcoming at *Annual Review of Economics*</span>
 <span class="latest-type">Journal article</span>
 </div>
 
 <div class="latest-item" markdown>
-<span>"The Producer's Cut: Sizing Colombia's Cocaine Economy" — Valor Público, Universidad EAFIT</span>
+<span>"The Producer's Cut: Sizing Colombia's Cocaine Economy", Valor Público, Universidad EAFIT</span>
 <span class="latest-type">Policy note, 2026</span>
 </div>

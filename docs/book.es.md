@@ -36,14 +36,29 @@ El libro abre con una introducción y desarrolla el argumento en quince capítul
 
 ## Investigación relacionada
 
-Varios de mis artículos publicados abordan temas cubiertos en el libro:
+Varios de mis artículos, documentos de trabajo y notas de política abordan temas cubiertos en el libro.
 
-- ["Gang rule: Understanding and countering criminal governance"](https://doi.org/10.1093/restud/rdae079) — *Review of Economic Studies* (2025)
-- ["Production and persistence of criminal skills: Evidence from a high-crime context"](https://www.sciencedirect.com/science/article/pii/S0304387822001122) — *Journal of Development Economics* (2023)
-- ["Statebuilding in the City: An Experiment in Civilian Alternatives to Policing"](https://www.nber.org/papers/w29692) — Próximamente, *American Political Science Review*
-- ["Hot Spots Policing in a High Crime Environment: An Experimental Evaluation in Medellín"](https://link.springer.com/article/10.1007/s11292-019-09390-1) — *Journal of Experimental Criminology* (2021)
-- ["Prison conditions and recidivism: Do better prisons reduce recidivism?"](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_01007) — *Review of Economics and Statistics* (2022)
-- ["The role of land property rights in the war on illicit crops"](https://www.sciencedirect.com/science/article/pii/S0305750X17303455) — *World Development* (2018)
+### El mercado de la cocaína
+
+- Organized Crime and Violence, *Annual Review of Economics*, próximamente
+- The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain, documento de trabajo
+- [The Producer's Cut: Sizing Colombia's Cocaine Economy](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), nota de política de Valor Público (2026)
+- How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia, documento de trabajo
+- [Concealed Costs: Illicit Economies and the Erosion of the Local Tax Base in Colombia](https://doi.org/10.35188/UNU-WIDER/2024/525-7), en *Wartime Taxation*, Oxford University Press, próximamente
+- [The Role of Land Property Rights in the War on Illicit Crops: Evidence from Colombia](https://www.sciencedirect.com/science/article/pii/S0305750X17303455), *World Development* (2018)
+- [El gasto fiscal de la guerra contra los portadores de drogas ilícitas: una aproximación para Colombia](https://revistas.udea.edu.co/index.php/lecturasdeeconomia/article/view/339173), *Lecturas de Economía* (2019)
+- [El ciclo criminal del microtráfico y consumo de drogas: contexto nacional y consecuencias en entornos locales](https://www.dropbox.com/s/lohh3ip86k5z8sd/guti%C3%A9rrez%2C%20tobon%20-%202017%20-%20el%20ciclo%20criminal%20del%20microtr%C3%A1fico%20y%20consumo%20de%20drogas%20contexto%20nacional%20y%20consecuencias%20en%20entornos%20locales.pdf?dl=0), capítulo de libro, Editorial EAFIT (2017)
+- [La situación del narcotráfico en Colombia ad portas del posacuerdo](http://www.eafit.edu.co/escuelas/humanidades/departamento-gobierno-ciencias-politicas/publicaciones/SiteAssets/Paginas/libros/Cuadernos%20de%20Trabajo%20EAFIT%2013-5-2016.pdf), capítulo de libro, Editorial EAFIT (2016)
+- [Instituciones y cultivos ilícitos](http://www.eafit.edu.co/centros/analisis-politico/publicaciones/proyectos-investigacion/Documents/Econom%C3%ADa%20criminal%20y%20poder%20pol%C3%ADtico.pdf), capítulo de libro, Editorial EAFIT (2013)
+
+### Organizaciones criminales, policía y cárceles
+
+- [Gang Rule: Understanding and Countering Criminal Governance](https://doi.org/10.1093/restud/rdae079), *Review of Economic Studies* (2025)
+- Gangs of Medellín: How Organized Crime Is Organized, documento de trabajo
+- [State-Building in the City: An Experiment in Civilian Alternatives to Policing](https://doi.org/10.1017/S0003055426101555), *American Political Science Review* (2026)
+- [Production and Persistence of Criminal Skills: Evidence from a High-Crime Context](https://www.sciencedirect.com/science/article/pii/S0304387822001122), *Journal of Development Economics* (2023)
+- [Do Better Prisons Reduce Recidivism? Evidence from a Prison Construction Program](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_01007), *Review of Economics and Statistics* (2022)
+- [Hot Spots Policing in a High-Crime Environment: An Experimental Evaluation in Medellín](https://link.springer.com/article/10.1007/s11292-019-09390-1), *Journal of Experimental Criminology* (2021)
 
 ## Contacto
 

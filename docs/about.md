@@ -4,7 +4,7 @@
 
 I study how organized crime operates and what governments can do about it. My research agenda spans four areas: how criminal organizations govern communities and sustain themselves, how policing and civilian alternatives to enforcement affect public safety, how prison conditions shape recidivism, and how policy interventions in illicit markets produce intended and unintended consequences.
 
-Most of my empirical work takes place in Colombian cities — particularly Medellín and Bogotá — where I run field experiments, collect original survey data, and work directly with municipal governments and police forces. My research has been published in the *Review of Economic Studies*, the *American Political Science Review*, the *Review of Economics and Statistics*, the *Journal of the European Economic Association*, and the *Journal of Development Economics*.
+Most of my empirical work takes place in Colombian cities—particularly Medellín and Bogotá—where I run field experiments, collect original survey data, and work directly with municipal governments and police forces. My research has been published in the *Review of Economic Studies*, the *American Political Science Review*, the *Review of Economics and Statistics*, the *Journal of the European Economic Association*, and the *Journal of Development Economics*.
 
 ## Positions
 
@@ -12,11 +12,11 @@ I am a Professor of Economics at Universidad EAFIT in Medellín, Colombia, and D
 
 I hold the following affiliations:
 
-- **AL CAPONE** (América Latina Crime and Policy Network) — Chair
-- **UNU-WIDER** — Non-Resident Senior Research Fellow
-- **J-PAL** — Affiliate, Crime and Violence Initiative
-- **IPA** — Researcher
-- **EGAP** — Academic Member and Board Member
+- **AL CAPONE** (América Latina Crime and Policy Network), Chair
+- **UNU-WIDER**, Non-Resident Senior Research Fellow
+- **J-PAL**, Affiliate, Crime and Violence Initiative
+- **IPA**, Researcher
+- **EGAP**, Academic Member and Board Member
 
 I've held visiting positions at the University of Chicago Harris School of Public Policy, the Inter-American Development Bank, and UNU-WIDER. Prior to joining EAFIT, I was a Postdoctoral Scholar at the University of Chicago Harris School of Public Policy and Innovations for Poverty Action.
 
