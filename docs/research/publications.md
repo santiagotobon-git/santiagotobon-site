@@ -88,6 +88,12 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 ## Working papers {#working-papers}
 
 <div class="pub-entry">
+<a class="pub-title" href="https://ideas.repec.org/p/col/000122/023627.html">Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories</a>
+<span class="pub-meta">(with Michael Weintraub). Reject and resubmit, <em>American Political Science Review</em>.</span>
+<span class="pub-links"><a href="https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados">Policy note (ES)</a></span>
+</div>
+
+<div class="pub-entry">
 <span class="pub-title">Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy</span>
 <span class="pub-meta">(with Martín Vanegas-Arias). Revise and resubmit, <em>World Development</em>.</span>
 </div>
@@ -105,12 +111,6 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <div class="pub-entry">
 <span class="pub-title">From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean</span>
 <span class="pub-meta">(with Ernesto Schargrodsky). Under review.</span>
-</div>
-
-<div class="pub-entry">
-<a class="pub-title" href="https://ideas.repec.org/p/col/000122/023627.html">Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories</a>
-<span class="pub-meta">(with Michael Weintraub). Under review.</span>
-<span class="pub-links"><a href="https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados">Policy note (ES)</a></span>
 </div>
 
 <div class="pub-entry">
