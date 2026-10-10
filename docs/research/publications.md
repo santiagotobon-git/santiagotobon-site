@@ -94,7 +94,7 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 </div>
 
 <div class="pub-entry">
-<span class="pub-title">Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy</span>
+<span class="pub-title">Education, Youth Development, and Organized-Crime Recruitment in Developing Countries</span>
 <span class="pub-meta">(with Martín Vanegas-Arias). Revised and resubmitted, <em>World Development</em>.</span>
 </div>
 
@@ -109,8 +109,8 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 </div>
 
 <div class="pub-entry">
-<span class="pub-title">From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean</span>
-<span class="pub-meta">(with Ernesto Schargrodsky). Under review.</span>
+<span class="pub-title">Prison Governance and the Purposes of Punishment</span>
+<span class="pub-meta">(with Ernesto Schargrodsky).</span>
 </div>
 
 <div class="pub-entry">

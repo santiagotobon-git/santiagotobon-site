@@ -349,7 +349,7 @@
      ]
     },
     {
-     "title": "Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy",
+     "title": "Education, Youth Development, and Organized-Crime Recruitment in Developing Countries",
      "coauthors": [
       "Martín Vanegas-Arias"
      ],
@@ -378,14 +378,10 @@
      ]
     },
     {
-     "title": "From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean",
+     "title": "Prison Governance and the Purposes of Punishment",
      "coauthors": [
       "Ernesto Schargrodsky"
-     ],
-     "status": {
-      "en": "Under review",
-      "es": "En evaluación"
-     }
+     ]
     },
     {
      "title": "Who Joins Drug-Selling Gangs and Why? Beliefs and Recruitment Risk among 10,000 Adolescent Boys",
@@ -733,6 +729,33 @@
  ],
  "policy": [
   {
+   "title": "Beneficios jurídicos en juego: la Paz Total y el voto en territorios de grupos armados",
+   "url": {
+    "en": "https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados",
+    "es": "https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados"
+   },
+   "coauthors": [
+    "Michael Weintraub"
+   ],
+   "details": {
+    "en": "Valor Público, Universidad EAFIT, Policy Note 11",
+    "es": "Valor Público, Universidad EAFIT, Nota de política 11"
+   },
+   "year": "2026"
+  },
+  {
+   "title": "Beyond the Mine: Sizing Colombia's Illegal Gold Economy",
+   "url": {
+    "en": "https://universidadeafit.widen.net/view/pdf/bu3hqrvhzp/Beyond-the-mine-sizing-Colombias-Illegal-Gold-Economy.pdf?t.download=true&u=amlqiy",
+    "es": "https://universidadeafit.widen.net/s/jphs9kcnfz/mas-alla-de-la-mina-el-tamano-de-la-economia-del-oro-en-colombia"
+   },
+   "details": {
+    "en": "Valor Público, Universidad EAFIT, Policy Note 10",
+    "es": "Valor Público, Universidad EAFIT, Nota de política 10"
+   },
+   "year": "2026"
+  },
+  {
    "title": "The Producer's Cut: Sizing Colombia's Cocaine Economy",
    "url": {
     "en": "https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy",
@@ -742,8 +765,23 @@
     "Daniel Mejía"
    ],
    "details": {
-    "en": "Valor Público, Universidad EAFIT",
-    "es": "Valor Público, Universidad EAFIT"
+    "en": "Valor Público, Universidad EAFIT, Policy Note 9",
+    "es": "Valor Público, Universidad EAFIT, Nota de política 9"
+   },
+   "year": "2026"
+  },
+  {
+   "title": "Education and Youth Pathways Under Organized Crime",
+   "url": {
+    "en": "https://www.organizedagainstcrime.org/_files/ugd/e04819_8486d989ac9c4b45aff5f209315437df.pdf",
+    "es": "https://www.organizedagainstcrime.org/_files/ugd/e04819_7655bb8912c249b0a342d8f298b350af.pdf"
+   },
+   "coauthors": [
+    "Martín Vanegas-Arias"
+   ],
+   "details": {
+    "en": "Organized Against Crime, Policy Document 9",
+    "es": "Organized Against Crime, Documento de política 9"
    },
    "year": "2026"
   },
@@ -762,29 +800,17 @@
    "year": "2026"
   },
   {
-   "title": "Beneficios jurídicos en juego: la Paz Total y el voto en territorios de grupos armados",
+   "title": "From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean",
    "url": {
-    "en": "https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados",
-    "es": "https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados"
+    "en": "https://www.organizedagainstcrime.org/_files/ugd/e04819_763a4aa502884c0ca95ca8b13bd359b3.pdf",
+    "es": "https://www.organizedagainstcrime.org/_files/ugd/e04819_4c673eee27d9455b9be08fc5e6834e21.pdf"
    },
    "coauthors": [
-    "Michael Weintraub"
+    "Ernesto Schargrodsky"
    ],
    "details": {
-    "en": "Valor Público, Universidad EAFIT",
-    "es": "Valor Público, Universidad EAFIT"
-   },
-   "year": "2026"
-  },
-  {
-   "title": "Beyond the Mine: Sizing Colombia's Illegal Gold Economy",
-   "url": {
-    "en": "https://universidadeafit.widen.net/view/pdf/bu3hqrvhzp/Beyond-the-mine-sizing-Colombias-Illegal-Gold-Economy.pdf?t.download=true&u=amlqiy",
-    "es": "https://universidadeafit.widen.net/s/jphs9kcnfz/mas-alla-de-la-mina-el-tamano-de-la-economia-del-oro-en-colombia"
-   },
-   "details": {
-    "en": "Valor Público, Universidad EAFIT",
-    "es": "Valor Público, Universidad EAFIT"
+    "en": "Organized Against Crime, Policy Document 3",
+    "es": "Organized Against Crime, Documento de política 3"
    },
    "year": "2026"
   },
@@ -824,19 +850,6 @@
    "year": "2025"
   },
   {
-   "title": "How to Map and Combat Urban Organised Crime: Lessons from the Medellín Impact Lab",
-   "url": {
-    "en": "https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime",
-    "es": "https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime"
-   },
-   "coauthors": [
-    "Christopher Blattman",
-    "Benjamin Lessing"
-   ],
-   "details": "SOC ACE Briefing Note 33",
-   "year": "2025"
-  },
-  {
    "title": "The Political Will to Measure Organised Crime: Why We Need It and How to Build It",
    "url": {
     "en": "https://www.socace-research.org.uk/publications/socace-bn34-political-will-to-measure-organised-crime",
@@ -847,6 +860,19 @@
     "Benjamin Lessing"
    ],
    "details": "SOC ACE Briefing Note 34",
+   "year": "2025"
+  },
+  {
+   "title": "How to Map and Combat Urban Organised Crime: Lessons from the Medellín Impact Lab",
+   "url": {
+    "en": "https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime",
+    "es": "https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime"
+   },
+   "coauthors": [
+    "Christopher Blattman",
+    "Benjamin Lessing"
+   ],
+   "details": "SOC ACE Briefing Note 33",
    "year": "2025"
   },
   {
@@ -898,6 +924,19 @@
    "year": "2022"
   },
   {
+   "title": "The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It",
+   "url": {
+    "en": "https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/terrible-trade-off-briefing.pdf",
+    "es": "https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/terrible-trade-off-briefing.pdf"
+   },
+   "coauthors": [
+    "Christopher Blattman",
+    "Benjamin Lessing"
+   ],
+   "details": "SOC ACE Briefing Note 4",
+   "year": "2022"
+  },
+  {
    "title": "Measuring Organised Crime: Challenges and Solutions for Collecting Data on Armed Illicit Groups",
    "url": {
     "en": "https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/measuring-organised-crime-briefing.pdf",
@@ -909,19 +948,6 @@
     "Juan Pablo Mesa-Mejía"
    ],
    "details": "SOC ACE Briefing Note 3",
-   "year": "2022"
-  },
-  {
-   "title": "The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It",
-   "url": {
-    "en": "https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/terrible-trade-off-briefing.pdf",
-    "es": "https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/terrible-trade-off-briefing.pdf"
-   },
-   "coauthors": [
-    "Christopher Blattman",
-    "Benjamin Lessing"
-   ],
-   "details": "SOC ACE Briefing Note 4",
    "year": "2022"
   },
   {
@@ -943,24 +969,6 @@
    "year": "2020"
   },
   {
-   "title": "Gobierno criminal en Medellín: panorama general del fenómeno y evidencia empírica sobre cómo enfrentarlo",
-   "url": {
-    "en": "https://ideas.repec.org/p/col/000122/018490.html",
-    "es": "https://ideas.repec.org/p/col/000122/018490.html"
-   },
-   "coauthors": [
-    "Christopher Blattman",
-    "Gustavo Duncan",
-    "Benjamin Lessing",
-    "Juan Pablo Mesa-Mejía"
-   ],
-   "details": {
-    "en": "Valor Público, Universidad EAFIT",
-    "es": "Valor Público, Universidad EAFIT"
-   },
-   "year": "2020"
-  },
-  {
    "title": "Crime in the Time of COVID-19",
    "url": {
     "en": "https://www.poverty-action.org/sites/default/files/2020-09-29-COVID-19-Survey-report.pdf",
@@ -973,6 +981,24 @@
     "et al."
    ],
    "details": "EDI Report, COVID-19 Essay Series",
+   "year": "2020"
+  },
+  {
+   "title": "Gobierno criminal en Medellín: panorama general del fenómeno y evidencia empírica sobre cómo enfrentarlo",
+   "url": {
+    "en": "https://ideas.repec.org/p/col/000122/018490.html",
+    "es": "https://ideas.repec.org/p/col/000122/018490.html"
+   },
+   "coauthors": [
+    "Christopher Blattman",
+    "Gustavo Duncan",
+    "Benjamin Lessing",
+    "Juan Pablo Mesa-Mejía"
+   ],
+   "details": {
+    "en": "Documentos de Trabajo de Valor Público, Universidad EAFIT",
+    "es": "Documentos de Trabajo de Valor Público, Universidad EAFIT"
+   },
    "year": "2020"
   },
   {

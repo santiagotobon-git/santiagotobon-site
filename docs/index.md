@@ -88,6 +88,6 @@ Policy notes and reports for governments and development agencies, from the size
 </div>
 
 <div class="latest-item" markdown>
-<span>["The Producer's Cut: Sizing Colombia's Cocaine Economy"](https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy), Valor Público, Universidad EAFIT</span>
+<span>["The Producer's Cut: Sizing Colombia's Cocaine Economy"](https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy), Valor Público, Universidad EAFIT, Policy Note 9</span>
 <span class="latest-type">Policy note, 2026</span>
 </div>

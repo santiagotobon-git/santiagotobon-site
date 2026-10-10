@@ -88,6 +88,6 @@ Notas de política e informes para gobiernos y agencias de desarrollo, desde el 
 </div>
 
 <div class="latest-item" markdown>
-<span>["La participación del productor: el tamaño de la economía de la cocaína en Colombia"](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), Valor Público, Universidad EAFIT</span>
+<span>["La participación del productor: el tamaño de la economía de la cocaína en Colombia"](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), Valor Público, Universidad EAFIT, Nota de política 9</span>
 <span class="latest-type">Nota de política, 2026</span>
 </div>
