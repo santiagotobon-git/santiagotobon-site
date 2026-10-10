@@ -95,12 +95,12 @@ Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios
 
 <div class="pub-entry">
 <span class="pub-title">Education and Youth-Development Interventions for Organized-Crime Prevention in Developing Countries: Evidence, Extrapolation, and Policy</span>
-<span class="pub-meta">(con Martín Vanegas-Arias). Revisión solicitada, <em>World Development</em>.</span>
+<span class="pub-meta">(con Martín Vanegas-Arias). Revisión enviada, <em>World Development</em>.</span>
 </div>
 
 <div class="pub-entry">
 <span class="pub-title">Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia</span>
-<span class="pub-meta">(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias). Revisión solicitada, <em>Justice Quarterly</em>.</span>
+<span class="pub-meta">(con Verónica Abril, Santiago Pérez-Vincent y Martín Vanegas-Arias). Revisión enviada, <em>Justice Quarterly</em>.</span>
 </div>
 
 <div class="pub-entry">
