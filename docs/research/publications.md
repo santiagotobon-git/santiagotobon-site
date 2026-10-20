@@ -88,6 +88,11 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 ## Working papers {#working-papers}
 
 <div class="pub-entry">
+<span class="pub-title">Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia</span>
+<span class="pub-meta">(with Verónica Abril, Santiago Pérez-Vincent and Martín Vanegas-Arias). Conditionally accepted, <em>Justice Quarterly</em>.</span>
+</div>
+
+<div class="pub-entry">
 <a class="pub-title" href="https://ideas.repec.org/p/col/000122/023627.html">Votes Follow Stakes: Peace Negotiations and Electoral Shifts in Armed-Group Territories</a>
 <span class="pub-meta">(with Michael Weintraub). Reject and resubmit, <em>American Political Science Review</em>.</span>
 <span class="pub-links"><a href="https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados">Policy note (ES)</a></span>
@@ -96,11 +101,6 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <div class="pub-entry">
 <span class="pub-title">Education, Youth Development, and Organized-Crime Recruitment in Developing Countries</span>
 <span class="pub-meta">(with Martín Vanegas-Arias). Revised and resubmitted, <em>World Development</em>.</span>
-</div>
-
-<div class="pub-entry">
-<span class="pub-title">Respect, Neutrality, and Police Legitimacy: A Representative Vignette Experiment in Post-Conflict Colombia</span>
-<span class="pub-meta">(with Verónica Abril, Santiago Pérez-Vincent and Martín Vanegas-Arias). Revised and resubmitted, <em>Justice Quarterly</em>.</span>
 </div>
 
 <div class="pub-entry">
