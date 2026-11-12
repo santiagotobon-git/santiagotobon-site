@@ -83,7 +83,7 @@ Notas de política e informes para gobiernos y agencias de desarrollo, desde el 
 </div>
 
 <div class="latest-item" markdown>
-<span>["Organized Crime and Violence"](research/publications.md#journal-articles), próximamente en *Annual Review of Economics*</span>
+<span>["Organized Crime and Violence"](research/publications.md#journal-articles), próximamente en *Annual Review of Economics* 19 (2027)</span>
 <span class="latest-type">Artículo</span>
 </div>
 

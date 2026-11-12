@@ -83,7 +83,7 @@ Policy notes and reports for governments and development agencies, from the size
 </div>
 
 <div class="latest-item" markdown>
-<span>["Organized Crime and Violence"](research/publications.md#journal-articles), forthcoming at *Annual Review of Economics*</span>
+<span>["Organized Crime and Violence"](research/publications.md#journal-articles), forthcoming in *Annual Review of Economics* 19 (2027)</span>
 <span class="latest-type">Journal article</span>
 </div>
 
