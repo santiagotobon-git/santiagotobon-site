@@ -7,6 +7,11 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 ## Policy writing and reports {#policy-writing}
 
 <div class="pub-entry">
+<a class="pub-title" href="https://peaceinourcities.org/wp-content/uploads/2026/10/Chapter_2_PiOC-_Compendium_EN.pdf">Organized Crime as Urban Governance: How Criminal Groups Rule Cities and What Local Governments Can Do</a>
+<span class="pub-meta">Chapter 2 in Urban Violence Prevention Amid Global Uncertainty, edited by Flávia Carbonari, Rachel Locke, and Jai-Ayla Sutherland, Peace in Our Cities, pp. 35–51 (2026).</span>
+</div>
+
+<div class="pub-entry">
 <a class="pub-title" href="https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados">Beneficios jurídicos en juego: la Paz Total y el voto en territorios de grupos armados</a>
 <span class="pub-meta">(with Michael Weintraub). Valor Público, Universidad EAFIT, Policy Note 11 (2026).</span>
 </div>

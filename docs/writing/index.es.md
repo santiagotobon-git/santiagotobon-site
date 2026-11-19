@@ -7,6 +7,11 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 ## Escritos de política e informes {#policy-writing}
 
 <div class="pub-entry">
+<a class="pub-title" href="https://peaceinourcities.org/wp-content/uploads/2026/10/ES-v9-PiOC-Compendium.pdf">Organized Crime as Urban Governance: How Criminal Groups Rule Cities and What Local Governments Can Do</a>
+<span class="pub-meta">Capítulo 2 en Urban Violence Prevention Amid Global Uncertainty, editado por Flávia Carbonari, Rachel Locke y Jai-Ayla Sutherland, Peace in Our Cities (compendio completo en español) (2026).</span>
+</div>
+
+<div class="pub-entry">
 <a class="pub-title" href="https://universidadeafit.widen.net/s/zdhtjctk6p/benefincios_juridicos_en_juego_la_paz_total_y_el_voto_en_territorios_de_grupos_armados">Beneficios jurídicos en juego: la Paz Total y el voto en territorios de grupos armados</a>
 <span class="pub-meta">(con Michael Weintraub). Valor Público, Universidad EAFIT, Nota de política 11 (2026).</span>
 </div>
