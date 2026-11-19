@@ -130,6 +130,7 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 - [Legalizar la marihuana: 5 razones para madurar como sociedad](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/legalizar-la-marihuana-5-razones-para-madurar-como-sociedad/), La Silla Vacía (2023)
 - [Reshaping Aspirations for Kids in Medellín: Steering Youth Away from Gang Recruitment](https://www.templetonworldcharity.org/blog/interview-santiago-tobon-universidad-eafit), Templeton World Charity Foundation, interview (2023)
 - [¿Paz total? Tres retos para la gran apuesta del Gobierno Nacional](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-total-tres-retos-para-la-gran-apuesta-del-gobierno-nacional/), La Silla Vacía (with Martín Vanegas-Arias) (2023)
+- [Plus une prison est vétuste, plus elle développe le capital criminel](https://doi.org/10.3917/poec.050.0054), Pour l'Éco, no. 50 (with Clément Rouget) (2023)
 - [Investing in prison quality: A cost-effective way to reduce recidivism](https://voxdev.org/topic/public-economics/investing-prison-quality-cost-effective-way-reduce-recidivism), VoxDev (2023)
 - [State-building on the margin: An urban experiment in Medellín](https://voxdev.org/topic/institutions-political-economy/state-building-margin-urban-experiment-medellin), VoxDev (with Christopher Blattman, Gustavo Duncan and Benjamin Lessing) (2022)
 - [La paz posible con el crimen organizado](https://www.elespectador.com/judicial/analisis-la-paz-posible-con-el-crimen-organizado/), El Espectador (2022)
