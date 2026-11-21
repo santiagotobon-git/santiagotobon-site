@@ -1,51 +1,21 @@
 site_name: Santiago Tobón
-site_url: https://santiagotobon.co
-site_description: "Political economist at EAFIT University. Research on public policy, institutional design, and the economics of illicit markets."
+site_url: https://santiagotobon.co/
+site_description: "Economist at Universidad EAFIT. Research on organized crime, policing, prisons, and illicit markets."
 site_author: Santiago Tobón
 
+# Custom minimal theme in theme/ (main.html + css/site.css), Nov 2026. Replaces MkDocs Material.
 theme:
-  name: material
-  custom_dir: docs/overrides
-  language: en
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - toc.integrate
-  palette:
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-    - scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-  font:
-    text: Source Sans 3
-    code: Source Code Pro
-  icon:
-    logo: material/school
-
-extra_css:
-  - stylesheets/extra.css
+  name: null
+  custom_dir: theme
+  static_templates:
+    - 404.html
+  locale: en
 
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.superfences
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - attr_list
   - md_in_html
@@ -53,7 +23,6 @@ markdown_extensions:
       permalink: false
 
 plugins:
-  - search
   - i18n:
       docs_structure: suffix
       languages:
@@ -67,36 +36,17 @@ plugins:
           nav:
             - Inicio: index.md
             - Investigación: research/publications.md
-            - Centro de Valor Público: centro.md
             - Libro: book.md
-            - Escritos y medios: writing/index.md
+            - Escritos: writing/index.md
+            - Valor Público: centro.md
             - Acerca de: about.md
 
 nav:
   - Home: index.md
   - Research: research/publications.md
-  - Centro de Valor Público: centro.md
   - Book: book.md
-  - Writing & Media: writing/index.md
+  - Writing: writing/index.md
+  - Valor Público: centro.md
   - About: about.md
-
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Español
-      link: /es/
-      lang: es
-  social:
-    - icon: fontawesome/brands/google-scholar
-      link: https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en
-      name: Google Scholar
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/santiagotobon
-      name: X / Twitter
-    - icon: fontawesome/solid/envelope
-      link: mailto:stobonz@eafit.edu.co
-      name: Email
 
 copyright: Santiago Tobón · Universidad EAFIT · Medellín, Colombia

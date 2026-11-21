@@ -1,93 +1,55 @@
----
-hide:
-  - navigation
-  - toc
----
-
-<div class="hero-header" markdown>
-<div class="hero-text" markdown>
-
-# Santiago Tobón
-
-I study how organized crime operates—how criminal organizations govern communities, extract resources, and sustain themselves—and what governments can do about it. My research covers policing, prisons, civilian alternatives to enforcement, and the regulation of illicit markets. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data on criminal governance, public trust in state institutions, and the effects of policy interventions at scale.
-
-I am a Professor of Economics at Universidad EAFIT in Medellín and Director of the [Centro de Valor Público](centro.md), which connects applied research to institutional decision-making across Colombia. I chair AL CAPONE, the América Latina Crime and Policy Network, and hold affiliations with J-PAL, IPA, UNU-WIDER, and EGAP, where I serve on the Board.
-
-In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy.
-
-[CV](cv/cv_santiago_tobon.pdf) · [Google Scholar](https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&hl=en) · [IDEAS/RePEc](https://ideas.repec.org/f/pto355.html) · [Email](mailto:stobonz@eafit.edu.co) · [X](https://twitter.com/santiagotobon)
-{ .hero-links }
-
+<section class="hero">
+<div class="hero-text">
+<h1>Santiago Tobón</h1>
+<p class="lede">I study how organized crime operates, how criminal groups govern communities and extract resources, and what governments can do about it. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data.</p>
+<p class="roles">Professor of Economics, Universidad EAFIT · Director, <a href="centro/">Centro de Valor Público</a> · Chair, AL CAPONE</p>
+<p class="links"><a href="cv/cv_santiago_tobon.pdf">CV (PDF)</a><a href="https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&amp;hl=en">Google Scholar</a><a href="https://ideas.repec.org/f/pto355.html">IDEAS/RePEc</a><a href="mailto:stobonz@eafit.edu.co">Email</a><a href="https://twitter.com/santiagotobon">X</a></p>
 </div>
-<div class="hero-photo" markdown>
+<figure>
+<img src="img/tedx-stage.jpg" alt="Santiago Tobón on stage at TEDxUniversidad EAFIT">
+<figcaption>TEDxUniversidad EAFIT, October 2026</figcaption>
+</figure>
+</section>
 
-![Santiago Tobón](img/profile.jpg)
+<section class="latest" aria-label="Latest">
+<p class="label">Latest</p>
+<ul>
+<li><span class="when">Nov 2026</span><span class="what"><a href="research/publications/#journal-articles">Organized Crime and Violence</a> accepted at the <em>Annual Review of Economics</em></span></li>
+<li><span class="when">Nov 2026</span><span class="what"><a href="https://doi.org/10.1017/S0003055426101555">State-Building in the City</a> in print, <em>American Political Science Review</em> 120(4)</span></li>
+<li><span class="when">Oct 2026</span><span class="what"><a href="https://peaceinourcities.org/resources/compendium-urban-violence-prevention/">Organized Crime as Urban Governance</a>, chapter in a Peace in Our Cities compendium</span></li>
+</ul>
+</section>
 
+<section class="index">
+<div class="index-row">
+<h2>Research</h2>
+<div class="body">
+<p>Criminal governance, policing, prisons, and illicit markets. Articles in the <em>Review of Economic Studies</em>, <em>American Political Science Review</em>, <em>Review of Economics and Statistics</em>, and <em>Journal of the European Economic Association</em>, among others.</p>
+<a class="more" href="research/publications/">Publications and working papers →</a>
 </div>
 </div>
-
-
----
-
-<div class="card-grid" markdown>
-
-<div class="card" markdown>
-
-### Research
-
-Publications in criminal governance, policing, prisons, and illicit markets. Working papers on trust in state actors, gang recruitment, and the organization of organized crime.
-
-[Browse research →](research/publications.md){ .card-link }
-
+<div class="index-row">
+<h2>Book</h2>
+<div class="body book-row">
+<div class="text">
+<p class="title">COCAÍNA: Anatomía de un mercado prohibido</p>
+<p>How prohibition sets the rules of the cocaine trade, and why each crackdown favors the organizations most capable of violence and corruption. Forthcoming in Spanish. The manuscript is with the publisher.</p>
+<a class="more" href="book/">About the book →</a>
 </div>
-
-<div class="card" markdown>
-
-### Centro de Valor Público
-
-Applied research, program evaluation, and policy design for governments and organizations. Projects range from experimental evaluations of youth interventions to institutional strengthening across 49 municipalities.
-
-[See featured projects →](centro.md){ .card-link }
-
 </div>
-
-<div class="card" markdown>
-
-### COCAÍNA: Anatomía de un mercado prohibido
-
-An evidence-based account of the cocaine industry—from coca cultivation through production, trafficking, and retail distribution to the policy responses that shape each stage. The manuscript is finished and with the publisher.
-
-[About the book →](book.md){ .card-link }
-
 </div>
-
-<div class="card" markdown>
-
-### Policy writing
-
-Policy notes and reports for governments and development agencies, from the size of Colombia's cocaine and gold economies to lessons from field experiments with the police and city governments.
-
-[Read policy writing →](writing/index.md#policy-writing){ .card-link }
-
+<div class="index-row">
+<h2>Valor Público</h2>
+<div class="body">
+<p>EAFIT's applied policy research center. Program evaluation and policy design for governments, from experimental evaluations of youth interventions to institutional strengthening across 49 municipalities.</p>
+<a class="more" href="centro/">Projects →</a>
 </div>
-
 </div>
-
----
-
-**Latest**
-
-<div class="latest-item" markdown>
-<span>["State-Building in the City: An Experiment in Civilian Alternatives to Policing"](https://doi.org/10.1017/S0003055426101555), *American Political Science Review* (2026)</span>
-<span class="latest-type">Journal article</span>
+<div class="index-row">
+<h2>Writing</h2>
+<div class="body">
+<p>Policy notes and reports, columns in El Colombiano and La Silla Vacía, pieces in VoxDev and Nada es Gratis, and press coverage of my research, including <em>The Economist</em>.</p>
+<a class="more" href="writing/">Writing and media →</a>
 </div>
-
-<div class="latest-item" markdown>
-<span>["Organized Crime and Violence"](research/publications.md#journal-articles), forthcoming in *Annual Review of Economics* 19 (2027)</span>
-<span class="latest-type">Journal article</span>
 </div>
-
-<div class="latest-item" markdown>
-<span>["The Producer's Cut: Sizing Colombia's Cocaine Economy"](https://universidadeafit.widen.net/s/nsw7nlzrrp/the-producers-cut-sizing-colombias-cocaine-economy), Valor Público, Universidad EAFIT, Policy Note 9</span>
-<span class="latest-type">Policy note, 2026</span>
-</div>
+</section>
