@@ -30,6 +30,15 @@ a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--link-hover); text-decoration: underline; }
 a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; }
 
+/* Links inside running text are underlined so they read as links, not just a color change */
+.page p a, .page li a, .index-row p a, .latest .what a, .hero-text .roles a, .pub-entry .pub-meta a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(31, 78, 121, 0.45);
+}
+.page p a:hover, .page li a:hover, .index-row p a:hover, .latest .what a:hover, .hero-text .roles a:hover { text-decoration-color: currentColor; }
+
 img { max-width: 100%; height: auto; }
 
 .skip { position: absolute; left: -9999px; }
@@ -106,7 +115,8 @@ img { max-width: 100%; height: auto; }
   line-height: 1.35;
   color: var(--ink);
 }
-.pub-entry a.pub-title:hover { color: var(--link); }
+.pub-entry a.pub-title { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; text-decoration-color: #C9C9C9; }
+.pub-entry a.pub-title:hover { color: var(--link); text-decoration-color: currentColor; }
 .pub-entry .pub-meta { display: block; margin-top: 4px; font-size: 15px; color: var(--muted); }
 .pub-entry .pub-meta em { font-family: var(--serif); font-size: 16.5px; color: #3A3A3A; }
 .pub-entry .pub-links { display: block; margin-top: 4px; font-size: 14px; }
@@ -150,7 +160,7 @@ details.pub-group > summary {
 .hero-text .roles { margin: 0 0 28px; font-size: 16px; line-height: 1.6; color: var(--muted); }
 .hero-text .links { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 15px; font-weight: 500; }
 .hero figure { flex: 1 1 380px; min-width: 0; margin: 0; }
-.hero figure img { width: 100%; aspect-ratio: 4 / 3.4; object-fit: cover; object-position: 68% center; display: block; }
+.hero figure img { width: 100%; aspect-ratio: 4 / 3.4; object-fit: cover; object-position: 60% center; display: block; }
 .hero figcaption { margin-top: 8px; font-size: 13px; color: var(--muted); }
 
 .latest { margin-top: 88px; border-top: 2px solid var(--ink); padding-top: 14px; display: flex; flex-wrap: wrap; gap: 16px 48px; }
@@ -194,5 +204,5 @@ details.pub-group > summary {
   body { font-size: 11pt; color: #000; }
   a { color: #000; }
   .page, .home-main { max-width: none; padding: 0; }
-  details.pub-abstract > p { display: block; }
+  details > summary { display: none; }
 }
