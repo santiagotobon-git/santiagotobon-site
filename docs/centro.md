@@ -2,7 +2,7 @@
 
 The Centro de Valor Público at Universidad EAFIT produces applied research, policy design, and program evaluation for governments, international organizations, and the private sector. The Centro operates across five thematic initiatives—security and justice, government and democracy, economic development, equity and social development, and social innovation—with a team of faculty coordinators, project managers, and research staff.
 
-For the full list of publications, policy notes, and team profiles, visit the [Centro's page at EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
+I have directed the Centro since 2025. For the full list of publications, policy notes, and team profiles, visit the [Centro's page at EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
 
 The projects below illustrate what the Centro does and how it works.
 
@@ -10,7 +10,7 @@ The projects below illustrate what the Centro does and how it works.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/parceros.jpg" alt="Parceros Creadores">
+<img src="../img/parceros.jpg" alt="Two young participants of Parceros Creadores looking at a phone in a Medellín neighborhood">
 </div>
 <div class="project-text" markdown>
 
@@ -32,9 +32,6 @@ The result is a government program that improves with each iteration because eva
 ---
 
 <div class="project-row" markdown>
-<div class="project-img">
-<img src="../img/cuidado.jpg" alt="Sistema del Cuidado">
-</div>
 <div class="project-text" markdown>
 
 ## Sistema del Cuidado de Antioquia
@@ -54,7 +51,7 @@ The design targets the institutional and cultural conditions that sustain gender
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/ocensa.jpg" alt="OCENSA">
+<img src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander" style="object-position: center top">
 </div>
 <div class="project-text" markdown>
 
@@ -77,7 +74,7 @@ The project changes the conditions that produce territorial underdevelopment rat
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/hogares.jpg" alt="Hogares Saludables">
+<img src="../img/hogares.jpg" alt="A caregiver and three young children drawing with chalk on the floor of their home">
 </div>
 <div class="project-text" markdown>
 

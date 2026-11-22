@@ -12,6 +12,7 @@ Keep the data file aligned with cv-source/ (main.tex, publications-block.tex).
 """
 import html
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -163,7 +164,9 @@ def writing_page(lang):
         for it in items:
             line = it[lang]
             if it.get("year"):  # columns carry the year as a field; other media lines already end with it
-                line += f" ({it['year']})"
+                # "(with X)" absorbs the year as "(with X, 2025)" instead of a second parenthesis
+                line = (line[:-1] + f", {it['year']})" if re.search(r"\((with|con) [^()]*\)$", line)
+                        else line + f" ({it['year']})")
             lines.append(f"- {line}\n")
         lines.append("\n")
     return "".join(lines)

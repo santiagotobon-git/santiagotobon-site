@@ -2,7 +2,7 @@
 
 ## El libro
 
-*COCAÍNA: Anatomía de un mercado prohibido* es mi primer libro. El manuscrito está terminado —una introducción y quince capítulos— y se encuentra en manos de la editorial. Los detalles de publicación aparecerán en esta página a medida que se confirmen.
+*COCAÍNA: Anatomía de un mercado prohibido* es mi primer libro. El manuscrito está terminado —una introducción y quince capítulos— y está bajo contrato con Penguin Random House Grupo Editorial, que prevé publicarlo en 2027. Los demás detalles aparecerán en esta página a medida que se confirmen.
 
 El libro recorre la vida de un gramo de cocaína, desde la hoja en una ladera andina hasta la línea de polvo en un bar europeo, y desde la venta en una esquina hasta la transferencia que blanquea las ganancias. Hoy se produce y se consume más cocaína que nunca desde que existen registros sistemáticos. Según estimaciones de Naciones Unidas, la producción alcanzó 2.757 toneladas de cocaína pura en 2022 y 3.708 toneladas en 2023, y alrededor de 25 millones de personas la consumen en el mundo. La mayoría de esos consumidores vive en América del Norte, Europa y algunas grandes ciudades de América del Sur. Los costos más altos recaen en otra parte. América Latina y el Caribe, con cerca del 8% de la población mundial, concentran casi un tercio de los homicidios del planeta, y buena parte de esa violencia se relaciona con el tráfico de drogas.
 
@@ -58,7 +58,7 @@ Varios de mis artículos, documentos de trabajo y notas de política abordan tem
 - Gangs of Medellín: How Organized Crime Is Organized, documento de trabajo
 - [State-Building in the City: An Experiment in Civilian Alternatives to Policing](https://doi.org/10.1017/S0003055426101555), *American Political Science Review* (2026)
 - [Production and Persistence of Criminal Skills: Evidence from a High-Crime Context](https://www.sciencedirect.com/science/article/pii/S0304387822001122), *Journal of Development Economics* (2023)
-- [Do Better Prisons Reduce Recidivism? Evidence from a Prison Construction Program](https://www.mitpressjournals.org/doi/abs/10.1162/rest_a_01007), *Review of Economics and Statistics* (2022)
+- [Do Better Prisons Reduce Recidivism? Evidence from a Prison Construction Program](https://doi.org/10.1162/rest_a_01007), *Review of Economics and Statistics* (2022)
 - [Hot Spots Policing in a High-Crime Environment: An Experimental Evaluation in Medellín](https://link.springer.com/article/10.1007/s11292-019-09390-1), *Journal of Experimental Criminology* (2021)
 
 ## Contacto

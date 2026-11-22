@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../#columns"
 ---
 
 # Columns and blog posts

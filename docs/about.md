@@ -18,11 +18,11 @@ I hold the following affiliations:
 - **IPA**, Researcher
 - **EGAP**, Academic Member and Board Member
 
-I've held visiting positions at the University of Chicago Harris School of Public Policy, the Inter-American Development Bank, and UNU-WIDER. Prior to joining EAFIT, I was a Postdoctoral Scholar at the University of Chicago Harris School of Public Policy and Innovations for Poverty Action.
+I have held visiting positions at the University of Chicago Harris School of Public Policy, the Inter-American Development Bank, and UNU-WIDER. Prior to joining EAFIT, I was a Postdoctoral Scholar at the University of Chicago Harris School of Public Policy and Innovations for Poverty Action.
 
 ## Awards
 
-In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/otros/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center. My acceptance speech, "Reflexiones sobre crimen y violencia," is available as a [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) and on [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
+In 2020, the Juan Luis Londoño committee [awarded me the Juan Luis Londoño Medal](https://fedesarrollo.org.co/especiales/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center. My acceptance speech, "Reflexiones sobre crimen y violencia," is available as a [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) and on [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
 
 In 2024, I received the Medellín Investiga Prize, awarded every year to the best research project on Medellín's most important development challenges.
 
@@ -33,6 +33,12 @@ In 2024, I received the Medellín Investiga Prize, awarded every year to the bes
 - **M.A. in Economics**, Université catholique de Louvain (2012)
 - **M.A. in Business**, Universidad EAFIT (2011)
 - **B.A. in Computer Science**, Universidad EIA (2007)
+
+## For media
+
+Short bio: Santiago Tobón is Professor of Economics at Universidad EAFIT in Medellín, Colombia, and Director of EAFIT's Centro de Valor Público. He studies how organized crime operates and what governments can do about it, using field experiments and original data from Colombian cities. His research appears in the *Review of Economic Studies*, the *American Political Science Review*, and the *Review of Economics and Statistics*. He chairs AL CAPONE, the América Latina Crime and Policy Network.
+
+Photos for publication: [portrait (JPG)](img/santiago-tobon-portrait.jpg) · [on stage at TEDxUniversidad EAFIT, 2026 (JPG)](img/santiago-tobon-tedx.jpg). Media inquiries: [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).
 
 ## Contact
 

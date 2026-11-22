@@ -2,7 +2,7 @@
 <div class="hero-text">
 <h1>Santiago Tobón</h1>
 <p class="lede">I study how organized crime operates, how criminal groups govern communities and extract resources, and what governments can do about it. Most of my fieldwork takes place in Colombian cities, where I run experiments and collect original data.</p>
-<p class="roles">Professor of Economics, Universidad EAFIT · Director, <a href="centro/">Centro de Valor Público</a> · Chair, AL CAPONE</p>
+<p class="roles">Professor of Economics, Universidad EAFIT · Director, <a href="centro/">Centro de Valor Público</a> · Chair, AL&nbsp;CAPONE</p>
 <p class="links"><a href="cv/cv_santiago_tobon.pdf">CV (PDF)</a><a href="https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&amp;hl=en">Google Scholar</a><a href="https://ideas.repec.org/f/pto355.html">IDEAS/RePEc</a><a href="mailto:stobonz@eafit.edu.co">Email</a><a href="https://twitter.com/santiagotobon">X</a></p>
 </div>
 <figure>
@@ -33,7 +33,7 @@
 <div class="body book-row">
 <div class="text">
 <p class="title">COCAÍNA: Anatomía de un mercado prohibido</p>
-<p>How prohibition sets the rules of the cocaine trade, and why each crackdown favors the organizations most capable of violence and corruption. Forthcoming in Spanish. The manuscript is with the publisher.</p>
+<p>How prohibition sets the rules of the cocaine trade, and why each crackdown favors the organizations most capable of violence and corruption. Forthcoming in Spanish from Penguin Random House Grupo Editorial, expected 2027.</p>
 <a class="more" href="book/">About the book →</a>
 </div>
 </div>

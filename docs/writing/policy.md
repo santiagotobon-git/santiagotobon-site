@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../#policy-writing"
 ---
 
 # Policy writing

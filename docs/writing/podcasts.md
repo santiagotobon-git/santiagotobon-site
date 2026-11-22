@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../#podcasts"
 ---
 
 # Podcasts, radio, and video

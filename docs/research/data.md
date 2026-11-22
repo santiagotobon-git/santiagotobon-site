@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../publications/#journal-articles"
 ---
 
 # Data & replication

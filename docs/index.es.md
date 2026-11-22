@@ -2,7 +2,7 @@
 <div class="hero-text">
 <h1>Santiago Tobón</h1>
 <p class="lede">Estudio cómo opera el crimen organizado, cómo los grupos criminales gobiernan comunidades y extraen recursos, y qué pueden hacer los gobiernos al respecto. La mayor parte de mi trabajo de campo se desarrolla en ciudades colombianas, donde hago experimentos y recojo datos originales.</p>
-<p class="roles">Profesor de Economía, Universidad EAFIT · Director, <a href="centro/">Centro de Valor Público</a> · Presidente, AL CAPONE</p>
+<p class="roles">Profesor de Economía, Universidad EAFIT · Director, <a href="centro/">Centro de Valor Público</a> · Presidente, AL&nbsp;CAPONE</p>
 <p class="links"><a href="../cv/cv_santiago_tobon.pdf">CV (PDF)</a><a href="https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&amp;hl=es">Google Scholar</a><a href="https://ideas.repec.org/f/pto355.html">IDEAS/RePEc</a><a href="mailto:stobonz@eafit.edu.co">Correo</a><a href="https://twitter.com/santiagotobon">X</a></p>
 </div>
 <figure>
@@ -33,7 +33,7 @@
 <div class="body book-row">
 <div class="text">
 <p class="title">COCAÍNA: Anatomía de un mercado prohibido</p>
-<p>Cómo la prohibición define las reglas del negocio de la cocaína, y por qué cada ofensiva favorece a las organizaciones más capaces de ejercer violencia y comprar autoridades. El manuscrito está en manos de la editorial.</p>
+<p>Cómo la prohibición define las reglas del negocio de la cocaína, y por qué cada ofensiva favorece a las organizaciones más capaces de ejercer violencia y comprar autoridades. Saldrá con Penguin Random House Grupo Editorial, previsto para 2027.</p>
 <a class="more" href="book/">Sobre el libro →</a>
 </div>
 </div>

@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../publications/#book-chapters"
 ---
 
 # Capítulos de libro

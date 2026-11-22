@@ -77,12 +77,12 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/terrible-trade-off-briefing.pdf">The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It</a>
+<a class="pub-title" href="https://www.socace-research.org.uk/publications/terrible-trade-off-bn4">The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It</a>
 <span class="pub-meta">(con Christopher Blattman y Benjamin Lessing). SOC ACE Briefing Note 4 (2022).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.birmingham.ac.uk/documents/college-social-sciences/government-society/publications/measuring-organised-crime-briefing.pdf">Measuring Organised Crime: Challenges and Solutions for Collecting Data on Armed Illicit Groups</a>
+<a class="pub-title" href="https://www.socace-research.org.uk/publications/measuring-organised-crime-bn3">Measuring Organised Crime: Challenges and Solutions for Collecting Data on Armed Illicit Groups</a>
 <span class="pub-meta">(con Christopher Blattman, Benjamin Lessing y Juan Pablo Mesa-Mejía). SOC ACE Briefing Note 3 (2022).</span>
 </div>
 
@@ -102,9 +102,9 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="http://www.cca.org.mx/forocdmx/pdfs/White%20Paper%20JPAL_Ingles_Final.pdf">What Works to Prevent Violence among Youth? A White Paper on Youth Violence, Crime Prevention and the Mexican Context</a>
+<a class="pub-title" href="https://www.povertyactionlab.org/media/file/what-works-prevent-violence-among-youth-0">What Works to Prevent Violence among Youth? A White Paper on Youth Violence, Crime Prevention and the Mexican Context</a>
 <span class="pub-meta">(con Thomas Abt, Christopher Blattman y Beatriz Magaloni). Informe para USAID (2018).</span>
-<span class="pub-links"><a href="http://www.cca.org.mx/forocdmx/pdfs/White%20Paper%20JPAL_Espanol.pdf">Informe (ES)</a> · <a href="http://www.cca.org.mx/forocdmx/pdfs/Bulletin_English_final.pdf">Nota de política</a></span>
+<span class="pub-links"><a href="https://www.povertyactionlab.org/es/media/file/que-funciona-para-prevenir-y-reducir-la-violencia-juvenil">Informe (ES)</a> · <a href="https://www.povertyactionlab.org/media/file/what-works-prevent-violence-among-youth-bulletin">Nota de política</a></span>
 </div>
 
 <div class="pub-entry">
@@ -115,29 +115,29 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 ## Columnas y entradas de blog {#columns}
 
 - [¿Puede la salud mental prevenir la violencia escolar? Lecciones desde Medellín, Colombia](https://www.iadb.org/es/blog/educacion/puede-la-salud-mental-prevenir-la-violencia-escolar-lecciones-desde-medellin-colombia), Enfoque Educación, Banco Interamericano de Desarrollo (2026)
-- [Daniel Mejía y Santiago Tobón analizan el inmenso desafío que enfrentará De La Espriella en la lucha contra las drogas](https://www.semana.com/nacion/articulo/daniel-mejia-y-santiago-tobon-analizan-el-inmenso-desafio-que-enfrentara-de-la-espriella-en-la-lucha-contra-las-drogas/202613/), Semana (con Daniel Mejía) (2026)
+- [Daniel Mejía y Santiago Tobón analizan el inmenso desafío que enfrentará De La Espriella en la lucha contra las drogas](https://www.semana.com/nacion/articulo/daniel-mejia-y-santiago-tobon-analizan-el-inmenso-desafio-que-enfrentara-de-la-espriella-en-la-lucha-contra-las-drogas/202613/), Semana (2026)
 - [Proteger empleos del pasado es sacrificar los del futuro](https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/proteger-empleos-del-pasado-es-sacrificar-los-del-futuro/), La Silla Vacía (2026)
 - [Con el crimen organizado no hay qué negociar](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/con-el-crimen-organizado-no-hay-que-negociar/), La Silla Vacía (2026)
 - [Prevenir el suicidio comienza con tratar la depresión universitaria](https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/prevenir-el-suicidio-comienza-con-tratar-la-depresion-universitaria/), La Silla Vacía (2026)
 - [Negociar sin reglas fortalece las mafias en Medellín](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/negociar-sin-reglas-fortalece-las-mafias-en-medellin/), La Silla Vacía (2025)
-- [Tres claves para corregir el rumbo que perdió la paz total](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/tres-claves-para-corregir-el-rumbo-que-perdio-la-paz-total/), La Silla Vacía (con Martín Vanegas-Arias) (2025)
-- [El momento de regular el cannabis en Colombia](https://www.lasillavacia.com/red-de-expertos/red-social/el-momento-de-regular-el-cannabis-en-colombia/), La Silla Vacía (con Martín Vanegas-Arias) (2025)
-- [Sin reglas claras, la Paz Total favorece el incumplimiento de los acuerdos](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/sin-reglas-claras-la-paz-total-favorece-el-incumplimiento-de-los-acuerdos/), La Silla Vacía (con Martín Vanegas-Arias) (2025)
+- [Tres claves para corregir el rumbo que perdió la paz total](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/tres-claves-para-corregir-el-rumbo-que-perdio-la-paz-total/), La Silla Vacía (con Martín Vanegas-Arias, 2025)
+- [El momento de regular el cannabis en Colombia](https://www.lasillavacia.com/red-de-expertos/red-social/el-momento-de-regular-el-cannabis-en-colombia/), La Silla Vacía (con Martín Vanegas-Arias, 2025)
+- [Sin reglas claras, la Paz Total favorece el incumplimiento de los acuerdos](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/sin-reglas-claras-la-paz-total-favorece-el-incumplimiento-de-los-acuerdos/), La Silla Vacía (con Martín Vanegas-Arias, 2025)
 - [How conflict and illicit economies undermine fiscal stability in Colombia](https://www.wider.unu.edu/publication/how-conflict-and-illicit-economies-undermine-fiscal-stability-colombia), UNU-WIDER (2024)
-- [Crime schools: How Colombian prisons foster criminal networks](https://voxdev.org/topic/migration-urbanisation/crime-schools-how-colombian-prisons-foster-criminal-networks), VoxDev (con Maria A. Escobar y Martín Vanegas-Arias) (2024)
+- [Crime schools: How Colombian prisons foster criminal networks](https://voxdev.org/topic/migration-urbanisation/crime-schools-how-colombian-prisons-foster-criminal-networks), VoxDev (con Maria A. Escobar y Martín Vanegas-Arias, 2024)
 - [Las extensas consecuencias de la corrupción](https://www.elcolombiano.com/opinion/columnistas/santiago-tobon-las-extensas-consecuencias-de-la-corrupcion-PH24670249), El Colombiano (2024)
 - [Las mentiras de los autócratas](https://www.elcolombiano.com/opinion/columnistas/santiago-tobon-las-mentiras-de-los-autocratas-ND24415594), El Colombiano (2024)
 - [¿Quién protege a los niños en las zonas cocaleras?](https://www.elcolombiano.com/opinion/columnistas/santiago-tobon-quien-protege-a-los-ninos-en-las-zonas-cocaleras-MM24282608), El Colombiano (2024)
 - [Medellín: una ciudad extorsionada](https://www.elcolombiano.com/opinion/columnistas/santiago-tobon-medellin-una-ciudad-extorsionada-MC24154923), El Colombiano (2024)
 - [La 'Paz total' que traería la guerra a Medellín](https://www.elcolombiano.com/opinion/columnistas/santiago-tobon-la-paz-total-que-traeria-la-guerra-a-medellin-EO24086367), El Colombiano (2024)
 - [Un buen diagnóstico para implementar políticas públicas: extorsión en Antioquia](https://www.lasillavacia.com/red-de-expertos/red-social/un-buen-diagnostico-para-implementar-politicas-publicas-extorsion-en-antioquia/), La Silla Vacía (2023)
-- [¿Cuáles son las alternativas a la policía para establecer el orden y reducir el crimen? Una experiencia reciente en Medellín](https://dev.focoeconomico.org/2023/08/15/cuales-son-las-alternativas-a-la-policia-para-establecer-el-orden-y-reducir-el-crimen-una-experiencia-reciente-en-medellin/), Foco Económico (con Christopher Blattman, Gustavo Duncan y Benjamin Lessing) (2023)
+- [¿Cuáles son las alternativas a la policía para establecer el orden y reducir el crimen? Una experiencia reciente en Medellín](https://dev.focoeconomico.org/2023/08/15/cuales-son-las-alternativas-a-la-policia-para-establecer-el-orden-y-reducir-el-crimen-una-experiencia-reciente-en-medellin/), Foco Económico (con Christopher Blattman, Gustavo Duncan y Benjamin Lessing, 2023)
 - [Legalizar la marihuana: 5 razones para madurar como sociedad](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/legalizar-la-marihuana-5-razones-para-madurar-como-sociedad/), La Silla Vacía (2023)
 - [Reshaping Aspirations for Kids in Medellín: Steering Youth Away from Gang Recruitment](https://www.templetonworldcharity.org/blog/interview-santiago-tobon-universidad-eafit), Templeton World Charity Foundation, entrevista (2023)
-- [¿Paz total? Tres retos para la gran apuesta del Gobierno Nacional](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-total-tres-retos-para-la-gran-apuesta-del-gobierno-nacional/), La Silla Vacía (con Martín Vanegas-Arias) (2023)
-- [Plus une prison est vétuste, plus elle développe le capital criminel](https://doi.org/10.3917/poec.050.0054), Pour l'Éco, n.º 50 (con Clément Rouget) (2023)
+- [¿Paz total? Tres retos para la gran apuesta del Gobierno Nacional](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-total-tres-retos-para-la-gran-apuesta-del-gobierno-nacional/), La Silla Vacía (con Martín Vanegas-Arias, 2023)
+- [Plus une prison est vétuste, plus elle développe le capital criminel](https://doi.org/10.3917/poec.050.0054), Pour l'Éco, n.º 50 (con Clément Rouget, 2023)
 - [Investing in prison quality: A cost-effective way to reduce recidivism](https://voxdev.org/topic/public-economics/investing-prison-quality-cost-effective-way-reduce-recidivism), VoxDev (2023)
-- [State-building on the margin: An urban experiment in Medellín](https://voxdev.org/topic/institutions-political-economy/state-building-margin-urban-experiment-medellin), VoxDev (con Christopher Blattman, Gustavo Duncan y Benjamin Lessing) (2022)
+- [State-building on the margin: An urban experiment in Medellín](https://voxdev.org/topic/institutions-political-economy/state-building-margin-urban-experiment-medellin), VoxDev (con Christopher Blattman, Gustavo Duncan y Benjamin Lessing, 2022)
 - [La paz posible con el crimen organizado](https://www.elespectador.com/judicial/analisis-la-paz-posible-con-el-crimen-organizado/), El Espectador (2022)
 - [El terrible dilema para reducir la violencia organizada: El caso de Medellín](https://nadaesgratis.es/admin/el-terrible-dilema-para-reducir-la-violencia-organizada-el-caso-de-medellin), Nada es Gratis (2022)
 - [La especialización y el aprendizaje criminal en las cárceles](https://dev.focoeconomico.org/2022/04/21/la-especializacion-y-el-aprendizaje-criminal-en-las-carceles/), Foco Económico (2022)
@@ -145,15 +145,15 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - [¿Qué debe incluir una reforma a la Policía?](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/que-debe-incluir-una-reforma-a-la-policia/), La Silla Vacía, conversación con María Acosta (2021)
 - [Reflexiones sobre crimen y violencia](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, discurso al recibir la Medalla Juan Luis Londoño 2020 (2021)
 - [Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública (2020)
-- [COVID-19 y crimen: Los grandes retos en la pandemia](https://www.iadb.org/es/blog/seguridad-ciudadana/covid-19-y-crimen-los-grandes-retos-en-la-pandemia), Sin Miedos, Banco Interamericano de Desarrollo (con Nathalie Alvarado, Santiago Pérez-Vincent, Martín Vanegas-Arias y Ervyn Norza) (2020)
+- [COVID-19 y crimen: Los grandes retos en la pandemia](https://www.iadb.org/es/blog/seguridad-ciudadana/covid-19-y-crimen-los-grandes-retos-en-la-pandemia), Sin Miedos, Banco Interamericano de Desarrollo (con Nathalie Alvarado, Santiago Pérez-Vincent, Martín Vanegas-Arias y Ervyn Norza, 2020)
 - [Gobierno criminal: ¿Qué es y cómo enfrentarlo?](https://focoeconomico.org/2020/11/03/gobierno-criminal-que-es-y-como-contrarrestarlo/), Foco Económico (2020)
-- [Colombia necesita más que una reforma policial](https://lasillavacia.com/silla-llena/red-social/colombia-necesita-mas-reforma-policial-77190), La Silla Vacía (con Isabel Gutiérrez) (2020)
-- [El COVID vuelve a abrir el debate sobre el salario mínimo](https://lasillavacia.com/silla-llena/red-social/covid-vuelve-abrir-debate-sobre-salario-minimo-76426), La Silla Vacía (2020)
-- [¿Qué tan altas son las penas que cumplen los violadores de menores en Colombia?](https://www.lasillavacia.com/red-de-expertos/blogeconomia/que-tan-altas-son-las-penas-que-cumplen-los-violadores-de-menores-en-colombia/), La Silla Vacía (con Daniel Mejía) (2019)
+- [Colombia necesita más que una reforma policial](https://web.archive.org/web/20210523175452/https://lasillavacia.com/silla-llena/red-social/colombia-necesita-mas-reforma-policial-77190), La Silla Vacía (con Isabel Gutiérrez, 2020)
+- [El COVID vuelve a abrir el debate sobre el salario mínimo](https://web.archive.org/web/20201130170315/https://lasillavacia.com/silla-llena/red-social/covid-vuelve-abrir-debate-sobre-salario-minimo-76426), La Silla Vacía (2020)
+- [¿Qué tan altas son las penas que cumplen los violadores de menores en Colombia?](https://www.lasillavacia.com/red-de-expertos/blogeconomia/que-tan-altas-son-las-penas-que-cumplen-los-violadores-de-menores-en-colombia/), La Silla Vacía (con Daniel Mejía, 2019)
 - [Presos colombianos: Hacinados y sin salud](https://razonpublica.com/presos-colombianos-hacinados-y-sin-salud/), Razón Pública (2016)
-- [De policía militarizada a policía comunitaria](https://razonpublica.com/de-policia-militarizada-a-policia-comunitaria/), Razón Pública (con Isabel Gutiérrez) (2016)
-- [Cárceles en Colombia: Un sistema que colapsó](https://razonpublica.com/carceles-en-colombia-un-sistema-que-colapso/), Razón Pública (con Isabel Gutiérrez) (2015)
-- [Política de drogas en Colombia: Congestión y corrupción, otras caras del fracaso](https://razonpublica.com/politica-de-drogas-en-colombia-congestion-y-corrupcion-otras-caras-del-fracaso/), Razón Pública (con Isabel Gutiérrez) (2015)
+- [De policía militarizada a policía comunitaria](https://razonpublica.com/de-policia-militarizada-a-policia-comunitaria/), Razón Pública (con Isabel Gutiérrez, 2016)
+- [Cárceles en Colombia: Un sistema que colapsó](https://razonpublica.com/carceles-en-colombia-un-sistema-que-colapso/), Razón Pública (con Isabel Gutiérrez, 2015)
+- [Política de drogas en Colombia: Congestión y corrupción, otras caras del fracaso](https://razonpublica.com/politica-de-drogas-en-colombia-congestion-y-corrupcion-otras-caras-del-fracaso/), Razón Pública (con Isabel Gutiérrez, 2015)
 
 ## Cubrimiento de prensa {#press-coverage}
 

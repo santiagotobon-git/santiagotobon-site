@@ -2,7 +2,7 @@
 
 El Centro de Valor Público de la Universidad EAFIT produce investigación aplicada, diseño de políticas y evaluación de programas para gobiernos, organizaciones internacionales y el sector privado. El Centro opera a través de cinco iniciativas temáticas —seguridad y justicia, gobierno y democracia, desarrollo económico, equidad y desarrollo social, e innovación social— con un equipo de profesores coordinadores, gerentes de proyectos e investigadores.
 
-Para la lista completa de publicaciones, notas de política y perfiles del equipo, visite la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
+Dirijo el Centro desde 2025. Para la lista completa de publicaciones, notas de política y perfiles del equipo, visite la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
 
 Los proyectos a continuación ilustran lo que hace el Centro y cómo trabaja.
 
@@ -10,7 +10,7 @@ Los proyectos a continuación ilustran lo que hace el Centro y cómo trabaja.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/parceros.jpg" alt="Parceros Creadores">
+<img src="../../img/parceros.jpg" alt="Dos jóvenes de Parceros Creadores mirando un celular en un barrio de Medellín">
 </div>
 <div class="project-text" markdown>
 
@@ -32,9 +32,6 @@ El resultado es un programa de gobierno que mejora con cada iteración porque la
 ---
 
 <div class="project-row" markdown>
-<div class="project-img">
-<img src="../img/cuidado.jpg" alt="Sistema del Cuidado">
-</div>
 <div class="project-text" markdown>
 
 ## Sistema del Cuidado de Antioquia
@@ -54,7 +51,7 @@ El diseño apunta a las condiciones institucionales y culturales que sostienen l
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/ocensa.jpg" alt="OCENSA">
+<img src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander" style="object-position: center top">
 </div>
 <div class="project-text" markdown>
 
@@ -77,7 +74,7 @@ El proyecto cambia las condiciones que producen el subdesarrollo territorial en 
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/hogares.jpg" alt="Hogares Saludables">
+<img src="../../img/hogares.jpg" alt="Una cuidadora y tres niños pequeños dibujando con tiza en el piso de su casa">
 </div>
 <div class="project-text" markdown>
 

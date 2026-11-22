@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../#policy-writing"
 ---
 
 # Escritos de política

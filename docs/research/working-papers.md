@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../publications/#working-papers"
 ---
 
 # Working papers

@@ -1,6 +1,5 @@
 ---
-search:
-  exclude: true
+redirect: "../#columns"
 ---
 
 # Columnas y entradas de blog
