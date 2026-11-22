@@ -136,7 +136,7 @@ details.pub-group > summary {
 .home-main { max-width: var(--wide); margin: 0 auto; padding: 16px 32px 0; }
 
 .hero { display: flex; flex-wrap: wrap; gap: 40px 64px; align-items: center; }
-.hero-text { flex: 1 1 420px; min-width: 0; }
+.hero-text { flex: 1 1 360px; min-width: 0; }
 .hero-text h1 {
   margin: 0 0 22px;
   font-family: var(--serif);
@@ -149,7 +149,7 @@ details.pub-group > summary {
 .hero-text .lede { margin: 0 0 18px; font-size: 20px; line-height: 1.6; color: var(--body); }
 .hero-text .roles { margin: 0 0 28px; font-size: 16px; line-height: 1.6; color: var(--muted); }
 .hero-text .links { margin: 0; display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 15px; font-weight: 500; }
-.hero figure { flex: 1 1 480px; min-width: 0; margin: 0; }
+.hero figure { flex: 1 1 380px; min-width: 0; margin: 0; }
 .hero figure img { width: 100%; aspect-ratio: 4 / 3.4; object-fit: cover; object-position: 68% center; display: block; }
 .hero figcaption { margin-top: 8px; font-size: 13px; color: var(--muted); }
 
@@ -171,6 +171,11 @@ details.pub-group > summary {
 .book-row .title { margin: 0 0 6px; font-family: var(--serif); font-size: 21px; font-weight: 600; color: var(--ink); }
 .book-row .text { flex: 1 1 360px; min-width: 0; }
 
+/* Stacked hero (tablets and phones): keep the photo from dominating the first screen */
+@media (max-width: 900px) {
+  .hero figure img { aspect-ratio: 3 / 2; max-height: 60vh; }
+}
+
 @media (max-width: 640px) {
   body { font-size: 16px; }
   .site-header, .page, .home-main, .site-footer { padding-left: 16px; padding-right: 16px; }
@@ -179,4 +184,15 @@ details.pub-group > summary {
   .page h2 { font-size: 24px; }
   .latest, .index { margin-top: 56px; }
   .latest .label, .index-row h2 { flex-basis: 100%; }
+  .site-header nav { gap: 2px 20px; }
+  .site-header nav a, .on-page a, .hero-text .links a { display: inline-block; padding: 9px 0; }
+  .pub-entry .pub-links a { display: inline-block; padding: 6px 0; }
+}
+
+@media print {
+  .skip, .site-header nav, .on-page, .site-footer { display: none; }
+  body { font-size: 11pt; color: #000; }
+  a { color: #000; }
+  .page, .home-main { max-width: none; padding: 0; }
+  details.pub-abstract > p { display: block; }
 }
