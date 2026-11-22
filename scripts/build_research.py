@@ -94,18 +94,34 @@ def meta(it, lang):
     return (co + (". " if body else ".") if co else "") + (body + "." if body else "")
 
 
+EN_WORDS = {"the", "of", "and", "in", "to", "a", "an", "on", "for", "with", "from", "we", "is", "are", "how", "what", "does", "do", "under"}
+ES_WORDS = {"el", "la", "los", "las", "de", "del", "y", "en", "un", "una", "por", "para", "con", "que", "qué", "cómo", "se"}
+
+
+def lang_attr(text, lang):
+    """On Spanish pages, mark English titles and abstracts so screen readers switch pronunciation."""
+    if lang != "es" or not text:
+        return ""
+    words = [w.strip("¿?¡!.,:;()“”\"'").lower() for w in text.split()]
+    en, es = sum(w in EN_WORDS for w in words), sum(w in ES_WORDS for w in words)
+    if en == es == 0:  # short titles such as "Prisons": English unless they carry Spanish characters
+        return "" if any(c in text for c in "áéíóúñ¿¡") else ' lang="en"'
+    return ' lang="en"' if en > es else ""
+
+
 def entry(it, lang):
     t = TEXT[lang]
     title = esc(it["title"])
     url = loc(it.get("url"), lang)
-    head = f'<a class="pub-title" href="{url}">{title}</a>' if url else f'<span class="pub-title">{title}</span>'
+    tl = lang_attr(it["title"], lang)
+    head = f'<a class="pub-title"{tl} href="{url}">{title}</a>' if url else f'<span class="pub-title"{tl}>{title}</span>'
     out = [f'<div class="pub-entry">', f"{head}", f'<span class="pub-meta">{meta(it, lang)}</span>']
     links = [f'<a href="{l["url"]}">{esc(loc(l["label"], lang))}</a>' for l in it.get("links", [])]
     if links:
         out.append('<span class="pub-links">' + " · ".join(links) + "</span>")
     if it.get("abstract"):
         out.append(f'<details class="pub-abstract"><summary>{t["abstract"]}</summary>'
-                   f'<p>{esc(it["abstract"])}</p></details>')
+                   f'<p{lang_attr(it["abstract"], lang)}>{esc(it["abstract"])}</p></details>')
     out.append("</div>")
     return "\n".join(out) + "\n"
 
@@ -136,11 +152,11 @@ MEDIA_TEXT = {
     },
     "es": {
         "title": "Escritos y medios",
-        "intro": ("Notas de política e informes, columnas y entradas de blog, cubrimiento de prensa de mi "
+        "intro": ("Notas de política e informes, columnas y entradas de blog, cobertura de prensa de mi "
                   "investigación, y participaciones en podcasts, radio y video. Los artículos y documentos "
                   "de trabajo están en [Investigación](../research/publications.md)."),
         "sections": [("policy-writing", "Escritos de política e informes"), ("columns", "Columnas y entradas de blog"),
-                     ("press-coverage", "Cubrimiento de prensa"), ("podcasts", "Podcasts"),
+                     ("press-coverage", "Cobertura de prensa"), ("podcasts", "Podcasts"),
                      ("radio-tv-interviews", "Radio, televisión y entrevistas"), ("video", "Video")],
     },
 }

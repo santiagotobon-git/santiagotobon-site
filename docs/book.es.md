@@ -40,12 +40,12 @@ Varios de mis artículos, documentos de trabajo y notas de política abordan tem
 
 ### El mercado de la cocaína
 
-- Organized Crime and Violence, *Annual Review of Economics*, próximamente
+- Organized Crime and Violence, *Annual Review of Economics* 19, en prensa
 - [Organised Crime and Development](https://voxdev.org/voxdevlit/organised-crime), *VoxDevLit* 17(1) (2025)
 - The Prohibition Trap: Rents, Violence, and Welfare in the Global Cocaine Chain, documento de trabajo
 - [The Producer's Cut: Sizing Colombia's Cocaine Economy](https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi), nota de política de Valor Público (2026)
 - How Illegal Income Improves Schooling: Cocaine Production and Education in Colombia, documento de trabajo
-- [Concealed Costs: Illicit Economies and the Erosion of the Local Tax Base in Colombia](https://doi.org/10.35188/UNU-WIDER/2024/525-7), en *Wartime Taxation*, Oxford University Press, próximamente
+- [Concealed Costs: Illicit Economies and the Erosion of the Local Tax Base in Colombia](https://doi.org/10.35188/UNU-WIDER/2024/525-7), en *Wartime Taxation*, Oxford University Press, en prensa
 - [The Role of Land Property Rights in the War on Illicit Crops: Evidence from Colombia](https://www.sciencedirect.com/science/article/pii/S0305750X17303455), *World Development* (2018)
 - [El gasto fiscal de la guerra contra los portadores de drogas ilícitas: una aproximación para Colombia](https://revistas.udea.edu.co/index.php/lecturasdeeconomia/article/view/339173), *Lecturas de Economía* (2019)
 - [El ciclo criminal del microtráfico y consumo de drogas: contexto nacional y consecuencias en entornos locales](https://www.dropbox.com/s/lohh3ip86k5z8sd/guti%C3%A9rrez%2C%20tobon%20-%202017%20-%20el%20ciclo%20criminal%20del%20microtr%C3%A1fico%20y%20consumo%20de%20drogas%20contexto%20nacional%20y%20consecuencias%20en%20entornos%20locales.pdf?dl=0), capítulo de libro, Editorial EAFIT (2017)
@@ -63,4 +63,4 @@ Varios de mis artículos, documentos de trabajo y notas de política abordan tem
 
 ## Contacto
 
-Si es editor, periodista o investigador interesado en este proyecto, escriba a [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).
+Para consultas de prensa, investigación, derechos o traducción, escriba a [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).

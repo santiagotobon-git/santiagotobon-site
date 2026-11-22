@@ -2,13 +2,13 @@
 
 # Escritos y medios
 
-Notas de política e informes, columnas y entradas de blog, cubrimiento de prensa de mi investigación, y participaciones en podcasts, radio y video. Los artículos y documentos de trabajo están en [Investigación](../research/publications.md).
+Notas de política e informes, columnas y entradas de blog, cobertura de prensa de mi investigación, y participaciones en podcasts, radio y video. Los artículos y documentos de trabajo están en [Investigación](../research/publications.md).
 
 ## Escritos de política e informes {#policy-writing}
 
 <div class="pub-entry">
-<a class="pub-title" href="https://peaceinourcities.org/wp-content/uploads/2026/10/ES-v9-PiOC-Compendium.pdf">Organized Crime as Urban Governance: How Criminal Groups Rule Cities and What Local Governments Can Do</a>
-<span class="pub-meta">Capítulo 2 en Urban Violence Prevention Amid Global Uncertainty, editado por Flávia Carbonari, Rachel Locke y Jai-Ayla Sutherland, Peace in Our Cities (compendio completo en español) (2026).</span>
+<a class="pub-title" lang="en" href="https://peaceinourcities.org/wp-content/uploads/2026/10/ES-v9-PiOC-Compendium.pdf">Organized Crime as Urban Governance: How Criminal Groups Rule Cities and What Local Governments Can Do</a>
+<span class="pub-meta">Capítulo 2 en Urban Violence Prevention Amid Global Uncertainty, editado por Flávia Carbonari, Rachel Locke y Jai-Ayla Sutherland, Peace in Our Cities; el enlace lleva al compendio completo en español (2026).</span>
 </div>
 
 <div class="pub-entry">
@@ -17,17 +17,17 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://universidadeafit.widen.net/s/jphs9kcnfz/mas-alla-de-la-mina-el-tamano-de-la-economia-del-oro-en-colombia">Beyond the Mine: Sizing Colombia's Illegal Gold Economy</a>
+<a class="pub-title" lang="en" href="https://universidadeafit.widen.net/s/jphs9kcnfz/mas-alla-de-la-mina-el-tamano-de-la-economia-del-oro-en-colombia">Beyond the Mine: Sizing Colombia's Illegal Gold Economy</a>
 <span class="pub-meta">Valor Público, Universidad EAFIT, Nota de política 10 (2026).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi">The Producer's Cut: Sizing Colombia's Cocaine Economy</a>
+<a class="pub-title" lang="en" href="https://universidadeafit.widen.net/view/pdf/tfmblmanlz/La-participacin-del-productor-el-tamao-de-la-economa-de-la-cocana-en-Colombia.pdf?t.download=true&u=amlqi">The Producer's Cut: Sizing Colombia's Cocaine Economy</a>
 <span class="pub-meta">(con Daniel Mejía). Valor Público, Universidad EAFIT, Nota de política 9 (2026).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.organizedagainstcrime.org/_files/ugd/e04819_7655bb8912c249b0a342d8f298b350af.pdf">Education and Youth Pathways Under Organized Crime</a>
+<a class="pub-title" lang="en" href="https://www.organizedagainstcrime.org/_files/ugd/e04819_7655bb8912c249b0a342d8f298b350af.pdf">Education and Youth Pathways Under Organized Crime</a>
 <span class="pub-meta">(con Martín Vanegas-Arias). Organized Against Crime, Documento de política 9 (2026).</span>
 </div>
 
@@ -37,12 +37,12 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.organizedagainstcrime.org/_files/ugd/e04819_4c673eee27d9455b9be08fc5e6834e21.pdf">From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean</a>
+<a class="pub-title" lang="en" href="https://www.organizedagainstcrime.org/_files/ugd/e04819_4c673eee27d9455b9be08fc5e6834e21.pdf">From Schools of Crime to Criminal Hubs? Prisons and Organized Crime in Latin America and the Caribbean</a>
 <span class="pub-meta">(con Ernesto Schargrodsky). Organized Against Crime, Documento de política 3 (2026).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://publications.iadb.org/en/improving-officials-use-evidence-design-and-implementation-public-policy">Improving Officials' Use of Evidence in the Design and Implementation of Public Policy</a>
+<a class="pub-title" lang="en" href="https://publications.iadb.org/en/improving-officials-use-evidence-design-and-implementation-public-policy">Improving Officials' Use of Evidence in the Design and Implementation of Public Policy</a>
 <span class="pub-meta">(con Manuela Hoyos, Santiago Pérez-Vincent, Pedro C. L. Souza y Martín Vanegas-Arias). Documento de trabajo del BID (2026).</span>
 </div>
 
@@ -52,12 +52,12 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.socace-research.org.uk/publications/socace-bn34-political-will-to-measure-organised-crime">The Political Will to Measure Organised Crime: Why We Need It and How to Build It</a>
+<a class="pub-title" lang="en" href="https://www.socace-research.org.uk/publications/socace-bn34-political-will-to-measure-organised-crime">The Political Will to Measure Organised Crime: Why We Need It and How to Build It</a>
 <span class="pub-meta">(con Christopher Blattman y Benjamin Lessing). SOC ACE Briefing Note 34 (2025).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime">How to Map and Combat Urban Organised Crime: Lessons from the Medellín Impact Lab</a>
+<a class="pub-title" lang="en" href="https://www.socace-research.org.uk/publications/socace-bn33-how-to-map-and-combat-urban-organised-crime">How to Map and Combat Urban Organised Crime: Lessons from the Medellín Impact Lab</a>
 <span class="pub-meta">(con Christopher Blattman y Benjamin Lessing). SOC ACE Briefing Note 33 (2025).</span>
 </div>
 
@@ -67,32 +67,32 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://publications.iadb.org/en/building-trust-state-actors-multi-site-experiment-colombian-national-police">Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police</a>
+<a class="pub-title" lang="en" href="https://publications.iadb.org/en/building-trust-state-actors-multi-site-experiment-colombian-national-police">Building Trust in State Actors: A Multi-Site Experiment with the Colombian National Police</a>
 <span class="pub-meta">(con Verónica Abril, Ervyn Norza, Santiago Pérez-Vincent y Michael Weintraub). Nota técnica del BID IDB-TN-2790 (2023).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://mwi.westpoint.edu/the-terrible-trade-off-why-governments-must-choose-between-more-violence-or-stronger-gangs/">The Terrible Trade-Off: Why Governments Must Choose between More Violence or Stronger Gangs</a>
+<a class="pub-title" lang="en" href="https://mwi.westpoint.edu/the-terrible-trade-off-why-governments-must-choose-between-more-violence-or-stronger-gangs/">The Terrible Trade-Off: Why Governments Must Choose between More Violence or Stronger Gangs</a>
 <span class="pub-meta">(con Christopher Blattman y Benjamin Lessing). Modern War Institute at West Point (2022).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.socace-research.org.uk/publications/terrible-trade-off-bn4">The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It</a>
+<a class="pub-title" lang="en" href="https://www.socace-research.org.uk/publications/terrible-trade-off-bn4">The Terrible Trade-Off: How the Hidden Cost of Organised Crime Harms Cities, and What Can Be Done about It</a>
 <span class="pub-meta">(con Christopher Blattman y Benjamin Lessing). SOC ACE Briefing Note 4 (2022).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.socace-research.org.uk/publications/measuring-organised-crime-bn3">Measuring Organised Crime: Challenges and Solutions for Collecting Data on Armed Illicit Groups</a>
+<a class="pub-title" lang="en" href="https://www.socace-research.org.uk/publications/measuring-organised-crime-bn3">Measuring Organised Crime: Challenges and Solutions for Collecting Data on Armed Illicit Groups</a>
 <span class="pub-meta">(con Christopher Blattman, Benjamin Lessing y Juan Pablo Mesa-Mejía). SOC ACE Briefing Note 3 (2022).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://publications.iadb.org/publications/spanish/document/Evolucion-de-la-seguridad-ciudadana-en-Colombia-en-tiempos-del-COVID-19.pdf">The Evolution of Citizen Security in Colombia in Times of COVID-19</a>
+<a class="pub-title" lang="en" href="https://publications.iadb.org/publications/spanish/document/Evolucion-de-la-seguridad-ciudadana-en-Colombia-en-tiempos-del-COVID-19.pdf">The Evolution of Citizen Security in Colombia in Times of COVID-19</a>
 <span class="pub-meta">(con Nathalie Alvarado, Ervyn Norza, Santiago Pérez-Vincent y Martín Vanegas-Arias). Nota técnica del BID IDB-TN-2034 (2020).</span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.poverty-action.org/sites/default/files/2020-09-29-COVID-19-Survey-report.pdf">Crime in the Time of COVID-19</a>
+<a class="pub-title" lang="en" href="https://www.poverty-action.org/sites/default/files/2020-09-29-COVID-19-Survey-report.pdf">Crime in the Time of COVID-19</a>
 <span class="pub-meta">(con Christopher Blattman, David Cerero, Gustavo Duncan et al.). EDI Report, COVID-19 Essay Series (2020).</span>
 </div>
 
@@ -102,13 +102,13 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://www.povertyactionlab.org/media/file/what-works-prevent-violence-among-youth-0">What Works to Prevent Violence among Youth? A White Paper on Youth Violence, Crime Prevention and the Mexican Context</a>
+<a class="pub-title" lang="en" href="https://www.povertyactionlab.org/media/file/what-works-prevent-violence-among-youth-0">What Works to Prevent Violence among Youth? A White Paper on Youth Violence, Crime Prevention and the Mexican Context</a>
 <span class="pub-meta">(con Thomas Abt, Christopher Blattman y Beatriz Magaloni). Informe para USAID (2018).</span>
 <span class="pub-links"><a href="https://www.povertyactionlab.org/es/media/file/que-funciona-para-prevenir-y-reducir-la-violencia-juvenil">Informe (ES)</a> · <a href="https://www.povertyactionlab.org/media/file/what-works-prevent-violence-among-youth-bulletin">Nota de política</a></span>
 </div>
 
 <div class="pub-entry">
-<a class="pub-title" href="https://f5355d0a-667b-4461-bfa1-e12600732440.filesusr.com/ugd/134a42_83da89e1333449edb674aff3ee51a054.pdf">Sector Wide Impact Assessment on Human Rights: Mining Unseen</a>
+<a class="pub-title" lang="en" href="https://f5355d0a-667b-4461-bfa1-e12600732440.filesusr.com/ugd/134a42_83da89e1333449edb674aff3ee51a054.pdf">Sector Wide Impact Assessment on Human Rights: Mining Unseen</a>
 <span class="pub-meta">(con Luis Fernando De Angulo, Camila Miranda et al.). Informe del Institute for Human Rights and Business (2016).</span>
 </div>
 
@@ -143,7 +143,6 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - [La especialización y el aprendizaje criminal en las cárceles](https://dev.focoeconomico.org/2022/04/21/la-especializacion-y-el-aprendizaje-criminal-en-las-carceles/), Foco Económico (2022)
 - [¿Cómo tener una mejor policía?](https://dev.focoeconomico.org/2021/06/16/como-tener-una-mejor-policia/), Foco Económico (2021)
 - [¿Qué debe incluir una reforma a la Policía?](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/que-debe-incluir-una-reforma-a-la-policia/), La Silla Vacía, conversación con María Acosta (2021)
-- [Reflexiones sobre crimen y violencia](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, discurso al recibir la Medalla Juan Luis Londoño 2020 (2021)
 - [Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública (2020)
 - [COVID-19 y crimen: Los grandes retos en la pandemia](https://www.iadb.org/es/blog/seguridad-ciudadana/covid-19-y-crimen-los-grandes-retos-en-la-pandemia), Sin Miedos, Banco Interamericano de Desarrollo (con Nathalie Alvarado, Santiago Pérez-Vincent, Martín Vanegas-Arias y Ervyn Norza, 2020)
 - [Gobierno criminal: ¿Qué es y cómo enfrentarlo?](https://focoeconomico.org/2020/11/03/gobierno-criminal-que-es-y-como-contrarrestarlo/), Foco Económico (2020)
@@ -155,7 +154,7 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - [Cárceles en Colombia: Un sistema que colapsó](https://razonpublica.com/carceles-en-colombia-un-sistema-que-colapso/), Razón Pública (con Isabel Gutiérrez, 2015)
 - [Política de drogas en Colombia: Congestión y corrupción, otras caras del fracaso](https://razonpublica.com/politica-de-drogas-en-colombia-congestion-y-corrupcion-otras-caras-del-fracaso/), Razón Pública (con Isabel Gutiérrez, 2015)
 
-## Cubrimiento de prensa {#press-coverage}
+## Cobertura de prensa {#press-coverage}
 
 - [Cocaine surpasses oil as Colombia's top export sector: Study](https://www.aa.com.tr/en/americas/cocaine-surpasses-oil-as-colombia-s-top-export-sector-study/4043190), Anadolu Agency, cita La participación del productor (2026)
 - [Así se mueve el lavado de activos durante el boom de la cocaína colombiana: finca raíz, tierras y contrabando son claves](https://www.valoraanalitik.com/asi-se-mueve-el-lavado-de-activos-durante-el-boom-de-la-cocaina-colombiana-finca-raiz-tierras-y-contrabando-son-claves/), Valora Analitik, me cita (2026)
@@ -168,7 +167,7 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - [Del petróleo a la coca](https://www.eluniversal.com.co/opinion/editorial/2026/06/29/del-petroleo-a-la-coca/), El Universal, editorial, cita La participación del productor (2026)
 - [Colombia's Cocaine Trade Now Outearns Its Oil Exports](https://oilprice.com/Energy/Crude-Oil/Colombias-Cocaine-Trade-Now-Outearns-Its-Oil-Exports.html), OilPrice.com, me cita (2026)
 - [La cocaína ya supera al petróleo como primer producto de exportación en Colombia](https://www.eltiempo.com/economia/sectores/la-cocaina-ya-supera-al-petroleo-como-primer-producto-de-exportacion-en-colombia-3566136), El Tiempo, cita La participación del productor (2026)
-- [Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la "Paz Total"](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, me cita (2026)
+- [Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la “Paz Total”](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, me cita (2026)
 - [Cocaine revenue surpasses oil exports in Colombia, report says](https://www.upi.com/Top_News/World-News/2026/06/23/latam-colombia-cocaine-revenue-exceeds-oil/4731782237108/), UPI, me cita (2026)
 - [El negocio de la cocaína superó al petróleo en Colombia, según estudio de la Universidad Eafit](https://www.infobae.com/colombia/2026/06/23/el-negocio-de-la-cocaina-supero-al-petroleo-en-colombia-segun-estudio-de-la-universidad-eafit/), Infobae, cita La participación del productor (2026)
 - [Alarmante: cocaína ya supera al petróleo y equivale al 4,4% del PIB colombiano](https://www.noticiasrcn.com/economia/cocaina-aporta-mas-al-pib-que-el-petroleo-en-colombia-1033540), Noticias RCN, cita La participación del productor (2026)
@@ -178,21 +177,21 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - [Economía de la cocaína superó al petróleo como fuente de ingresos en Colombia](https://www.portafolio.co/economia/crecimiento/economia-de-la-cocaina-supero-al-petroleo-como-fuente-de-ingresos-en-colombia-496576), Portafolio, cita La participación del productor (2026)
 - [Mesa de Paz o proselitismo: el dilema de la supuesta influencia de los cabecillas en las elecciones](https://www.elcolombiano.com/medellin/cabecillas-bandas-medellin-mesa-de-paz-influencia-votaciones-2026-NA35424678), El Colombiano, me cita (2026)
 - [Combos de Medellín apuestan por una mesa de paz que aguante hasta el 26](https://www.lasillavacia.com/silla-nacional/combos-de-medellin-apuestan-por-una-mesa-de-paz-que-aguante-hasta-el-26/), La Silla Vacía, me cita (2025)
-- ["Fico" busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, sobre el programa de reclutamiento juvenil (2024)
-- [Uno de cada tres negocios en Medellín pagan "vacuna"; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, sobre nuestro estudio de extorsión (2024)
+- [“Fico” busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, sobre el programa de reclutamiento juvenil (2024)
+- [Uno de cada tres negocios en Medellín pagan “vacuna”; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, sobre nuestro estudio de extorsión (2024)
 - [Más de 150.000 casas y negocios pagan vacuna en Medellín](https://www.elcolombiano.com/medellin/extorsion-en-medellin-a-casas-y-negocios-EE24131764), El Colombiano, sobre nuestro estudio de extorsión (2024)
 - [Venta de drogas y extorsión, las rentas principales del crimen organizado en Medellín](https://www.larepublica.co/economia/venta-de-drogas-y-extorsion-las-rentas-del-crimen-organizado-en-medellin-3767627), La República, me cita (2023)
-- ["¿A cuento de qué se van a someter?": Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, entrevista (2023)
+- [“¿A cuento de qué se van a someter?”: Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, entrevista (2023)
 - [Las caras de los combos que quieren entrar a la Paz Total](https://www.lasillavacia.com/silla-nacional/las-caras-de-los-combos-que-quieren-entrar-a-la-paz-total/), La Silla Vacía, se basa en Gang Rule (2023)
 - [Medellín is an example of what Colombia could be](https://www.economist.com/the-americas/2022/05/19/medellin-is-an-example-of-what-colombia-could-be), The Economist, cita Gang Rule (2022)
 - [Santiago Tobón ganó el premio Juan Luis Londoño de la Cuesta 2020](https://www.elespectador.com/economia/santiago-tobon-gano-el-premio-juan-luis-londono-de-la-cuesta-2020-article/), El Espectador, sobre la Medalla Londoño (2021)
 - [Estos son los galardonados con el Premio Juan Luis Londoño de la Cuesta 2020](https://www.portafolio.co/tendencias/estos-son-los-galardonados-con-el-premio-juan-luis-londono-de-la-cuesta-2020-550640), Portafolio, sobre la Medalla Londoño (2021)
 - [Santiago Tobón, ganador del premio Juan Luis Londoño de la Cuesta 2020](https://www.semana.com/economia/capsulas/articulo/santiago-tobon-ganador-del-premio-juan-luis-londono-de-la-cuesta-2020/202118/), Semana, sobre la Medalla Londoño (2021)
 - [Santiago Tobón ganó el Premio Juan Luis Londoño por investigaciones sobre el crimen](https://www.larepublica.co/economia/santiago-tobon-gano-el-premio-juan-luis-londono-por-investigaciones-sobre-el-crimen-3145839), La República, sobre la Medalla Londoño (2021)
-- [Así está el mapa que refleja el "control" de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, sobre el estudio de Gang Rule (2021)
-- [Así gobiernan los "combos" en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, me cita (2020)
+- [Así está el mapa que refleja el “control” de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, sobre el estudio de Gang Rule (2021)
+- [Así gobiernan los “combos” en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, me cita (2020)
 - [Estudio revela cómo reclusos colombianos son menos propensos a reincidir si en la cárcel tienen buenas condiciones](https://www.infobae.com/america/colombia/2020/11/28/estudio-revela-como-reclusos-colombianos-son-menos-propensos-a-reincidir-si-en-la-carcel-tienen-buenas-condiciones/), Infobae, sobre el artículo de cárceles (2020)
-- ["Entre peor sea la cárcel, hay más chance de reincidir en el crimen": profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, sobre el artículo de cárceles (2020)
+- [“Entre peor sea la cárcel, hay más chance de reincidir en el crimen”: profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, sobre el artículo de cárceles (2020)
 - [Why Colombia's militarised police need reform](https://www.economist.com/the-americas/2020/09/19/why-colombias-militarised-police-need-reform), The Economist, me cita (2020)
 
 ## Podcasts {#podcasts}
@@ -203,7 +202,7 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 - **NCN Podcast (Nos Cogió La Noche, Medellín), Ep. 159**, [“La cruda realidad del crimen en Colombia y cómo transformarla”](https://www.youtube.com/watch?v=O8tRpFeCOA4) (2025)
 - **La Tertulia política con Felipe Vélez**, [“'Ser bandido hoy es un gran negocio': Santiago Tobón y el caos de la seguridad”](https://www.youtube.com/watch?v=lykCuKvQ0qc) (2025)
 - **Economía para la pipol (conducido por Valerie Cifuentes y María Camila González), Ep. 15**, [“Marihuana: ¿podemos aprovecharla en la economía?”](https://podcasters.spotify.com/pod/show/economa-para-la-pipol/episodes/EP--15---Marihuana-podemos-aprovecharla-en-la-economa-e36m1pr) (2025)
-- **El Podcast con Luis Carlos Vélez, #140**, [episodio](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)
+- **El Podcast con Luis Carlos Vélez, #140**, [“Estas son empresas criminales que no tienen ideología”](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)
 - **Hablemos de Raíz con Lucas Gómez, Ep. 106**, [“¿Qué cambió en Medellín? Estructuras criminales y nuevos acuerdos”](https://www.youtube.com/watch?v=YrayTj93Lw8) (2025)
 - **Atemporal con Andrés Acevedo, #177**, [“Es el momento de mayor poder de los combos”](https://www.youtube.com/watch?v=YhBlPtfGPj4) (2025)
 - **Más niños, un podcast de Fuly (conducido por Daniel Gómez), #53**, [“La ciencia, la fe, el amor y la terquedad salvaron a Jerónimo”](https://open.spotify.com/episode/40RDx2tFsGp6XKkjvXaxnW) (2025)
@@ -223,24 +222,24 @@ Notas de política e informes, columnas y entradas de blog, cubrimiento de prens
 
 - **Hora 20 (Caracol Radio; conducido por Diana Calderón)**, [“Cúpula militar y propuestas de seguridad para el nuevo gobierno: Proyecto Colombia en Hora 20”](https://caracol.com.co/2026/08/21/cupula-militar-y-propuestas-de-seguridad-para-el-nuevo-gobierno-proyecto-colombia-en-hora-20/) (2026)
 - **La Diaria (Uruguay), entrevista**, [“Al no atacar sus incentivos económicos, Uruguay combate el narcotráfico con una 'visión equivocada'”](https://ladiaria.com.uy/economia/articulo/2026/9/al-no-atacar-sus-incentivos-economicos-uruguay-combate-el-narcotrafico-con-una-vision-equivocada/) (2026)
-- **Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)
+- **Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)
 - **Hora 20 (Caracol Radio; conducido por Diana Calderón)**, [“Combos en tarima y Asamblea Constituyente, ¿más que provocaciones del Presidente?”](https://caracol.com.co/2025/06/26/combos-en-tarima-y-asamblea-constituyente-mas-que-provocaciones-del-presidente/) (2025)
-- **Mañanas BLU (BLU Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)
-- **Mañanas BLU (BLU Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)
-- **Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)
+- **Mañanas BLU (Blu Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)
+- **Mañanas BLU (Blu Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)
+- **Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)
 - **Hora 20 (Caracol Radio; conducido por Diana Calderón)**, [“¿Qué debe pasar en la negociación con el Estado Mayor Central?”](https://www.spreaker.com/episode/que-debe-pasar-en-la-negociacion-con-el-estado-mayor-central--59142583) (2024)
-- **Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)
-- **W Radio**, [episodio](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)
+- **Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)
+- **W Radio**, [“Este no es un camino que pueda traer beneficios”](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)
 
 ## Video {#video}
 
 - **Templeton World Charity Foundation**, [“Reshaping Aspirations for Kids in Medellín: Steering Youth Away from Gang Recruitment”](https://www.youtube.com/watch?v=hqAZ_NFefeU), documental corto sobre el proyecto de reclutamiento juvenil en Medellín (2024)
-- **EAFIT+, Breves conversaciones**, [episodio](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)
+- **EAFIT+, Breves conversaciones**, [“Estructuras criminales y reclutamiento”](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)
 - **Seminario FGV y Universidad de Chicago sobre gobernanza criminal**, [“30 años de gobernanza criminal en Medellín”](https://www.youtube.com/watch?v=DeudqIaOzss) (2022)
 - **Políticas Públicas**, [“Retos del crimen organizado en contextos urbanos: caso Medellín”](https://www.youtube.com/watch?v=xxRjkHCnRI0) (2022)
 - **UNU-WIDER Development Conference**, [“Gangs and organised crime”](https://www.youtube.com/watch?v=IbW2wY0BS_s) (2022)
 - **Conferencia ProBogotá**, [panel](https://www.youtube.com/watch?v=o25ys5GKONY) (2021)
-- **Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), ceremonia de entrega y discurso · [Discurso (PDF)](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)
+- **Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), ceremonia de entrega y discurso · [texto del discurso](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)
 - **ProCentrismo Colombia**, [“Encuentro ProCentrista”](https://www.youtube.com/watch?v=zouBk3jZNbA) (2021)
 - **Medellín Investiga**, [presentación sobre patrullaje en puntos críticos](https://www.youtube.com/watch?v=2_x8dy-Wmls) (2020)
 - **Universidad EAFIT**, [antesala de los encuentros RIDGE–LACEA con Juan F. Vargas](https://www.youtube.com/watch?v=_IqNKEEX1DA) (2019)

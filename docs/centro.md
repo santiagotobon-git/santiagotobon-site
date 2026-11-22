@@ -10,7 +10,7 @@ The projects below illustrate what the Centro does and how it works.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/parceros.jpg" alt="Two young participants of Parceros Creadores looking at a phone in a Medellín neighborhood">
+<img loading="lazy" decoding="async" width="626" height="623" src="../img/parceros.jpg" style="object-position: center 20%" alt="Two young participants of Parceros Creadores looking at a phone in a Medellín neighborhood">
 </div>
 <div class="project-text" markdown>
 
@@ -51,7 +51,7 @@ The design targets the institutional and cultural conditions that sustain gender
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander" style="object-position: center top">
+<img loading="lazy" decoding="async" width="852" height="852" src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander" style="object-position: center top">
 </div>
 <div class="project-text" markdown>
 
@@ -74,7 +74,7 @@ The project changes the conditions that produce territorial underdevelopment rat
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../img/hogares.jpg" alt="A caregiver and three young children drawing with chalk on the floor of their home">
+<img loading="lazy" decoding="async" width="900" height="900" src="../img/hogares.jpg" alt="A caregiver and three young children drawing with chalk on the floor of their home">
 </div>
 <div class="project-text" markdown>
 

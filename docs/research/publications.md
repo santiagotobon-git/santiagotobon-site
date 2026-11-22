@@ -144,6 +144,13 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 <span class="pub-meta">(with Patricia Justino, Martín Vanegas-Arias and Juan F. Vargas).</span>
 </div>
 
+## Edited volume {#edited-volumes}
+
+<div class="pub-entry">
+<span class="pub-title">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
+<span class="pub-meta">Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press. In production.</span>
+</div>
+
 ## Book chapters {#book-chapters}
 
 <div class="pub-entry">

@@ -6,7 +6,7 @@
 <p class="links"><a href="../cv/cv_santiago_tobon.pdf">CV (PDF)</a><a href="https://scholar.google.com.co/citations?user=lLZedAMAAAAJ&amp;hl=es">Google Scholar</a><a href="https://ideas.repec.org/f/pto355.html">IDEAS/RePEc</a><a href="mailto:stobonz@eafit.edu.co">Correo</a><a href="https://twitter.com/santiagotobon">X</a></p>
 </div>
 <figure>
-<img src="../img/tedx-stage.jpg" alt="Santiago Tobón en el escenario de TEDxUniversidad EAFIT">
+<img src="../img/tedx-stage.jpg" srcset="../img/tedx-stage-800.jpg 800w, ../img/tedx-stage.jpg 1800w" sizes="(max-width: 900px) 100vw, 560px" width="1800" height="1200" alt="Santiago Tobón en el escenario de TEDxUniversidad EAFIT">
 <figcaption>TEDxUniversidad EAFIT, octubre de 2026</figcaption>
 </figure>
 </section>
@@ -48,7 +48,7 @@
 <div class="index-row">
 <h2>Escritos</h2>
 <div class="body">
-<p>Notas de política e informes, columnas en El Colombiano y La Silla Vacía, textos en VoxDev y Nada es Gratis, y cubrimiento de prensa de mi investigación, incluido <em>The Economist</em>.</p>
+<p>Notas de política e informes, columnas en El Colombiano y La Silla Vacía, textos en VoxDev y Nada es Gratis, y cobertura de prensa de mi investigación, incluido <em>The Economist</em>.</p>
 <a class="more" href="writing/">Escritos y medios →</a>
 </div>
 </div>

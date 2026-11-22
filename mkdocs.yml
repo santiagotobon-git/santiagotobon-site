@@ -39,7 +39,7 @@ plugins:
             - Libro: book.md
             - Escritos: writing/index.md
             - Valor Público: centro.md
-            - Acerca de: about.md
+            - Sobre mí: about.md
 
 nav:
   - Home: index.md

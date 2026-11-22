@@ -18,7 +18,7 @@
      "year": "2027",
      "status": {
       "en": "Forthcoming",
-      "es": "Próximamente"
+      "es": "En prensa"
      },
      "abstract": "Organized crime violence, produced by gangs, mafias, and drug traffickers that fight one another for profit rather than to capture the state, shapes economic activity and welfare, most acutely in the Americas. This article reviews its causes, costs, and remedies. Two claims organize it. First, the industrial organization of criminal markets—the number of armed actors, their integration, their relationship with the state, and the contestability of territory—is a central determinant of violence that standard crime models omit, even holding the rents at stake fixed. Second, enforcement acts in general equilibrium, so crackdowns can fragment markets and raise violence, and falling homicide can mask rising extortion or displacement. Illegal drug markets are the principal source of these rents, so supply-side enforcement reorganizes the trade while cutting demand shrinks the prize. These harms reach firms, workers, educational outcomes, and institutions. The main obstacle is measuring how criminal groups govern."
     },
@@ -444,6 +444,26 @@
    ]
   },
   {
+   "id": "edited-volumes",
+   "title": {
+    "en": "Edited volume",
+    "es": "Libro editado"
+   },
+   "items": [
+    {
+     "title": "Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes",
+     "details": {
+      "en": "Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press",
+      "es": "Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press"
+     },
+     "status": {
+      "en": "In production",
+      "es": "En producción"
+     }
+    }
+   ]
+  },
+  {
    "id": "book-chapters",
    "title": {
     "en": "Book chapters",
@@ -464,7 +484,7 @@
      },
      "status": {
       "en": "Forthcoming",
-      "es": "Próximamente"
+      "es": "En prensa"
      },
      "links": [
       {
@@ -735,7 +755,7 @@
    },
    "details": {
     "en": "Chapter 2 in Urban Violence Prevention Amid Global Uncertainty, edited by Flávia Carbonari, Rachel Locke, and Jai-Ayla Sutherland, Peace in Our Cities, pp. 35–51",
-    "es": "Capítulo 2 en Urban Violence Prevention Amid Global Uncertainty, editado por Flávia Carbonari, Rachel Locke y Jai-Ayla Sutherland, Peace in Our Cities (compendio completo en español)"
+    "es": "Capítulo 2 en Urban Violence Prevention Amid Global Uncertainty, editado por Flávia Carbonari, Rachel Locke y Jai-Ayla Sutherland, Peace in Our Cities; el enlace lleva al compendio completo en español"
    },
    "year": "2026"
   },
@@ -1211,11 +1231,6 @@
     "es": "[¿Qué debe incluir una reforma a la Policía?](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/que-debe-incluir-una-reforma-a-la-policia/), La Silla Vacía, conversación con María Acosta"
    },
    {
-    "year": "2021",
-    "en": "[Reflexiones sobre crimen y violencia](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, speech on receiving the 2020 Juan Luis Londoño Medal",
-    "es": "[Reflexiones sobre crimen y violencia](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf), Fedesarrollo, discurso al recibir la Medalla Juan Luis Londoño 2020"
-   },
-   {
     "year": "2020",
     "en": "[Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública",
     "es": "[Mejorar la calidad de vida de los presos: una inversión rentable](https://razonpublica.com/mejorar-la-calidad-vida-los-presos-una-inversion-rentable/), Razón Pública"
@@ -1292,8 +1307,8 @@
     "es": "**Economía para la pipol (conducido por Valerie Cifuentes y María Camila González), Ep. 15**, [“Marihuana: ¿podemos aprovecharla en la economía?”](https://podcasters.spotify.com/pod/show/economa-para-la-pipol/episodes/EP--15---Marihuana-podemos-aprovecharla-en-la-economa-e36m1pr) (2025)"
    },
    {
-    "en": "**El Podcast con Luis Carlos Vélez, #140**, [episode](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)",
-    "es": "**El Podcast con Luis Carlos Vélez, #140**, [episodio](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)"
+    "en": "**El Podcast con Luis Carlos Vélez, #140**, [“Estas son empresas criminales que no tienen ideología”](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)",
+    "es": "**El Podcast con Luis Carlos Vélez, #140**, [“Estas son empresas criminales que no tienen ideología”](https://www.youtube.com/watch?v=hXaqFq8T7Uc) (2025)"
    },
    {
     "en": "**Hablemos de Raíz con Lucas Gómez, Ep. 106**, [“¿Qué cambió en Medellín? Estructuras criminales y nuevos acuerdos”](https://www.youtube.com/watch?v=YrayTj93Lw8) (2025)",
@@ -1362,36 +1377,36 @@
     "es": "**La Diaria (Uruguay), entrevista**, [“Al no atacar sus incentivos económicos, Uruguay combate el narcotráfico con una 'visión equivocada'”](https://ladiaria.com.uy/economia/articulo/2026/9/al-no-atacar-sus-incentivos-economicos-uruguay-combate-el-narcotrafico-con-una-vision-equivocada/) (2026)"
    },
    {
-    "en": "**Consejo de Redacción (Teleantioquia)**, [episode](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)",
-    "es": "**Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)"
+    "en": "**Consejo de Redacción (Teleantioquia)**, [interview](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)",
+    "es": "**Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=i3ByFFTIjt4) (2026)"
    },
    {
     "en": "**Hora 20 (Caracol Radio; hosted by Diana Calderón)**, [“Combos en tarima y Asamblea Constituyente, ¿más que provocaciones del Presidente?”](https://caracol.com.co/2025/06/26/combos-en-tarima-y-asamblea-constituyente-mas-que-provocaciones-del-presidente/) (2025)",
     "es": "**Hora 20 (Caracol Radio; conducido por Diana Calderón)**, [“Combos en tarima y Asamblea Constituyente, ¿más que provocaciones del Presidente?”](https://caracol.com.co/2025/06/26/combos-en-tarima-y-asamblea-constituyente-mas-que-provocaciones-del-presidente/) (2025)"
    },
    {
-    "en": "**Mañanas BLU (BLU Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)",
-    "es": "**Mañanas BLU (BLU Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)"
+    "en": "**Mañanas BLU (Blu Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)",
+    "es": "**Mañanas BLU (Blu Radio)**, [“Polémica por la presencia de cabecillas de estructuras criminales en un evento del Gobierno en Medellín”](https://omny.fm/shows/ma-anas-blu-10-30/pol-mica-por-la-presencia-de-cabecillas-de-estructuras-criminales-en-un-evento-del-gobierno-en-medell-n) (2025)"
    },
    {
-    "en": "**Mañanas BLU (BLU Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)",
-    "es": "**Mañanas BLU (BLU Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)"
+    "en": "**Mañanas BLU (Blu Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)",
+    "es": "**Mañanas BLU (Blu Radio)**, [“Ocurre a pesar del Gobierno Nacional y no gracias”](https://omny.fm/shows/ma-anas-blu-10-30/ocurre-a-pesar-del-gobierno-nacional-y-no-gracias) (2025)"
    },
    {
-    "en": "**Consejo de Redacción (Teleantioquia)**, [episode](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)",
-    "es": "**Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)"
+    "en": "**Consejo de Redacción (Teleantioquia)**, [interview](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)",
+    "es": "**Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=9oOnfhaqwDM) (2024)"
    },
    {
     "en": "**Hora 20 (Caracol Radio; hosted by Diana Calderón)**, [“¿Qué debe pasar en la negociación con el Estado Mayor Central?”](https://www.spreaker.com/episode/que-debe-pasar-en-la-negociacion-con-el-estado-mayor-central--59142583) (2024)",
     "es": "**Hora 20 (Caracol Radio; conducido por Diana Calderón)**, [“¿Qué debe pasar en la negociación con el Estado Mayor Central?”](https://www.spreaker.com/episode/que-debe-pasar-en-la-negociacion-con-el-estado-mayor-central--59142583) (2024)"
    },
    {
-    "en": "**Consejo de Redacción (Teleantioquia)**, [episode](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)",
-    "es": "**Consejo de Redacción (Teleantioquia)**, [episodio](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)"
+    "en": "**Consejo de Redacción (Teleantioquia)**, [interview](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)",
+    "es": "**Consejo de Redacción (Teleantioquia)**, [entrevista](https://www.youtube.com/watch?v=ASqDJfaVvoc) (2023)"
    },
    {
-    "en": "**W Radio**, [episode](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)",
-    "es": "**W Radio**, [episodio](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)"
+    "en": "**W Radio**, [“Este no es un camino que pueda traer beneficios”](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)",
+    "es": "**W Radio**, [“Este no es un camino que pueda traer beneficios”](https://www.youtube.com/watch?v=n0eTDmibbSc) (2022)"
    }
   ],
   "video": [
@@ -1400,8 +1415,8 @@
     "es": "**Templeton World Charity Foundation**, [“Reshaping Aspirations for Kids in Medellín: Steering Youth Away from Gang Recruitment”](https://www.youtube.com/watch?v=hqAZ_NFefeU), documental corto sobre el proyecto de reclutamiento juvenil en Medellín (2024)"
    },
    {
-    "en": "**EAFIT+, Breves conversaciones**, [episode](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)",
-    "es": "**EAFIT+, Breves conversaciones**, [episodio](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)"
+    "en": "**EAFIT+, Breves conversaciones**, [“Estructuras criminales y reclutamiento”](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)",
+    "es": "**EAFIT+, Breves conversaciones**, [“Estructuras criminales y reclutamiento”](https://www.youtube.com/watch?v=O4YwLkmchGo) (2024)"
    },
    {
     "en": "**FGV and University of Chicago seminar on criminal governance**, [“30 años de gobernanza criminal en Medellín”](https://www.youtube.com/watch?v=DeudqIaOzss) (2022)",
@@ -1420,8 +1435,8 @@
     "es": "**Conferencia ProBogotá**, [panel](https://www.youtube.com/watch?v=o25ys5GKONY) (2021)"
    },
    {
-    "en": "**Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), award ceremony and acceptance speech · [Speech (PDF)](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)",
-    "es": "**Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), ceremonia de entrega y discurso · [Discurso (PDF)](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)"
+    "en": "**Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), award ceremony and acceptance speech · [speech text](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)",
+    "es": "**Fedesarrollo**, [“Premio Juan Luis Londoño 2020”](https://www.youtube.com/watch?v=Y6y2BcYO5Jo), ceremonia de entrega y discurso · [texto del discurso](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) (2021)"
    },
    {
     "en": "**ProCentrismo Colombia**, [“Encuentro ProCentrista”](https://www.youtube.com/watch?v=zouBk3jZNbA) (2021)",
@@ -1494,8 +1509,8 @@
    },
    {
     "year": "2026",
-    "en": "[Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la \"Paz Total\"](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, quotes me",
-    "es": "[Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la \"Paz Total\"](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, me cita"
+    "en": "[Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la “Paz Total”](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, quotes me",
+    "es": "[Cocaína supera al petróleo en exportación: EAFIT enciende alarma tras polémica de la “Paz Total”](https://www.bluradio.com/nacion/cocaina-supera-al-petroleo-en-exportacion-eafit-enciende-alarma-tras-polemica-de-la-paz-total-so35), Blu Radio, me cita"
    },
    {
     "year": "2026",
@@ -1544,13 +1559,13 @@
    },
    {
     "year": "2024",
-    "en": "[\"Fico\" busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, on the youth-recruitment program",
-    "es": "[\"Fico\" busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, sobre el programa de reclutamiento juvenil"
+    "en": "[“Fico” busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, on the youth-recruitment program",
+    "es": "[“Fico” busca quitarle mano de obra al crimen con coaching y sin subsidios](https://www.lasillavacia.com/silla-nacional/fico-busca-quitarle-mano-de-obra-al-crimen-con-coaching-y-sin-subsidios/), La Silla Vacía, sobre el programa de reclutamiento juvenil"
    },
    {
     "year": "2024",
-    "en": "[Uno de cada tres negocios en Medellín pagan \"vacuna\"; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, on our extortion study",
-    "es": "[Uno de cada tres negocios en Medellín pagan \"vacuna\"; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, sobre nuestro estudio de extorsión"
+    "en": "[Uno de cada tres negocios en Medellín pagan “vacuna”; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, on our extortion study",
+    "es": "[Uno de cada tres negocios en Medellín pagan “vacuna”; extorsiones superan $100.000 millones al año](https://www.bluradio.com/regiones/antioquia/uno-de-cada-tres-negocios-en-medellin-pagan-vacuna-extorsiones-superan-100-000-millones-al-ano-rg10), Blu Radio, sobre nuestro estudio de extorsión"
    },
    {
     "year": "2024",
@@ -1564,8 +1579,8 @@
    },
    {
     "year": "2023",
-    "en": "[\"¿A cuento de qué se van a someter?\": Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, interview",
-    "es": "[\"¿A cuento de qué se van a someter?\": Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, entrevista"
+    "en": "[“¿A cuento de qué se van a someter?”: Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, interview",
+    "es": "[“¿A cuento de qué se van a someter?”: Tobón sobre combos en Medellín](https://www.lasillavacia.com/silla-nacional/a-cuento-de-que-se-van-a-someter-tobon-sobre-combos-en-medellin/), La Silla Vacía, entrevista"
    },
    {
     "year": "2023",
@@ -1599,13 +1614,13 @@
    },
    {
     "year": "2021",
-    "en": "[Así está el mapa que refleja el \"control\" de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, on the Gang Rule study",
-    "es": "[Así está el mapa que refleja el \"control\" de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, sobre el estudio de Gang Rule"
+    "en": "[Así está el mapa que refleja el “control” de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, on the Gang Rule study",
+    "es": "[Así está el mapa que refleja el “control” de las bandas](https://www.elcolombiano.com/antioquia/seguridad/el-mapa-que-refleja-el-control-de-las-bandas-NL14681194), El Colombiano, sobre el estudio de Gang Rule"
    },
    {
     "year": "2020",
-    "en": "[Así gobiernan los \"combos\" en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, quotes me",
-    "es": "[Así gobiernan los \"combos\" en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, me cita"
+    "en": "[Así gobiernan los “combos” en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, quotes me",
+    "es": "[Así gobiernan los “combos” en algunas zonas de Medellín](https://www.eltiempo.com/colombia/medellin/asi-gobiernan-los-combos-en-algunas-zonas-de-medellin-555820), El Tiempo, me cita"
    },
    {
     "year": "2020",
@@ -1614,8 +1629,8 @@
    },
    {
     "year": "2020",
-    "en": "[\"Entre peor sea la cárcel, hay más chance de reincidir en el crimen\": profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, on the prisons paper",
-    "es": "[\"Entre peor sea la cárcel, hay más chance de reincidir en el crimen\": profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, sobre el artículo de cárceles"
+    "en": "[“Entre peor sea la cárcel, hay más chance de reincidir en el crimen”: profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, on the prisons paper",
+    "es": "[“Entre peor sea la cárcel, hay más chance de reincidir en el crimen”: profesor de la Eafit](https://www.elespectador.com/judicial/entre-peor-sea-la-carcel-hay-mas-chance-de-reincidir-en-el-crimen-profesor-de-la-eafit-article/), El Espectador, sobre el artículo de cárceles"
    },
    {
     "year": "2020",

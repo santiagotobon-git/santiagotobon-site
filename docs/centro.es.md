@@ -10,7 +10,7 @@ Los proyectos a continuación ilustran lo que hace el Centro y cómo trabaja.
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../../img/parceros.jpg" alt="Dos jóvenes de Parceros Creadores mirando un celular en un barrio de Medellín">
+<img loading="lazy" decoding="async" width="626" height="623" src="../../img/parceros.jpg" style="object-position: center 20%" alt="Dos jóvenes de Parceros Creadores mirando un celular en un barrio de Medellín">
 </div>
 <div class="project-text" markdown>
 
@@ -51,7 +51,7 @@ El diseño apunta a las condiciones institucionales y culturales que sostienen l
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander" style="object-position: center top">
+<img loading="lazy" decoding="async" width="852" height="852" src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander" style="object-position: center top">
 </div>
 <div class="project-text" markdown>
 
@@ -74,7 +74,7 @@ El proyecto cambia las condiciones que producen el subdesarrollo territorial en 
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img src="../../img/hogares.jpg" alt="Una cuidadora y tres niños pequeños dibujando con tiza en el piso de su casa">
+<img loading="lazy" decoding="async" width="900" height="900" src="../../img/hogares.jpg" alt="Una cuidadora y tres niños pequeños dibujando con tiza en el piso de su casa">
 </div>
 <div class="project-text" markdown>
 

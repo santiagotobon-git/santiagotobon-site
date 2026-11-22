@@ -11,17 +11,30 @@
   {%- set en_path = '' -%}
 {%- endif -%}
 {%- if is_home -%}
-  {%- set full_title = config.site_name -%}
+  {%- set full_title = config.site_name ~ (' · Economista, Universidad EAFIT' if is_es else ' · Economist, Universidad EAFIT') -%}
 {%- elif page and page.title -%}
   {%- set full_title = (page.title|striptags) ~ ' · ' ~ config.site_name -%}
 {%- else -%}
   {%- set full_title = 'Page not found · ' ~ config.site_name -%}
 {%- endif -%}
-{%- if is_es -%}
-  {%- set description = 'Economista de la Universidad EAFIT. Investigación sobre crimen organizado, policía, cárceles y mercados ilícitos.' -%}
-{%- else -%}
-  {%- set description = config.site_description -%}
-{%- endif -%}
+{#- One description per section, in each language (search results and link previews). -#}
+{%- set descriptions = {
+  'en': {
+    '': config.site_description,
+    'research/publications/': 'Journal articles, working papers, book chapters, and commentaries by Santiago Tobón on criminal governance, policing, prisons, and illicit markets.',
+    'book/': 'COCAÍNA: Anatomía de un mercado prohibido, a book by Santiago Tobón on how prohibition shapes the cocaine trade. Penguin Random House Grupo Editorial, expected 2027.',
+    'writing/': 'Policy notes and reports, columns, press coverage, podcasts, radio, and video by Santiago Tobón.',
+    'centro/': 'Centro de Valor Público at Universidad EAFIT: applied research, program evaluation, and policy design for governments.',
+    'about/': 'Biography, positions, awards, education, media resources, and contact for Santiago Tobón.'},
+  'es': {
+    '': 'Economista de la Universidad EAFIT. Investigación sobre crimen organizado, policía, cárceles y mercados ilícitos.',
+    'research/publications/': 'Artículos, documentos de trabajo, capítulos de libro y comentarios de Santiago Tobón sobre gobernanza criminal, policía, cárceles y mercados ilícitos.',
+    'book/': 'COCAÍNA: Anatomía de un mercado prohibido, libro de Santiago Tobón sobre cómo la prohibición moldea el negocio de la cocaína. Penguin Random House Grupo Editorial, previsto para 2027.',
+    'writing/': 'Notas de política e informes, columnas, cobertura de prensa, podcasts, radio y video de Santiago Tobón.',
+    'centro/': 'Centro de Valor Público de la Universidad EAFIT: investigación aplicada, evaluación de programas y diseño de políticas para gobiernos.',
+    'about/': 'Biografía, cargos, premios, formación, recursos para medios y contacto de Santiago Tobón.'}
+} -%}
+{%- set description = descriptions['es' if is_es else 'en'].get(en_path, descriptions['es' if is_es else 'en']['']) -%}
 <!doctype html>
 <html lang="{{ 'es' if is_es else 'en' }}">
 <head>
@@ -46,7 +59,10 @@
   <meta property="og:title" content="{{ full_title }}">
   <meta property="og:description" content="{{ description }}">
   <meta property="og:locale" content="{{ 'es_CO' if is_es else 'en_US' }}">
-  <meta property="og:image" content="{{ site }}img/tedx-stage.jpg">
+  <meta property="og:locale:alternate" content="{{ 'en_US' if is_es else 'es_CO' }}">
+  <meta property="og:image" content="{{ site }}img/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="{{ 'Santiago Tobón en el escenario de TEDxUniversidad EAFIT' if is_es else 'Santiago Tobón on stage at TEDxUniversidad EAFIT' }}">
   <meta name="twitter:card" content="summary_large_image">
   {%- endif %}
@@ -55,7 +71,7 @@
   <link rel="apple-touch-icon" href="{{ root }}/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
   <link rel="stylesheet" href="{{ root }}/css/site.css">
 </head>
 <body{% if is_home %} class="home"{% endif %}>
@@ -106,5 +122,6 @@
     <span>Universidad EAFIT · Medellín, Colombia</span>
     <a href="mailto:stobonz@eafit.edu.co">stobonz@eafit.edu.co</a>
   </footer>
+  <script>addEventListener('beforeprint', function () { document.querySelectorAll('details').forEach(function (d) { d.open = true; }); });</script>
 </body>
 </html>
