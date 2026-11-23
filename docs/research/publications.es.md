@@ -4,6 +4,18 @@
 
 Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing).
 
+## Libros {#books}
+
+<div class="pub-entry">
+<a class="pub-title" href="../../book/">COCAÍNA: Anatomía de un mercado prohibido</a>
+<span class="pub-meta">Penguin Random House Grupo Editorial (2027). En prensa.</span>
+</div>
+
+<div class="pub-entry">
+<span class="pub-title" lang="en">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
+<span class="pub-meta">Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press. En prensa.</span>
+</div>
+
 ## Artículos en revistas {#journal-articles}
 
 <div class="pub-entry">
@@ -131,13 +143,6 @@ Las notas de política e informes están en [Escritos y medios](../writing/index
 <span class="pub-meta">(con Patricia Justino, Martín Vanegas-Arias y Juan F. Vargas).</span>
 </div>
 
-## Libro editado {#edited-volumes}
-
-<div class="pub-entry">
-<span class="pub-title" lang="en">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
-<span class="pub-meta">Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press. En prensa.</span>
-</div>
-
 ## Capítulos de libro {#book-chapters}
 
 <div class="pub-entry">
@@ -184,7 +189,7 @@ Las notas de política e informes están en [Escritos y medios](../writing/index
 <span class="pub-links"><a href="https://twitter.com/SantiagoTobon/status/1464216326847750146">Hilo en Twitter (ES)</a></span>
 </div>
 
-## Publicaciones en español, tempranas y de otros campos {#spanish-and-early-work}
+## Publicaciones en español, trabajos tempranos y otras publicaciones {#spanish-and-early-work}
 
 <div class="pub-entry">
 <a class="pub-title" href="https://repositorio.banrep.gov.co/items/1f3850ed-7112-41e9-b30d-aa01251489d4">Crimen y Covid-19. Cómo los combos de Medellín respondieron a la pandemia</a>

@@ -1,6 +1,39 @@
 {
  "research": [
   {
+   "id": "books",
+   "title": {
+    "en": "Books",
+    "es": "Libros"
+   },
+   "items": [
+    {
+     "title": "COCAÍNA: Anatomía de un mercado prohibido",
+     "url": "../../book/",
+     "details": {
+      "en": "Penguin Random House Grupo Editorial",
+      "es": "Penguin Random House Grupo Editorial"
+     },
+     "year": "2027",
+     "status": {
+      "en": "Forthcoming",
+      "es": "En prensa"
+     }
+    },
+    {
+     "title": "Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes",
+     "details": {
+      "en": "Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press",
+      "es": "Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press"
+     },
+     "status": {
+      "en": "Forthcoming",
+      "es": "En prensa"
+     }
+    }
+   ]
+  },
+  {
    "id": "journal-articles",
    "title": {
     "en": "Journal articles",
@@ -403,26 +436,6 @@
    ]
   },
   {
-   "id": "edited-volumes",
-   "title": {
-    "en": "Edited volume",
-    "es": "Libro editado"
-   },
-   "items": [
-    {
-     "title": "Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes",
-     "details": {
-      "en": "Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press",
-      "es": "Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press"
-     },
-     "status": {
-      "en": "Forthcoming",
-      "es": "En prensa"
-     }
-    }
-   ]
-  },
-  {
    "id": "book-chapters",
    "title": {
     "en": "Book chapters",
@@ -578,8 +591,8 @@
   {
    "id": "spanish-and-early-work",
    "title": {
-    "en": "Spanish-language, early, and other publications",
-    "es": "Publicaciones en español, tempranas y de otros campos"
+    "en": "Spanish-language, early work, and other publications",
+    "es": "Publicaciones en español, trabajos tempranos y otras publicaciones"
    },
    "items": [
     {

@@ -4,6 +4,18 @@
 
 Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing).
 
+## Books {#books}
+
+<div class="pub-entry">
+<a class="pub-title" href="../../book/">COCAÍNA: Anatomía de un mercado prohibido</a>
+<span class="pub-meta">Penguin Random House Grupo Editorial (2027). Forthcoming.</span>
+</div>
+
+<div class="pub-entry">
+<span class="pub-title">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
+<span class="pub-meta">Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press. Forthcoming.</span>
+</div>
+
 ## Journal articles {#journal-articles}
 
 <div class="pub-entry">
@@ -131,13 +143,6 @@ Policy notes and reports are listed under [Writing and media](../writing/index.m
 <span class="pub-meta">(with Patricia Justino, Martín Vanegas-Arias and Juan F. Vargas).</span>
 </div>
 
-## Edited volume {#edited-volumes}
-
-<div class="pub-entry">
-<span class="pub-title">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
-<span class="pub-meta">Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press. Forthcoming.</span>
-</div>
-
 ## Book chapters {#book-chapters}
 
 <div class="pub-entry">
@@ -184,7 +189,7 @@ Policy notes and reports are listed under [Writing and media](../writing/index.m
 <span class="pub-links"><a href="https://twitter.com/SantiagoTobon/status/1464216326847750146">Twitter thread (ES)</a></span>
 </div>
 
-## Spanish-language, early, and other publications {#spanish-and-early-work}
+## Spanish-language, early work, and other publications {#spanish-and-early-work}
 
 <div class="pub-entry">
 <a class="pub-title" href="https://repositorio.banrep.gov.co/items/1f3850ed-7112-41e9-b30d-aa01251489d4">Crimen y Covid-19. Cómo los combos de Medellín respondieron a la pandemia</a>
