@@ -46,7 +46,7 @@
   </header>
 
   <main id="content" class="home-main">
-    <section class="hero">
+    <section class="wrap hero">
 <div class="hero-text">
 <h1>Santiago Tobón</h1>
 <p class="lede">Estudio cómo opera el crimen organizado, cómo los grupos criminales gobiernan comunidades y extraen recursos, y qué pueden hacer los gobiernos al respecto. La mayor parte de mi trabajo de campo se desarrolla en ciudades colombianas, donde hago experimentos y recojo datos originales.</p>
@@ -59,16 +59,23 @@
 </figure>
 </section>
 
-<section class="latest" aria-label="Reciente">
-<p class="label">Reciente</p>
+<section class="band band-tint" aria-labelledby="latest-h">
+<div class="wrap latest">
+<h2 class="eyebrow" id="latest-h">Reciente</h2>
 <ul>
 <li><span class="when">nov. 2026</span><span class="what"><a href="research/publications/#journal-articles">Organized Crime and Violence</a>, aceptado en el <em>Annual Review of Economics</em></span></li>
 <li><span class="when">nov. 2026</span><span class="what"><a href="https://doi.org/10.1017/S0003055426101555">State-Building in the City</a>, publicado en el <em>American Political Science Review</em> 120(4)</span></li>
 <li><span class="when">oct. 2026</span><span class="what"><a href="https://peaceinourcities.org/resources/compendium-urban-violence-prevention/">Organized Crime as Urban Governance</a>, capítulo en un compendio de Peace in Our Cities</span></li>
 </ul>
+</div>
 </section>
 
-<section class="index">
+<figure class="photo-band">
+<img src="../img/tedx-room.jpg" srcset="../img/tedx-room-1200.jpg 1200w, ../img/tedx-room.jpg 2400w" sizes="100vw" width="2400" height="1600" loading="lazy" decoding="async" alt="Santiago Tobón ante un auditorio lleno en TEDxUniversidad EAFIT">
+<figcaption>En TEDxUniversidad EAFIT, octubre de 2026</figcaption>
+</figure>
+
+<section class="wrap index">
 <div class="index-row">
 <h2>Investigación</h2>
 <div class="body">
@@ -76,20 +83,24 @@
 <a class="more" href="research/publications/">Publicaciones y documentos de trabajo →</a>
 </div>
 </div>
-<div class="index-row">
-<h2>Libro</h2>
-<div class="body book-row">
-<div class="text">
-<p class="title">COCAÍNA: Anatomía de un mercado prohibido</p>
-<p>Cómo la prohibición define las reglas del negocio de la cocaína, y por qué cada ofensiva favorece a las organizaciones más capaces de ejercer violencia y comprar autoridades. Saldrá con Penguin Random House Grupo Editorial, previsto para 2027.</p>
-<a class="more" href="book/">Sobre el libro →</a>
+</section>
+
+<section class="band band-dark" aria-labelledby="book-h">
+<div class="wrap">
+<div class="book-feature">
+<p class="eyebrow">Próximo libro · Penguin Random House, 2027</p>
+<h2 id="book-h">COCAÍNA: <em>Anatomía de un mercado prohibido</em></h2>
+<p>El libro sigue un gramo de cocaína desde la hoja en una ladera andina hasta la línea de polvo en un bar europeo. Muestra cómo la prohibición define las reglas del negocio y por qué cada ofensiva favorece a las organizaciones más capaces de ejercer violencia y comprar autoridades.</p>
+<a href="book/">Sobre el libro →</a>
 </div>
 </div>
-</div>
+</section>
+
+<section class="wrap index">
 <div class="index-row">
 <h2>Valor Público</h2>
 <div class="body">
-<p>El centro de investigación aplicada en política pública de EAFIT. Evaluación de programas y diseño de políticas para gobiernos, desde evaluaciones experimentales de intervenciones juveniles hasta fortalecimiento institucional en 49 municipios.</p>
+<p>El centro de investigación aplicada en política pública de EAFIT, que dirijo. Diseñamos y evaluamos programas públicos con gobiernos, entre ellos una secuencia anual de experimentos de salud mental juvenil con la Secretaría de Juventud de Medellín.</p>
 <a class="more" href="centro/">Proyectos →</a>
 </div>
 </div>
@@ -104,8 +115,10 @@
   </main>
 
   <footer class="site-footer">
-    <span>Universidad EAFIT · Medellín, Colombia</span>
-    <a href="mailto:stobonz@eafit.edu.co">stobonz@eafit.edu.co</a>
+    <div class="wrap">
+      <span><span class="name">Santiago Tobón</span> · Universidad EAFIT · Medellín, Colombia</span>
+      <a href="mailto:stobonz@eafit.edu.co">stobonz@eafit.edu.co</a>
+    </div>
   </footer>
   <script>addEventListener('beforeprint', function () { document.querySelectorAll('details').forEach(function (d) { d.open = true; }); });</script>
 </body>
