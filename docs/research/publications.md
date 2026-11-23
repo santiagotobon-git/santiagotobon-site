@@ -184,9 +184,7 @@ Policy notes and reports are listed under [Writing and media](../writing/index.m
 <span class="pub-links"><a href="https://twitter.com/SantiagoTobon/status/1464216326847750146">Twitter thread (ES)</a></span>
 </div>
 
-## Other publications {#spanish-and-early-work}
-
-<details class="pub-group"><summary>Show all 11</summary>
+## Spanish-language, early, and other publications {#spanish-and-early-work}
 
 <div class="pub-entry">
 <a class="pub-title" href="https://repositorio.banrep.gov.co/items/1f3850ed-7112-41e9-b30d-aa01251489d4">Crimen y Covid-19. Cómo los combos de Medellín respondieron a la pandemia</a>
@@ -245,6 +243,4 @@ Policy notes and reports are listed under [Writing and media](../writing/index.m
 <a class="pub-title" href="http://www.eafit.edu.co/centros/analisis-politico/publicaciones/proyectos-investigacion/Documents/Econom%C3%ADa%20criminal%20y%20poder%20pol%C3%ADtico.pdf">Instituciones y cultivos ilícitos</a>
 <span class="pub-meta">In <em>Economía criminal y poder político</em>, J. Giraldo, ed., Editorial EAFIT (2013).</span>
 </div>
-
-</details>
 

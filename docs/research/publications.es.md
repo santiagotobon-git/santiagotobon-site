@@ -184,9 +184,7 @@ Las notas de política e informes están en [Escritos y medios](../writing/index
 <span class="pub-links"><a href="https://twitter.com/SantiagoTobon/status/1464216326847750146">Hilo en Twitter (ES)</a></span>
 </div>
 
-## Otras publicaciones {#spanish-and-early-work}
-
-<details class="pub-group"><summary>Ver los 11</summary>
+## Publicaciones en español, tempranas y de otros campos {#spanish-and-early-work}
 
 <div class="pub-entry">
 <a class="pub-title" href="https://repositorio.banrep.gov.co/items/1f3850ed-7112-41e9-b30d-aa01251489d4">Crimen y Covid-19. Cómo los combos de Medellín respondieron a la pandemia</a>
@@ -245,6 +243,4 @@ Las notas de política e informes están en [Escritos y medios](../writing/index
 <a class="pub-title" href="http://www.eafit.edu.co/centros/analisis-politico/publicaciones/proyectos-investigacion/Documents/Econom%C3%ADa%20criminal%20y%20poder%20pol%C3%ADtico.pdf">Instituciones y cultivos ilícitos</a>
 <span class="pub-meta">En <em>Economía criminal y poder político</em>, J. Giraldo, ed., Editorial EAFIT (2013).</span>
 </div>
-
-</details>
 
