@@ -32,7 +32,7 @@ In 2024, I received the Medellín Investiga Prize, awarded every year to the bes
 - **M.A. in Economics**, Universidad de los Andes (2017)
 - **M.A. in Economics**, Université catholique de Louvain (2012)
 - **M.A. in Business**, Universidad EAFIT (2011)
-- **B.A. in Computer Science**, Universidad EIA (2007)
+- **Engineering degree in Computer Science** (Ingeniería Informática), Universidad EIA (2007)
 
 ## For media
 

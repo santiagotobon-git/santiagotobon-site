@@ -1,10 +1,6 @@
 # Centro de Valor Público
 
-El Centro de Valor Público de la Universidad EAFIT produce investigación aplicada, diseño de políticas y evaluación de programas para gobiernos, organizaciones internacionales y el sector privado. El Centro opera a través de cinco iniciativas temáticas —seguridad y justicia, gobierno y democracia, desarrollo económico, equidad y desarrollo social, e innovación social— con un equipo de profesores coordinadores, gerentes de proyectos e investigadores.
-
-Dirijo el Centro desde 2025. Para la lista completa de publicaciones, notas de política y perfiles del equipo, visite la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
-
-Los proyectos a continuación ilustran lo que hace el Centro y cómo trabaja.
+El Centro de Valor Público es el centro de investigación aplicada en política pública de la Universidad EAFIT. Diseña y evalúa programas públicos con gobiernos, organismos internacionales y empresas. Su trabajo se organiza en cinco iniciativas: seguridad y justicia, gobierno y democracia, desarrollo económico, equidad y desarrollo social, e innovación social. Dirijo el Centro desde 2025. Sus publicaciones, notas de política y equipo están en la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
 
 ---
 
@@ -18,13 +14,9 @@ Los proyectos a continuación ilustran lo que hace el Centro y cómo trabaja.
 
 **Aliado:** Secretaría de Juventud de Medellín
 
-Cada año en Medellín, miles de jóvenes abandonan el colegio y no logran encontrar trabajo estable. Un subconjunto de ellos —identificable mediante encuestas de tamizaje— enfrenta un riesgo elevado de reclutamiento por organizaciones criminales. Parceros Creadores filtra jóvenes en situación de vulnerabilidad en toda la ciudad, identifica a quienes no estudian, no trabajan y están en riesgo, y les ofrece intervenciones psicológicas y vocacionales estructuradas.
+Cada año, miles de jóvenes en Medellín dejan el colegio sin conseguir trabajo estable. Algunos de ellos corren un riesgo alto de reclutamiento por grupos criminales. Parceros Creadores usa una encuesta de tamizaje para encontrar a los jóvenes que no estudian, no trabajan y están en riesgo. Quienes cumplen esos criterios reciben acompañamiento psicológico y vocacional.
 
-Lo que distingue este proyecto es el proceso de producción detrás de la política. El programa no entrega una intervención fija esperando resultados. Trata cada año como un experimento diseñado para responder una pregunta específica, y el gobierno ajusta el programa con base en lo que muestra la evidencia.
-
-En 2024, el Centro realizó una evaluación aleatorizada con aproximadamente 1.500 jóvenes, comparando terapia cognitivo-conductual (sesiones grupales e individuales) contra una intervención de coaching experiencial. La TCC produjo las mayores reducciones en depresión y ansiedad, y los mayores aumentos en interés por trabajar y estudiar. En 2025, un segundo experimento con 4.000 jóvenes (la mitad tratados) comparó sesiones grupales vs. individuales de TCC y varió el número de sesiones para identificar la dosis óptima. Trece sesiones individuales generaron el mayor impacto y la mejor relación costo-beneficio. En 2026, el programa atenderá a 1.600 jóvenes con 13 sesiones individuales e incorporará un componente de reducción de daños para abordar el consumo de drogas.
-
-El resultado es un programa de gobierno que mejora con cada iteración porque la evaluación está integrada en el diseño —no se añade después.
+La Secretaría opera el programa como una secuencia de experimentos. Cada cohorte responde una pregunta de diseño, cuya respuesta orienta el programa del año siguiente. En 2024 asignamos al azar a cerca de 1.500 jóvenes a terapia cognitivo-conductual (TCC), en sesiones grupales o individuales, o a un programa de coaching experiencial, una comparación en la que la TCC produjo las mayores reducciones en depresión y ansiedad y los mayores aumentos en el interés por trabajar y estudiar. El experimento de 2025, con 4.000 jóvenes (la mitad tratados), comparó la TCC grupal con la individual y varió el número de sesiones para encontrar la dosis con el mayor efecto por peso invertido, que resultó ser de trece sesiones individuales. En 2026 el programa atendió a cerca de 1.400 jóvenes con ese protocolo e incorporó un componente de reducción de daños sobre el consumo de drogas.
 
 </div>
 </div>
@@ -38,11 +30,7 @@ El resultado es un programa de gobierno que mejora con cada iteración porque la
 
 **Aliado:** Gobernación de Antioquia
 
-En Antioquia, las mujeres dedican hasta 14 horas diarias al trabajo de cuidado no remunerado y asumen la responsabilidad exclusiva en el 65% de los hogares. Los hombres participan marginalmente. Esta asimetría restringe directamente la participación laboral femenina: las mujeres que pasan el día cuidando niños, adultos mayores y otros miembros del hogar no pueden acceder a empleo remunerado. El resultado es un ciclo en el que la distribución desigual del tiempo produce dependencia económica, erosiona la autonomía femenina y reduce la productividad agregada.
-
-El Sistema del Cuidado interviene a nivel estructural. En lugar de compensar a las mujeres por la carga que ya llevan, el sistema redistribuye la responsabilidad del cuidado a través de cuatro canales: infraestructura física (centros de cuidado y espacios comunitarios), formación y profesionalización de cuidadores, programas de transformación cultural (incluyendo la promoción de masculinidades corresponsables y educación en economía del cuidado) y coordinación intersectorial entre agencias gubernamentales.
-
-El diseño apunta a las condiciones institucionales y culturales que sostienen la desigualdad de género —no a los síntomas. Los efectos esperados se acumulan en el tiempo: las horas liberadas se traducen en ingreso al mercado laboral, lo que genera ingresos, lo que modifica el poder de negociación en el hogar, lo que altera la distribución del cuidado en la siguiente generación.
+En Antioquia, las mujeres dedican hasta 14 horas al día al trabajo de cuidado no remunerado. En el 65 % de los hogares lo asumen solas. Esas horas no pueden ir al trabajo remunerado, lo que mantiene baja su participación laboral y su ingreso. El sistema de cuidado de la Gobernación trabaja en cuatro frentes: centros de cuidado y espacios comunitarios, formación de cuidadoras y cuidadores, programas culturales (incluido trabajo con hombres sobre la corresponsabilidad en el cuidado) y coordinación entre entidades del gobierno. Si funciona como está diseñado, las horas que libera deberían verse primero en más mujeres con empleo remunerado y, más adelante, en un reparto más equilibrado del cuidado dentro de los hogares.
 
 </div>
 </div>
@@ -59,13 +47,7 @@ El diseño apunta a las condiciones institucionales y culturales que sostienen l
 
 **Aliado:** OCENSA (Oleoducto Central S.A.)
 
-Cuarenta y nueve municipios se ubican a lo largo de la ruta del oleoducto central de Colombia. La mayoría tiene capacidad administrativa limitada —dificultad para formular proyectos ante mecanismos de financiación nacional, planificación territorial débil y equipos técnicos reducidos. El enfoque convencional de responsabilidad social corporativa en zonas extractivas transfiere recursos. Este proyecto transfiere capacidades.
-
-El Centro capacitó a funcionarios municipales en formulación de proyectos bajo mecanismos de financiación pública, planificación territorial y gestión fiscal. La lógica sigue un principio bien documentado en desarrollo: las mejoras más duraderas en el bienestar local provienen no de inyectar dinero, sino de fortalecer las instituciones que deciden cómo se gasta el dinero.
-
-Los efectos operan en dos niveles. A nivel institucional, administraciones municipales más fuertes producen gasto público de mayor calidad y ganan legitimidad ante los ciudadanos —dos factores estrechamente asociados con la reducción del conflicto social en zonas extractivas. A nivel comunitario, los procesos de planificación participativa y los mecanismos de rendición de cuentas crean canales estructurados de diálogo entre la empresa y los territorios, reemplazando la negociación ad hoc con rutinas institucionales.
-
-El proyecto cambia las condiciones que producen el subdesarrollo territorial en lugar de compensar sus consecuencias.
+Cuarenta y nueve municipios están sobre la ruta del oleoducto central de Colombia. La mayoría tiene equipos técnicos pequeños. Les cuesta formular proyectos que califiquen a financiación nacional o planear el uso de su territorio. El Centro capacitó a funcionarios municipales en formulación de proyectos para mecanismos de financiación pública, planeación territorial y gestión fiscal. El proyecto también creó rutinas de planeación participativa y rendición de cuentas, que dan a la empresa y a los municipios un canal regular de diálogo.
 
 </div>
 </div>
@@ -82,11 +64,7 @@ El proyecto cambia las condiciones que producen el subdesarrollo territorial en 
 
 **Aliado:** Cementos Argos
 
-La mayoría de las intervenciones de vivienda entregan materiales. Hogares Saludables parte de los mismos objetos físicos —un piso de concreto, un baño, una cocina— pero estructura el proceso para que las familias aprendan a construir, participen en cada etapa y terminen con apropiación sobre su propia transformación. La distinción importa porque determina si la intervención produce una transferencia única o un cambio sostenido en el comportamiento del hogar.
-
-Los resultados confirman el mecanismo. Después de la intervención, los niños se enferman con menos frecuencia, los adultos duermen mejor, el bienestar reportado aumenta y las familias comienzan a invitar personas a sus hogares —algo que muchas evitaban antes. El programa ha mejorado más de 10.000 viviendas y alcanzado a 25.000 personas en Colombia. Se están realizando réplicas en República Dominicana, Puerto Rico, Honduras y Panamá.
-
-Hogares Saludables demuestra que modificar una estructura física puede transformar la salud, la cohesión social y la autopercepción dentro de un hogar —siempre que el proceso esté diseñado para activar la agencia en lugar de entregar caridad.
+Hogares Saludables, de Cementos Argos, mejora pisos, baños y cocinas en viviendas de bajos ingresos. Las familias participan en cada etapa, incluida la construcción. El programa ha mejorado más de 10.000 viviendas y ha llegado a 25.000 personas en Colombia. Tiene réplicas en República Dominicana, Puerto Rico, Honduras y Panamá. Las familias participantes reportan que sus hijos se enferman menos, que los adultos duermen mejor y que ahora invitan gente a casas que antes evitaban mostrar.
 
 </div>
 </div>
@@ -95,6 +73,4 @@ Hogares Saludables demuestra que modificar una estructura física puede transfor
 
 ## Trabaje con nosotros
 
-El Centro desarrolla proyectos de investigación aplicada, diseño de políticas y evaluación de programas con gobiernos, organizaciones multilaterales, ONG y empresas privadas. Para consultas, escriba a [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co).
-
-[Visite el Centro en EAFIT →](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico)
+El Centro desarrolla proyectos de investigación, diseño de políticas y evaluación con gobiernos, organismos multilaterales, ONG y empresas privadas. Para consultas, escriba a [stobonz@eafit.edu.co](mailto:stobonz@eafit.edu.co) o visite el [Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).

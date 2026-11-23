@@ -32,7 +32,7 @@ En 2024 recibí el Premio Medellín Investiga, que se otorga cada año al mejor 
 - **Maestría en Economía**, Universidad de los Andes (2017)
 - **Maestría en Economía**, Université catholique de Louvain (2012)
 - **Maestría en Administración**, Universidad EAFIT (2011)
-- **Pregrado en Ingeniería Informática**, Universidad EIA (2007)
+- **Ingeniería Informática** (hoy Ingeniería de Sistemas), Universidad EIA (2007)
 
 ## Para medios
 
