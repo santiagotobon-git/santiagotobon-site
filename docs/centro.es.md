@@ -1,12 +1,11 @@
 # Centro de Valor Público
 
-El Centro de Valor Público es el centro de investigación aplicada en política pública de la Universidad EAFIT. Diseña y evalúa programas públicos con gobiernos, organismos internacionales y empresas. Su trabajo se organiza en cinco iniciativas: seguridad y justicia, gobierno y democracia, desarrollo económico, equidad y desarrollo social, e innovación social. Dirijo el Centro desde 2025. Sus publicaciones, notas de política y equipo están en la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
+El Centro de Valor Público es el centro de investigación aplicada en política pública de la Universidad EAFIT. Diseña y evalúa programas públicos con gobiernos, organismos internacionales y empresas. Su trabajo se organiza en cinco iniciativas: seguridad y justicia, gobierno y democracia, desarrollo económico, innovación social, y equidad y desarrollo social. Dirijo el Centro desde 2025. Sus publicaciones, notas de política y equipo están en la [página del Centro en EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="626" height="623" src="../../img/parceros.jpg" style="object-position: center 20%" alt="Dos jóvenes de Parceros Creadores mirando un celular en un barrio de Medellín">
+<img loading="lazy" decoding="async" width="626" height="313" src="../../img/parceros.jpg" alt="Dos jóvenes de Parceros Creadores mirando un celular en un barrio de Medellín">
 </div>
 <div class="project-text" markdown>
 
@@ -21,7 +20,6 @@ La Secretaría opera el programa como una secuencia de experimentos. Cada cohort
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-text" markdown>
@@ -35,11 +33,10 @@ En Antioquia, las mujeres dedican hasta 14 horas al día al trabajo de cuidado n
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="852" height="852" src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander" style="object-position: center top">
+<img loading="lazy" decoding="async" width="900" height="450" src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander">
 </div>
 <div class="project-text" markdown>
 
@@ -52,11 +49,10 @@ Cuarenta y nueve municipios están sobre la ruta del oleoducto central de Colomb
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="900" height="900" src="../../img/hogares.jpg" alt="Una cuidadora y tres niños pequeños dibujando con tiza en el piso de su casa">
+<img loading="lazy" decoding="async" width="900" height="450" src="../../img/hogares.jpg" alt="Una cuidadora y tres niños pequeños dibujando con tiza en el piso de su casa">
 </div>
 <div class="project-text" markdown>
 
@@ -69,7 +65,6 @@ Hogares Saludables, de Cementos Argos, mejora pisos, baños y cocinas en viviend
 </div>
 </div>
 
----
 
 ## Trabaje con nosotros
 

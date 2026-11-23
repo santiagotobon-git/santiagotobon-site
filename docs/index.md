@@ -7,7 +7,6 @@
 </div>
 <figure>
 <img src="img/tedx-stage.jpg" srcset="img/tedx-stage-800.jpg 800w, img/tedx-stage.jpg 1800w" sizes="(max-width: 900px) 100vw, 560px" width="1800" height="1200" alt="Santiago Tobón on stage at TEDxUniversidad EAFIT">
-<figcaption>TEDxUniversidad EAFIT, October 2026</figcaption>
 </figure>
 </section>
 
@@ -23,7 +22,10 @@
 </section>
 
 <figure class="photo-band">
-<img src="img/tedx-room.jpg" srcset="img/tedx-room-1200.jpg 1200w, img/tedx-room.jpg 2400w" sizes="100vw" width="2400" height="1600" loading="lazy" decoding="async" alt="Santiago Tobón speaking to a full auditorium at TEDxUniversidad EAFIT">
+<picture>
+<source media="(max-width: 640px)" srcset="img/tedx-room-mobile.jpg" width="900" height="620">
+<img src="img/tedx-room-1600.jpg" srcset="img/tedx-room-800.jpg 800w, img/tedx-room-1600.jpg 1600w, img/tedx-room-2400.jpg 2400w" sizes="100vw" width="2400" height="1600" loading="lazy" decoding="async" alt="Santiago Tobón speaking to a full auditorium at TEDxUniversidad EAFIT">
+</picture>
 <figcaption>Speaking at TEDxUniversidad EAFIT, October 2026</figcaption>
 </figure>
 
@@ -40,9 +42,9 @@
 <section class="band band-dark" aria-labelledby="book-h">
 <div class="wrap">
 <div class="book-feature">
-<p class="eyebrow">Forthcoming book · Penguin Random House, 2027</p>
+<p class="eyebrow">Forthcoming book · <span style="white-space: nowrap">Penguin Random House, 2027</span></p>
 <h2 id="book-h">COCAÍNA: <em>Anatomía de un mercado prohibido</em></h2>
-<p>The book follows a gram of cocaine from a coca leaf on an Andean hillside to a line of powder in a European bar. It shows how prohibition sets the rules of the trade, and why each crackdown favors the organizations most capable of violence and corruption. The book is written in Spanish.</p>
+<p>The book traces a gram of cocaine through each link of the trade: cultivation, processing, trafficking, retail sale and money laundering. It shows how prohibition sets the rules of that trade, and why each crackdown favors the organizations most capable of violence and corruption. The book is written in Spanish.</p>
 <a href="book/">About the book →</a>
 </div>
 </div>

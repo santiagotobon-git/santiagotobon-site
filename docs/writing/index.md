@@ -115,7 +115,6 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 ## Columns and blog posts {#columns}
 
 - [¿Puede la salud mental prevenir la violencia escolar? Lecciones desde Medellín, Colombia](https://www.iadb.org/es/blog/educacion/puede-la-salud-mental-prevenir-la-violencia-escolar-lecciones-desde-medellin-colombia), Enfoque Educación, Inter-American Development Bank (2026)
-- [Daniel Mejía y Santiago Tobón analizan el inmenso desafío que enfrentará De La Espriella en la lucha contra las drogas](https://www.semana.com/nacion/articulo/daniel-mejia-y-santiago-tobon-analizan-el-inmenso-desafio-que-enfrentara-de-la-espriella-en-la-lucha-contra-las-drogas/202613/), Semana (2026)
 - [Proteger empleos del pasado es sacrificar los del futuro](https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/proteger-empleos-del-pasado-es-sacrificar-los-del-futuro/), La Silla Vacía (2026)
 - [Con el crimen organizado no hay qué negociar](https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/con-el-crimen-organizado-no-hay-que-negociar/), La Silla Vacía (2026)
 - [Prevenir el suicidio comienza con tratar la depresión universitaria](https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/prevenir-el-suicidio-comienza-con-tratar-la-depresion-universitaria/), La Silla Vacía (2026)
@@ -156,6 +155,7 @@ Policy notes and reports, columns and blog posts, press coverage of my research,
 
 ## Press coverage {#press-coverage}
 
+- [Daniel Mejía y Santiago Tobón analizan el inmenso desafío que enfrentará De La Espriella en la lucha contra las drogas](https://www.semana.com/nacion/articulo/daniel-mejia-y-santiago-tobon-analizan-el-inmenso-desafio-que-enfrentara-de-la-espriella-en-la-lucha-contra-las-drogas/202613/), Semana, interview with Daniel Mejía (2026)
 - [Cocaine surpasses oil as Colombia's top export sector: Study](https://www.aa.com.tr/en/americas/cocaine-surpasses-oil-as-colombia-s-top-export-sector-study/4043190), Anadolu Agency, cites The Producer's Cut (2026)
 - [Así se mueve el lavado de activos durante el boom de la cocaína colombiana: finca raíz, tierras y contrabando son claves](https://www.valoraanalitik.com/asi-se-mueve-el-lavado-de-activos-durante-el-boom-de-la-cocaina-colombiana-finca-raiz-tierras-y-contrabando-son-claves/), Valora Analitik, quotes me (2026)
 - [La cocaína superó al petróleo: las claves del reportaje de The Economist sobre Colombia](https://www.elespectador.com/mundo/america/la-cocaina-supero-al-petroleo-las-claves-del-reportaje-de-the-economist-sobre-colombia/), El Espectador, cites The Producer's Cut (2026)

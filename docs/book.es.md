@@ -2,9 +2,9 @@
 
 ## El libro
 
-*COCAÍNA: Anatomía de un mercado prohibido* es mi primer libro. El manuscrito está terminado —una introducción y quince capítulos— y está bajo contrato con Penguin Random House Grupo Editorial, que prevé publicarlo en 2027. Los demás detalles aparecerán en esta página a medida que se confirmen.
+*COCAÍNA: Anatomía de un mercado prohibido* es mi primer libro. El manuscrito está terminado —una introducción y quince capítulos— y está bajo contrato con Penguin Random House Grupo Editorial, que prevé publicarlo en 2027.
 
-El libro recorre la vida de un gramo de cocaína, desde la hoja en una ladera andina hasta la línea de polvo en un bar europeo, y desde la venta en una esquina hasta la transferencia que blanquea las ganancias. Hoy se produce y se consume más cocaína que nunca desde que existen registros sistemáticos. Según estimaciones de Naciones Unidas, la producción alcanzó 2.757 toneladas de cocaína pura en 2022 y 3.708 toneladas en 2023, y alrededor de 25 millones de personas la consumen en el mundo. La mayoría de esos consumidores vive en América del Norte, Europa y algunas grandes ciudades de América del Sur. Los costos más altos recaen en otra parte. América Latina y el Caribe, con cerca del 8% de la población mundial, concentran casi un tercio de los homicidios del planeta, y buena parte de esa violencia se relaciona con el tráfico de drogas.
+El libro sigue un gramo de cocaína por cada eslabón del negocio. Empieza con una hoja de coca en una ladera andina y termina con la transferencia que blanquea las ganancias de una venta en un bar europeo. Hoy se produce y se consume más cocaína que nunca desde que existen registros sistemáticos. Según estimaciones de Naciones Unidas, la producción alcanzó 2.757 toneladas de cocaína pura en 2022 y 3.708 toneladas en 2023, y alrededor de 25 millones de personas la consumen en el mundo. La mayoría de esos consumidores vive en América del Norte, Europa y algunas grandes ciudades de América del Sur. Los costos más altos recaen en otra parte. América Latina y el Caribe, con cerca del 8% de la población mundial, concentran casi un tercio de los homicidios del planeta, y buena parte de esa violencia se relaciona con el tráfico de drogas.
 
 ## Qué argumenta el libro
 
@@ -15,8 +15,6 @@ En cada eslabón, el precio incorpora una prima por el riesgo de perder la merca
 El libro desarrolla este argumento eslabón por eslabón. Examina la economía rural de la coca, la química y la logística del procesamiento, las rutas del tráfico y la corrupción que las mantiene abiertas, los mercados minoristas y la gobernanza criminal en las ciudades, la salud pública y la neurociencia de la demanda, y la economía política que sostiene la prohibición. Medellín aparece como caso recurrente. He trabajado allí durante más de una década con equipos de investigación, autoridades locales y organizaciones comunitarias, en barrios donde grupos armados deciden quién paga extorsión y cómo se resuelven los conflictos.
 
 ## Contenido
-
-El libro abre con una introducción y desarrolla el argumento en quince capítulos.
 
 1. Los costos del mercado de cocaína
 2. La cadena de valor de la cocaína

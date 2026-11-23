@@ -2,11 +2,10 @@
 
 The Centro de Valor Público is Universidad EAFIT's applied policy research center. It designs and evaluates public programs with governments, international organizations and firms. Its work falls into five initiatives: security and justice, government and democracy, economic development, social innovation, and equity and social development. I have directed the Centro since 2025. Its publications, policy notes and team are listed on the [Centro's page at EAFIT](https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico).
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="626" height="623" src="../img/parceros.jpg" style="object-position: center 20%" alt="Two young participants of Parceros Creadores looking at a phone in a Medellín neighborhood">
+<img loading="lazy" decoding="async" width="626" height="313" src="../img/parceros.jpg" alt="Two young participants of Parceros Creadores looking at a phone in a Medellín neighborhood">
 </div>
 <div class="project-text" markdown>
 
@@ -21,7 +20,6 @@ The Secretaría runs the program as a sequence of experiments. Each cohort answe
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-text" markdown>
@@ -35,11 +33,10 @@ In Antioquia, women spend up to 14 hours a day on unpaid care work. In 65 percen
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="852" height="852" src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander" style="object-position: center top">
+<img loading="lazy" decoding="async" width="900" height="450" src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander, along the pipeline route">
 </div>
 <div class="project-text" markdown>
 
@@ -52,11 +49,10 @@ Forty-nine municipalities sit along the route of Colombia's central oil pipeline
 </div>
 </div>
 
----
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="900" height="900" src="../img/hogares.jpg" alt="A caregiver and three young children drawing with chalk on the floor of their home">
+<img loading="lazy" decoding="async" width="900" height="450" src="../img/hogares.jpg" alt="A caregiver and three young children drawing with chalk on the floor of their home">
 </div>
 <div class="project-text" markdown>
 
@@ -69,7 +65,6 @@ Hogares Saludables, run by Cementos Argos, improves floors, bathrooms and kitche
 </div>
 </div>
 
----
 
 ## Work with us
 

@@ -2,9 +2,9 @@
 
 ## The book
 
-*COCAÍNA: Anatomía de un mercado prohibido* is my first book. The manuscript is finished—an introduction and fifteen chapters—and is under contract with Penguin Random House Grupo Editorial, with publication expected in 2027. Further details will appear on this page as they are confirmed.
+*COCAÍNA: Anatomía de un mercado prohibido* is my first book. The manuscript is finished—an introduction and fifteen chapters—and is under contract with Penguin Random House Grupo Editorial, with publication expected in 2027.
 
-The book follows the life of a gram of cocaine, from a coca leaf on an Andean hillside to a line of powder in a European bar, and from a street-corner sale to the bank transfer that launders the proceeds. More cocaine is produced and consumed today than at any time since systematic records began. United Nations estimates put production at 2,757 tons of pure cocaine in 2022 and 3,708 tons in 2023, with around 25 million consumers worldwide. Most of those consumers live in North America, Europe, and a few large South American cities. The heaviest costs fall elsewhere. Latin America and the Caribbean hold about 8 percent of the world's population and concentrate close to a third of its homicides, and much of that violence is tied to the drug trade.
+The book traces a gram of cocaine through each link of the trade. It begins with a coca leaf on an Andean hillside and ends with the bank transfer that launders the proceeds of a sale in a European bar. More cocaine is produced and consumed today than at any time since systematic records began. United Nations estimates put production at 2,757 tons of pure cocaine in 2022 and 3,708 tons in 2023, with around 25 million consumers worldwide. Most of those consumers live in North America, Europe, and a few large South American cities. The heaviest costs fall elsewhere. Latin America and the Caribbean hold about 8 percent of the world's population and concentrate close to a third of its homicides, and much of that violence is tied to the drug trade.
 
 ## What the book argues
 
@@ -15,8 +15,6 @@ At each link, the price builds in a premium for the risk of losing the merchandi
 The book develops this argument link by link. It examines the rural economy of coca, the chemistry and logistics of processing, the trafficking routes and the corruption that keeps them open, retail markets and criminal governance in the cities, the public health and neuroscience of demand, and the political economy that holds prohibition in place. Medellín appears as a recurring case. I have worked there for over a decade with research teams, local authorities, and community organizations, in neighborhoods where armed groups decide who pays extortion and how disputes get resolved.
 
 ## Contents
-
-The book opens with an introduction and develops the argument across fifteen chapters.
 
 1. The costs of the cocaine market
 2. The cocaine value chain

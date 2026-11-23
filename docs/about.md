@@ -2,7 +2,7 @@
 
 ## What I study
 
-I study how organized crime operates and what governments can do about it. My research agenda spans four areas: how criminal organizations govern communities and sustain themselves, how policing and civilian alternatives to enforcement affect public safety, how prison conditions shape recidivism, and how policy interventions in illicit markets produce intended and unintended consequences.
+I study how organized crime operates and what governments can do about it. My research agenda spans four areas: how criminal organizations govern communities and sustain themselves, how policing and civilian alternatives to enforcement affect public safety, how prison conditions shape recidivism, and what drug policy does to the markets it targets.
 
 Most of my empirical work takes place in Colombian cities—particularly Medellín and Bogotá—where I run field experiments, collect original survey data, and work directly with municipal governments and police forces. My research has been published in the *Review of Economic Studies*, the *American Political Science Review*, the *Review of Economics and Statistics*, the *Journal of the European Economic Association*, and the *Journal of Development Economics*.
 
@@ -22,9 +22,9 @@ I have held visiting positions at the University of Chicago Harris School of Pub
 
 ## Awards
 
-In 2020, I received the [Juan Luis Londoño Medal](https://fedesarrollo.org.co/especiales/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, Colombia's leading independent economic research center. My acceptance speech, "Reflexiones sobre crimen y violencia," is available as a [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) and on [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
+In 2020, I received the [Juan Luis Londoño Medal](https://fedesarrollo.org.co/especiales/premio-londono), which recognizes Colombians aged 40 or under whose research has shaped public policy. The prize is awarded every two years and hosted by Fedesarrollo, the economic research center in Bogotá. My acceptance speech, "Reflexiones sobre crimen y violencia," is available as a [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) and on [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
 
-In 2024, I received the Medellín Investiga Prize, awarded every year to the best research project on Medellín's most important development challenges.
+In 2024, I received the Medellín Investiga Prize, awarded each year to a research project on Medellín's development.
 
 ## Education
 

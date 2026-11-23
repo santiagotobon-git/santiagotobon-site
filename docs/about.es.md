@@ -2,7 +2,7 @@
 
 ## Qué estudio
 
-Estudio cómo opera el crimen organizado y qué pueden hacer los gobiernos al respecto. Mi agenda de investigación abarca cuatro áreas: cómo las organizaciones criminales gobiernan comunidades y se sostienen, cómo la policía y las alternativas civiles a la aplicación de la ley afectan la seguridad pública, cómo las condiciones carcelarias inciden en la reincidencia, y cómo las intervenciones de política en mercados ilícitos producen consecuencias previstas e imprevistas.
+Estudio cómo opera el crimen organizado y qué pueden hacer los gobiernos al respecto. Mi agenda de investigación abarca cuatro áreas: cómo las organizaciones criminales gobiernan comunidades y se sostienen, cómo la policía y las alternativas civiles a la aplicación de la ley afectan la seguridad pública, cómo las condiciones carcelarias inciden en la reincidencia, y qué efectos tiene la política de drogas sobre los mercados a los que apunta.
 
 La mayor parte de mi trabajo empírico se desarrolla en ciudades colombianas —particularmente Medellín y Bogotá— donde realizo experimentos de campo, recolecto datos originales de encuestas y trabajo directamente con gobiernos municipales y fuerzas de policía. Mi investigación ha sido publicada en el *Review of Economic Studies*, el *American Political Science Review*, el *Review of Economics and Statistics*, el *Journal of the European Economic Association* y el *Journal of Development Economics*.
 
@@ -18,13 +18,13 @@ Tengo las siguientes afiliaciones:
 - **IPA**, investigador
 - **EGAP**, miembro académico y de la Junta Directiva
 
-He sido profesor visitante en la Harris School of Public Policy de la Universidad de Chicago, el Banco Interamericano de Desarrollo y UNU-WIDER. Antes de vincularme a EAFIT, fui investigador posdoctoral en la Harris School of Public Policy de la Universidad de Chicago y en Innovations for Poverty Action.
+He tenido cargos de investigador visitante en la Harris School of Public Policy de la Universidad de Chicago, el Banco Interamericano de Desarrollo y UNU-WIDER. Antes de vincularme a EAFIT, fui investigador posdoctoral en la Harris School of Public Policy de la Universidad de Chicago y en Innovations for Poverty Action.
 
 ## Premios
 
-En 2020 recibí la [Medalla Juan Luis Londoño](https://fedesarrollo.org.co/especiales/premio-londono), que reconoce a colombianos de 40 años o menos cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el principal centro independiente de investigación económica de Colombia. Mi discurso de aceptación, "Reflexiones sobre crimen y violencia", está disponible en [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) y en [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
+En 2020 recibí la [Medalla Juan Luis Londoño](https://fedesarrollo.org.co/especiales/premio-londono), que reconoce a colombianos de 40 años o menos cuya investigación ha incidido en la política pública. El premio se otorga cada dos años y es organizado por Fedesarrollo, el centro de investigación económica con sede en Bogotá. Mi discurso de aceptación, "Reflexiones sobre crimen y violencia", está disponible en [PDF](https://web.archive.org/web/20211026222711/https://www.fedesarrollo.org.co/sites/default/files/premio_medalla_juan_luis_londono.pdf) y en [video](https://www.youtube.com/watch?v=Y6y2BcYO5Jo).
 
-En 2024 recibí el Premio Medellín Investiga, que se otorga cada año al mejor proyecto de investigación sobre los principales retos de desarrollo de Medellín.
+En 2024 recibí el Premio Medellín Investiga, que se otorga cada año a un proyecto de investigación sobre el desarrollo de Medellín.
 
 ## Educación
 

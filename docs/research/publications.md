@@ -2,7 +2,7 @@
 
 # Research
 
-Journal articles, working papers, book chapters, and commentaries. Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing).
+Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing).
 
 ## Journal articles {#journal-articles}
 
@@ -135,7 +135,7 @@ Journal articles, working papers, book chapters, and commentaries. Policy notes 
 
 <div class="pub-entry">
 <span class="pub-title">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
-<span class="pub-meta">Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press. In production.</span>
+<span class="pub-meta">Edited with Patricia Justino, Zachariah Mampilly, Gauthier Marchais, and Anna D'Souza, Oxford University Press. Forthcoming.</span>
 </div>
 
 ## Book chapters {#book-chapters}

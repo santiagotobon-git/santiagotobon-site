@@ -23,8 +23,7 @@ TEXT = {
         "with": "with", "and": "and", "in": "In", "abstract": "Abstract",
         "show": "Show all {n}",
         "research_title": "Research",
-        "research_intro": ("Journal articles, working papers, book chapters, and commentaries. "
-                           "Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing)."),
+        "research_intro": ("Policy notes and reports are listed under [Writing and media](../writing/index.md#policy-writing)."),
         "policy_title": "Policy writing and reports",
         "policy_intro": ("Policy notes, briefing notes, and technical reports. "
                          "Journal articles and working papers are listed under [Research](../research/publications.md)."),
@@ -33,8 +32,7 @@ TEXT = {
         "with": "con", "and": "y", "in": "En", "abstract": "Resumen",
         "show": "Ver los {n}",
         "research_title": "Investigación",
-        "research_intro": ("Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios. "
-                           "Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing)."),
+        "research_intro": ("Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing)."),
         "policy_title": "Escritos de política e informes",
         "policy_intro": ("Notas de política, notas informativas e informes técnicos. "
                          "Los artículos y documentos de trabajo están en [Investigación](../research/publications.md)."),

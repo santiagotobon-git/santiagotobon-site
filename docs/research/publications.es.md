@@ -2,7 +2,7 @@
 
 # Investigación
 
-Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios. Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing).
+Las notas de política e informes están en [Escritos y medios](../writing/index.md#policy-writing).
 
 ## Artículos en revistas {#journal-articles}
 
@@ -135,7 +135,7 @@ Artículos en revistas, documentos de trabajo, capítulos de libro y comentarios
 
 <div class="pub-entry">
 <span class="pub-title" lang="en">Wartime Taxation: State-building, State Capacity and the Role of Formal and Informal Taxes</span>
-<span class="pub-meta">Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press. En producción.</span>
+<span class="pub-meta">Editado con Patricia Justino, Zachariah Mampilly, Gauthier Marchais y Anna D'Souza, Oxford University Press. En prensa.</span>
 </div>
 
 ## Capítulos de libro {#book-chapters}
