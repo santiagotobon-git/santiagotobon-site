@@ -36,7 +36,7 @@ In Antioquia, women spend up to 14 hours a day on unpaid care work. In 65 percen
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="900" height="450" src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander, along the pipeline route">
+<img loading="lazy" decoding="async" width="852" height="426" src="../img/ocensa.jpg" alt="Mountains and waterfalls in Florián, Santander, along the pipeline route">
 </div>
 <div class="project-text" markdown>
 

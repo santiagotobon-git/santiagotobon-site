@@ -36,7 +36,7 @@ En Antioquia, las mujeres dedican hasta 14 horas al día al trabajo de cuidado n
 
 <div class="project-row" markdown>
 <div class="project-img">
-<img loading="lazy" decoding="async" width="900" height="450" src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander">
+<img loading="lazy" decoding="async" width="852" height="426" src="../../img/ocensa.jpg" alt="Montañas y cascadas en Florián, Santander">
 </div>
 <div class="project-text" markdown>
 
